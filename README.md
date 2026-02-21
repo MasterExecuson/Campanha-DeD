@@ -1,2 +1,10 @@
-# D-D-Notes
-Obsidian Based D&amp;D notes
+# Notas da Campanha de D&D
+
+
+Ferramenta: Obsidian
+
+Dungeon Master: Dan
+
+
+
+
