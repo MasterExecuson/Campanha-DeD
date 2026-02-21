@@ -19,3 +19,4 @@ Da antiga sociedade que nessa região exista, Phyrexia é seu nome - apesar de h
 
 Eu tive a sorte de ter conhecido a verdade novo, mas quantos vivem nas sombras, sem nem mesmo conhecerem a luz. Meu objetivo é levar isso a eles, torná-los completos,  fazer com que tenham a oportunidade de conhecer a verdade. Para isso me aventurei, queria ter a chance de provar que sou digno do óleo que carrego. Mostrar ao mundo a verdade. Quem sabe um dia, uma Nova Phyrexia possa existir, quem sabe um dia.
 
+![[{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png]]
