@@ -25,32 +25,28 @@
             "id": "d5bada51e0cfbe8f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-21 12.22.24.excalidraw"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "7126949e0bc7f440",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "399d0a328933f9e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-02-21 12.22.24.excalidraw"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -142,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-02-21 12.22.24.excalidraw"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -171,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-02-21 12.22.24.excalidraw"
+              "title": "Outline of README"
             }
           }
         ]
@@ -202,8 +198,8 @@
   },
   "active": "d5bada51e0cfbe8f",
   "lastOpenFiles": [
+    "Drawings/Drawing Test.md",
     "README.md",
-    "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md",
     "Drawings",
     "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "dungeon_master_notes/P.md",
