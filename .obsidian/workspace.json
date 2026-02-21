@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "d5bada51e0cfbe8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-21 12.22.24.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7126949e0bc7f440",
@@ -110,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Drawing 2026-02-21 12.22.24.excalidraw"
             }
           },
           {
@@ -128,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Drawing 2026-02-21 12.22.24.excalidraw"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dungeon_master_notes/P.md",
+                "file": "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of P"
+              "title": "Outline of Drawing 2026-02-21 12.22.24.excalidraw"
             }
           }
         ]
@@ -185,13 +200,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d5b1fc35c851b1c",
+  "active": "d5bada51e0cfbe8f",
   "lastOpenFiles": [
-    "dungeon_master_notes/test2.md",
+    "README.md",
+    "Drawings/Drawing 2026-02-21 12.22.24.excalidraw.md",
+    "Drawings",
+    "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "dungeon_master_notes/P.md",
+    "dungeon_master_notes/test2.md",
     "dungeon_master_notes",
     "Nova pasta",
-    "README.md",
     ".gitignore.md",
     "Untitled 1.md",
     "Welcome.md"
