@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "backstory/Varfrrex - clerigo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,23 +42,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Varfrrex - clerigo"
             }
           },
           {
-            "id": "7c955f6eafd48fdc",
+            "id": "e995651be7123b6b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Drawings/varfrrex.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "excalidraw-icon",
+              "title": "varfrrex.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +209,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7c955f6eafd48fdc",
+  "active": "d5bada51e0cfbe8f",
   "lastOpenFiles": [
-    "Drawings/Drawing Test.md",
+    "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
+    "backstory/attachments/{1A67ABF1-F625-4E55-ADD1-47771434B8CD}.png",
+    "backstory/Varfrrex - clerigo.md",
+    "backstory/attachments",
+    "Drawings/varfrrex.excalidraw.md",
     "README.md",
+    "Untitled.md",
+    "backstory",
+    "Drawings/Drawing Test.md",
     "Drawings",
     "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "dungeon_master_notes/P.md",
