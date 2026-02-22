@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
+                "file": "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "O Cataclisma em Ar Cardalen"
+              "title": "{PLACEHOLDER} Império Cariano"
+            }
+          },
+          {
+            "id": "883b999fd073f6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Cária.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Cária"
+            }
+          },
+          {
+            "id": "1e0607684335f7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Império Cariano"
             }
           },
           {
@@ -51,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/Magia Axé.md",
+                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Axé.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,7 +114,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Magia Axé"
+              "title": "{PLACEHOLDER} Magia Axé"
             }
           },
           {
@@ -247,10 +295,14 @@
   },
   "active": "d5bada51e0cfbe8f",
   "lastOpenFiles": [
-    "dungeon_master_notes/Magia Axé.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
+    "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
     "dungeon_master_notes/Planilha de Nomes.md",
-    "dungeon_master_notes/Império Cariano.md",
+    "dungeon_master_notes/{PLACEHOLDER} Cária.md",
+    "dungeon_master_notes/Edumir Galafrinel.md",
+    "dungeon_master_notes/{PLACEHOLDER} Ritual de Ascendência.md",
+    "dungeon_master_notes/{PLACEHOLDER} Continente.md",
+    "dungeon_master_notes/{PLACEHOLDER} Magia Axé.md",
     "backstory/Varfrrex - clerigo.md",
     "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "Drawings/varfrrex.excalidraw.md",
