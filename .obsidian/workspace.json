@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backstory/Varfrrex - clerigo.md",
+                "file": "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Varfrrex - clerigo"
+              "title": "O Cataclisma em Ar Cardalen"
+            }
+          },
+          {
+            "id": "d27e4a5edaacd494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/Império Cariano.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Império Cariano"
             }
           },
           {
@@ -70,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,10 +245,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5bada51e0cfbe8f",
+  "active": "d27e4a5edaacd494",
   "lastOpenFiles": [
-    "Drawings/varfrrex.excalidraw.md",
+    "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
+    "dungeon_master_notes/Império Cariano.md",
     "backstory/Varfrrex - clerigo.md",
+    "dungeon_master_notes/Dungeon Master Secret Notes.md",
+    "Drawings/varfrrex.excalidraw.md",
+    "Drawings/Drawing Test.md",
     "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
     "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
     "backstory/attachments/{1A67ABF1-F625-4E55-ADD1-47771434B8CD}.png",
@@ -232,9 +260,7 @@
     "README.md",
     "Untitled.md",
     "backstory",
-    "Drawings/Drawing Test.md",
     "Drawings",
-    "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "dungeon_master_notes/P.md",
     "dungeon_master_notes/test2.md",
     "dungeon_master_notes",
