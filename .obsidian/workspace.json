@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/Império Cariano.md",
+                "file": "dungeon_master_notes/Magia Axé.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Império Cariano"
+              "title": "Magia Axé"
             }
           },
           {
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,9 +245,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d27e4a5edaacd494",
+  "active": "d5bada51e0cfbe8f",
   "lastOpenFiles": [
+    "dungeon_master_notes/Magia Axé.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
+    "dungeon_master_notes/Planilha de Nomes.md",
     "dungeon_master_notes/Império Cariano.md",
     "backstory/Varfrrex - clerigo.md",
     "dungeon_master_notes/Dungeon Master Secret Notes.md",
