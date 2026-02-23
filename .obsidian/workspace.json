@@ -46,18 +46,6 @@
             }
           },
           {
-            "id": "4d272c69cd5891a0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
             "id": "5738431104cf19e0",
             "type": "leaf",
             "state": {
@@ -164,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -315,7 +303,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d272c69cd5891a0",
+  "active": "d5bada51e0cfbe8f",
   "lastOpenFiles": [
     "dungeon_master_notes/Checklist Pré Sessão 1.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
