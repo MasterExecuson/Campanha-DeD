@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Axé.md",
+                "file": "dungeon_master_notes/Checklist Pré Sessão 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Magia Axé"
+              "title": "Checklist Pré Sessão 1"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Axé.md",
+                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Magia Axé"
+              "title": "{PLACEHOLDER} Magia Mana"
             }
           },
           {
@@ -319,8 +319,9 @@
   },
   "active": "5738431104cf19e0",
   "lastOpenFiles": [
+    "dungeon_master_notes/{Outline} Magia.md",
+    "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
     "dungeon_master_notes/{Outline} Elfos.md",
-    "dungeon_master_notes/Untitled.md",
     "dungeon_master_notes/Checklist Pré Sessão 1.md",
     "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
     "dungeon_master_notes/Edumir Galafrinel.md",
@@ -330,7 +331,6 @@
     "dungeon_master_notes/{PLACEHOLDER} Cária.md",
     "dungeon_master_notes/{PLACEHOLDER} Ritual de Ascendência.md",
     "dungeon_master_notes/{PLACEHOLDER} Continente.md",
-    "dungeon_master_notes/{PLACEHOLDER} Magia Axé.md",
     "backstory/Varfrrex - clerigo.md",
     "Drawings/varfrrex.excalidraw.md",
     "Drawings/Drawing Test.md",
@@ -339,7 +339,6 @@
     "backstory/attachments/{1A67ABF1-F625-4E55-ADD1-47771434B8CD}.png",
     "backstory/attachments",
     "README.md",
-    "Untitled.md",
     "backstory",
     "Drawings",
     "dungeon_master_notes/P.md",
