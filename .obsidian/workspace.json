@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/Checklist Pré Sessão 1.md",
+                "file": "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,31 +42,29 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Checklist Pré Sessão 1"
+              "title": "O Cataclisma em Ar Cardalen"
+            }
+          },
+          {
+            "id": "4d272c69cd5891a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           },
           {
             "id": "5738431104cf19e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dungeon_master_notes/Checklist Pré Sessão 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Checklist Pré Sessão 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -317,16 +315,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5738431104cf19e0",
+  "active": "4d272c69cd5891a0",
   "lastOpenFiles": [
+    "dungeon_master_notes/Checklist Pré Sessão 1.md",
+    "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
+    "dungeon_master_notes/Edumir Galafrinel.md",
     "dungeon_master_notes/{Outline} Magia.md",
     "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
     "dungeon_master_notes/{Outline} Elfos.md",
-    "dungeon_master_notes/Checklist Pré Sessão 1.md",
     "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
-    "dungeon_master_notes/Edumir Galafrinel.md",
     "dungeon_master_notes/Dungeon Master Secret Notes.md",
-    "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
     "dungeon_master_notes/Planilha de Nomes.md",
     "dungeon_master_notes/{PLACEHOLDER} Cária.md",
     "dungeon_master_notes/{PLACEHOLDER} Ritual de Ascendência.md",
