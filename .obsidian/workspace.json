@@ -46,25 +46,27 @@
             }
           },
           {
-            "id": "c804ff462e10c53a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.12.4"
-            }
-          },
-          {
             "id": "5738431104cf19e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/Planilha de Nomes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planilha de Nomes"
             }
           },
           {
@@ -315,7 +317,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c804ff462e10c53a",
+  "active": "5738431104cf19e0",
   "lastOpenFiles": [
     "dungeon_master_notes/Checklist Pré Sessão 1.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
