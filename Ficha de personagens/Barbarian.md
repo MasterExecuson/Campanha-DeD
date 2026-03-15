@@ -12,23 +12,25 @@
 **Background** | Caçador de Monstros / Herói do Povo |
 
 # Stats
-HP | AC | Speed | Initiative |
+HP | AC | Reaction | Initiative |
 :---:|:---:|:---:|:---:|
-15|?|?|?|
+10/15|?|?|?|
 
 Hit Dice | Proficiency Bonus | Temp HP | 
 :---:|:---:|:---:|
 ?|?|?|
 
 
-### Abilities
+### Ability Score
 
  | STR | DEX | CON | INT | WIS | CHA 
 ---:|:---:|:----:|:----:|:---:|:---:|:---:|
 **Stats**  | 14 | 14 | 16 | 8 | 10 | 11
 **Modifier**  | 0 | 0 | 0 | 0 | 0 | 0
 
- | D | W | P | B | WIS | CHA 
+### Saving Throws
+
+ | Death/Poison | Wands | Paralysis | Breath | Spells | +/- 
 ---:|:---:|:----:|:----:|:---:|:---:|:---:|
 **Saving Throws**  | 0 | 0 | 0 | 0 | 0 | 0 |
 
@@ -87,16 +89,24 @@ Level |Spell Slots | Prepared Spells |
  
  
 
-# Equipment
-CP | SP | EP | GP | PP |
-:---:|:---:|:---:|:---:|:---:|
-?|?|?|?|?|
+# Iventário
 
-- Greataxe
-- Crowbar
-- Saco de dormir
-- Marreta
-- Oil Flask
+Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
+:---:|:---:|:---:|:---:|:---:|
+0|0|0|0|0|
+
+1. Greataxe (1d12)
+2. Crowbar
+3. Saco de dormir
+4. Marreta
+5. Oil Flask
+6. Vazio
+7. Vazio
+8. Vazio
+9. Vazio
+10. Vazio
+11. Vazio
+12. Vazio
 
 # Personality
 ###### Personality Traits
