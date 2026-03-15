@@ -1,16 +1,12 @@
+# Nome: [[Barbarian]]
 ![[Barb.png]]
-Nome: [[Ficha Barb|Ficha Barb]]
-Raça: Humano
-Classe: Bárbaro
-Antecedente: Caçador de Monstros ou Herói do Povo
-Tendência: Chaotic good (Ele faz o bem, mas através de métodos insanos de tortura criativa).
 
 
-![[Boros.png|637]]
 Nascido na tribo BOROS onde eles usavam sua força como mercenários da humanidade contra os monstros, o Barbarian sempre foi o mais forte, o mais rápido, mais brutal e mais educado. No entanto, ele sofria de um tédio existencial profundo. Esmagar crânios de goblins era fácil demais. Matar orcs era repetitivo. Ele sentia que faltava um propósito.
+![[Boros.png|637]]
 
-![[Kevin.png|637]]
 ​Um dia, depois de saquear uma covil de goblins que haviam capturado vários missionários paladinos de um deus da Justiça e da Luz. Depois do massacre e de tomar os espólio da batalha, o Bárbaro acha curioso um pequeno cavaleiro paladino chamado kevin. E ele pregou muito bem sobre o senhor da luz e Justiça, tão bem que convenceu o Bárbaro a se converter e lhe deu um livreto ilustrado intitulado: "O Caminho do Herói: Como o Bem Vence o Mal".
+![[Kevin.png|637]]
 
 ​Como não sabia ler muito bem, ele interpretou as figuras. Nela ele viu heróis a sorrir enquanto as crias do mal choravam. E tirou a sua conclusão: "O Bem não serve apenas para derrotar o Mal. O Bem serve para fazer o Mal sofrer tanto que ele se arrependa de ter existido."
 
