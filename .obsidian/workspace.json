@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e194ef5a2809c0cb",
+        "id": "35eab31a47d7cf58",
         "type": "tabs",
         "children": [
           {
-            "id": "2ccc22845e444b41",
+            "id": "39b428bf2616736a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d5bada51e0cfbe8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backstory/Varfrrex - clerigo.md",
+                "file": "backstory/Barbarian (Barb) - Bárbaro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,119 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Varfrrex - clerigo"
-            }
-          },
-          {
-            "id": "5738431104cf19e0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png"
-              },
-              "icon": "lucide-image",
-              "title": "{5B9B8A82-86A1-4742-A82E-FB4E91423223}"
-            }
-          },
-          {
-            "id": "883b999fd073f6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Cária.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Cária"
-            }
-          },
-          {
-            "id": "1e0607684335f7e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Império Cariano"
-            }
-          },
-          {
-            "id": "d27e4a5edaacd494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Magia Mana"
-            }
-          },
-          {
-            "id": "40087e49870a2db5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/varfrrex.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "e995651be7123b6b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/varfrrex.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "title": "Barbarian (Barb) - Bárbaro"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,6 +160,16 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "a36be85cb1489eb2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ]
       }
@@ -302,13 +189,38 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "5738431104cf19e0",
+  "active": "39b428bf2616736a",
   "lastOpenFiles": [
-    "backstory/attachments/{1A67ABF1-F625-4E55-ADD1-47771434B8CD}.png",
+    "backstory/Ficha Barb.md",
+    "backstory/Barbarian (Barb) - Bárbaro.md",
+    "Templates/Char Sheet.md",
     "backstory/Varfrrex - clerigo.md",
+    "2026-03-15.md",
+    "Ficha de personagens/Ficha Barb.md",
+    "Templates",
+    "Untitled.canvas",
+    "backstory/attachments/Untitled.md",
+    "backstory/attachments/Pasted image 20260315123118.png",
+    "backstory/attachments/Pasted image 20260315123331.png",
+    "Ficha de personagem.md",
+    "Ficha de personagens",
+    "README.md",
+    "fI.md",
+    "dungeon_master_notes/Dungeon Master Secret Notes.md",
+    "Drawings/varfrrex.excalidraw.md",
+    "Drawings/Drawing Test.md",
+    "backstory/attachments/Pasted image 20260315123058.png",
+    "backstory/attachments/Pasted image 20260315122811.png",
+    "backstory/attachments/Pasted image 20260315122715.png",
+    "backstory/attachments/Pasted image 20260315122710.png",
+    "backstory/attachments/Pasted image 20260315122536.png",
+    "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
+    "backstory/attachments/{1A67ABF1-F625-4E55-ADD1-47771434B8CD}.png",
     "dungeon_master_notes/Checklist Pré Sessão 1.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
     "dungeon_master_notes/Edumir Galafrinel.md",
@@ -316,25 +228,17 @@
     "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
     "dungeon_master_notes/{Outline} Elfos.md",
     "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
-    "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "dungeon_master_notes/Planilha de Nomes.md",
     "dungeon_master_notes/{PLACEHOLDER} Cária.md",
     "dungeon_master_notes/{PLACEHOLDER} Ritual de Ascendência.md",
     "dungeon_master_notes/{PLACEHOLDER} Continente.md",
-    "Drawings/varfrrex.excalidraw.md",
-    "Drawings/Drawing Test.md",
-    "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
     "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
     "backstory/attachments",
-    "README.md",
     "backstory",
     "Drawings",
     "dungeon_master_notes/P.md",
     "dungeon_master_notes/test2.md",
     "dungeon_master_notes",
-    "Nova pasta",
-    ".gitignore.md",
-    "Untitled 1.md",
-    "Welcome.md"
+    "Nova pasta"
   ]
 }

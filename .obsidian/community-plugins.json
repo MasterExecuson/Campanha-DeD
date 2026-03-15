@@ -1,5 +1,9 @@
 [
   "obsidian-git",
   "omnisearch",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "dataview",
+  "buttons",
+  "initiative-tracker"
 ]
