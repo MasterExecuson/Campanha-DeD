@@ -47,10 +47,6 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 
 
 # Traits
-- ????
-
-
-
 ## Proficiencies
 
 - **Armor:**
