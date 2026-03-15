@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ficha de personagens/Barbarian.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -195,7 +195,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "4d5b1fc35c851b1c",
+  "active": "e225211378d4e8dc",
   "lastOpenFiles": [
     "Ficha de personagens/Background.md",
     "Ficha de personagens/Barbarian.md",

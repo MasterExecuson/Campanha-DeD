@@ -14,7 +14,7 @@
 # Stats
 HP | AC | Speed | Initiative |
 :---:|:---:|:---:|:---:|
-28|?|?|?|
+15|?|?|?|
 
 Hit Dice | Proficiency Bonus | Temp HP | 
 :---:|:---:|:---:|
@@ -28,6 +28,9 @@ Hit Dice | Proficiency Bonus | Temp HP |
 **Stats**  | 14 | 14 | 16 | 8 | 10 | 11
 **Modifier**  | 0 | 0 | 0 | 0 | 0 | 0
 
+ | D | W | P | B | WIS | CHA 
+---:|:---:|:----:|:----:|:---:|:---:|:---:|
+**Saving Throws**  | 0 | 0 | 0 | 0 | 0 | 0 |
 
 
 ### Skills
