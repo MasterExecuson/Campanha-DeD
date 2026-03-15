@@ -10,32 +10,33 @@
 **Race** | Humano |
 **Alignment** | Chaotic Good |
 **Background** | Caçador de Monstros / Herói do Povo |
+**Literate** | NO |
 
 # Stats
-HP | AC | Reaction | Initiative |
+Max HP | AC | Reaction | Initiative |
 :---:|:---:|:---:|:---:|
-10/15|?|?|?|
+15|?|?|?|
 
-Hit Dice | Proficiency Bonus | Temp HP | 
+Temp HP | Proficiency Bonus | Hit Dice | 
 :---:|:---:|:---:|
-?|?|?|
+15|?|?|
 
 
-### Ability Score
+#### Ability Score
 
  | STR | DEX | CON | INT | WIS | CHA 
 ---:|:---:|:----:|:----:|:---:|:---:|:---:|
 **Stats**  | 14 | 14 | 16 | 8 | 10 | 11
 **Modifier**  | 0 | 0 | 0 | 0 | 0 | 0
 
-### Saving Throws
+#### Saving Throws
 
- | Death/Poison | Wands | Paralysis | Breath | Spells | +/- 
----:|:---:|:----:|:----:|:---:|:---:|:---:|
-**Saving Throws**  | 0 | 0 | 0 | 0 | 0 | 0 |
+Death/Poison | Wands | Paralysis | Breath | Spells | +/- 
+:---:|:----:|:----:|:---:|:---:|:---:|
+10 | 13 | 12 | 15 | 16 | 0 |
 
 
-### Skills
+#### Skills
 
 #| Skill | Ability |
 :--:|-----|:------:|
@@ -74,6 +75,8 @@ Hit Dice | Proficiency Bonus | Temp HP |
 - Common
 - Alignment
 
+
+
 # Actions
 
 Name | ATK Bonus | Hit | Damage Type | Range
@@ -84,9 +87,7 @@ Name | ATK Bonus | Hit | Damage Type | Range
 ## Spells
 Level |Spell Slots | Prepared Spells |
 :---:|:---:|:---:|
-?|?|?|
-?|?|?|
- 
+N/A|N/A|N/A|
  
 
 # Iventário
