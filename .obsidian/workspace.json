@@ -37,31 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backstory/Varfrrex - clerigo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Varfrrex - clerigo"
-            }
-          },
-          {
-            "id": "5738431104cf19e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficha de personagens/Barbarian.md",
+                "file": "Ficha de personagens/Ida.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,91 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Barbarian"
-            }
-          },
-          {
-            "id": "883b999fd073f6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Cária.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Cária"
-            }
-          },
-          {
-            "id": "1e0607684335f7e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Império Cariano"
-            }
-          },
-          {
-            "id": "d27e4a5edaacd494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Magia Mana"
-            }
-          },
-          {
-            "id": "40087e49870a2db5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/varfrrex.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "varfrrex.excalidraw"
+              "title": "Ida"
             }
           },
           {
@@ -339,8 +231,14 @@
   },
   "active": "5738431104cf19e0",
   "lastOpenFiles": [
-    "README.md",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Ida.md",
+    "Ficha de personagens/Barbarian.md",
+    "Ficha de personagens/attachments/knight.png",
+    "Ficha de personagens/attachments/Peckii.png",
+    "Ficha de personagens/attachments",
     "World Notes/Cariuna.md",
+    "README.md",
     "World Notes/World Map - Cariuma.md",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments",
@@ -365,13 +263,14 @@
     "Ficha de personagens",
     "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
     "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
-    "backstory/attachments/{1A67ABF1-F625-4E55-ADD1-47771434B8CD}.png",
     "backstory/attachments",
     "Drawings/varfrrex.excalidraw.md",
     "Untitled.md",
     "backstory",
     "Drawings",
     "dungeon_master_notes",
-    "Nova pasta"
+    ".gitignore.md",
+    "Untitled 1.md",
+    "Welcome.md"
   ]
 }
