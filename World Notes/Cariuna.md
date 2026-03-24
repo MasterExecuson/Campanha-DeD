@@ -6,3 +6,4 @@ Cariuna é mais velha que isso, misturando raças humanas com gatos, cabras
 
 Inóspito mas próspero para aventuras
 
+[[cornos e chifrudos]]
