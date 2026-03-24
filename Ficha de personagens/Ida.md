@@ -55,7 +55,7 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 
 1. Pacote de erva de fumo (+1)
 2. Fósforos
-3. Vazio
+3. Arco e flecha
 4. Vazio
 5. Vazio
 6. Vazio
