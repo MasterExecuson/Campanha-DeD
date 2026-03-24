@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +197,11 @@
   },
   "active": "e225211378d4e8dc",
   "lastOpenFiles": [
+    "Ficha de personagens/attachments/knight.png",
+    "Ficha de personagens/attachments/Peckii.png",
+    "Ficha de personagens/attachments",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Ida.md",
     "World Notes/cornos e chifrudos - Bregos.md",
     "World Notes/cornos e chifrudos.md",
     "World Notes/chifrin - lankshorn.md",
@@ -223,8 +229,6 @@
     "Ficha de personagens/Barbssss.md",
     "Templates/Char Template.md",
     "README.md",
-    "|locl+hs-med.md",
-    "Image-png.md",
     "backstory/attachments/Boros.png",
     "backstory/attachments/Pasted image 20260315122710.png",
     "backstory/attachments/Barb.png",
@@ -232,16 +236,13 @@
     "backstory/attachments/Pasted image 20260315123058.png",
     "backstory/attachments/Cheevos 2.png",
     "backstory/attachments/Cheevos 1.png",
-    "Templates/Char Sheet.md",
     "Templates",
     "Untitled.canvas",
     "Ficha de personagens",
     "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
-    "backstory/attachments/{1A67ABF1-F625-4E55-ADD1-47771434B8CD}.png",
     "backstory/attachments",
     "backstory",
     "Drawings",
-    "dungeon_master_notes",
-    "Nova pasta"
+    "dungeon_master_notes"
   ]
 }
