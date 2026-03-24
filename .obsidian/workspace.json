@@ -28,7 +28,43 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Barbarian"
+              "title": "2026-03-24"
+            }
+          },
+          {
+            "id": "b3268c5d2c100eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficha de personagens/Valfrrex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Valfrrex"
+            }
+          },
+          {
+            "id": "e995651be7123b6b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
         ]
@@ -203,10 +239,13 @@
     "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Ida.md",
     "World Notes/cornos e chifrudos - Bregos.md",
-    "World Notes/cornos e chifrudos.md",
+    "Ficha de personagens/Valfrrex.md",
+    "session notes/2026-03-24.md",
+    "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
+    "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
     "World Notes/chifrin - lankshorn.md",
     "World Notes/Vagner.md",
-    "World Notes/Cutuvelo - High hanckle.md",
+    "World Notes/Cariuna.md",
     "Ficha de personagens/Valfrrex.md",
     "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
     "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
