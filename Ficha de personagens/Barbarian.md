@@ -86,7 +86,7 @@ Level |Spell Slots | Prepared Spells |
 N/A|N/A|N/A|
  
 
-# Iventário
+# Inventário
 
 Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
 :---:|:---:|:---:|:---:|:---:|
