@@ -53,7 +53,7 @@
               "state": {
                 "file": "Ficha de personagens/Barbarian.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

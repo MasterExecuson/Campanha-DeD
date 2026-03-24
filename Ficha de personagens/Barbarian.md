@@ -15,11 +15,11 @@
 # Stats
 Max HP | AC | Reaction | Initiative |
 :---:|:---:|:---:|:---:|
-15|?|?|?|
+13|15|0|+2|
 
-Temp HP | Proficiency Bonus | Hit Dice | 
-:---:|:---:|:---:|
-15|?|?|
+Temp HP | Hit Dice | 
+:---:|:---:|
+15|1d10|
 
 
 #### Ability Score
@@ -27,7 +27,7 @@ Temp HP | Proficiency Bonus | Hit Dice |
  | STR | DEX | CON | INT | WIS | CHA 
 ---:|:---:|:----:|:----:|:---:|:---:|:---:|
 **Stats**  | 14 | 14 | 16 | 8 | 10 | 11
-**Modifier**  | 0 | 0 | 0 | 0 | 0 | 0
+**Modifier**  | +2 | +2 | 0 | 0 | 0 | 0
 
 #### Saving Throws
 
@@ -50,9 +50,8 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 ## Proficiencies
 
 - **Armor:**
-	- Light armor
-	- medium armor
-	- shields  
+	- Leather armor
+	- Chainmail armor 
 - **Weapons:**
 	- Simple weapons
 	- martial weapons  
@@ -77,7 +76,7 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 
 Name | ATK Bonus | Hit | Damage Type | Range
 :---:|:---:|:---:|:---:|
-**Greataxe**  | +5 | 1d12 | +3 Slashing | 0
+**Greataxe**  | +2 | 1d10 | Slashing | 0
 
 
 ## Spells
@@ -92,18 +91,20 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 :---:|:---:|:---:|:---:|:---:|
 0|0|0|0|0|
 
-1. Greataxe (1d12)
+1. Greataxe (1d10)
 2. Crowbar
 3. Saco de dormir
-4. Marreta
-5. Oil Flask
-6. Vazio
-7. Vazio
+4. Saco de dormir
+5. Marreta
+6. Marreta
+7. Oil Flask
 8. Vazio
 9. Vazio
 10. Vazio
 11. Vazio
 12. Vazio
+13. Vazio
+14. Vazio
 
 # Personality
 ###### Personality Traits
