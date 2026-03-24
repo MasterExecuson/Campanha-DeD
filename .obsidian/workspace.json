@@ -4,42 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e194ef5a2809c0cb",
+        "id": "56644a4d9c986e56",
         "type": "tabs",
         "children": [
           {
-            "id": "2ccc22845e444b41",
+            "id": "e225211378d4e8dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d5bada51e0cfbe8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficha de personagens/Ida.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ida"
-            }
-          },
-          {
-            "id": "e995651be7123b6b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/varfrrex.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "title": "Barbarian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "bdbdd1cf5c350d4f",
@@ -141,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Barbarian"
             }
           },
           {
@@ -199,13 +162,13 @@
             }
           },
           {
-            "id": "e084aef41f11a15e",
+            "id": "a36be85cb1489eb2",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "initiative-tracker-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -217,21 +180,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "d5bada51e0cfbe8f",
+  "active": "e225211378d4e8dc",
   "lastOpenFiles": [
-    "World Notes/cornos e chifrudos - Bregos.md",
     "World Notes/cornos e chifrudos.md",
     "World Notes/chifrin - lankshorn.md",
     "World Notes/Vagner.md",
@@ -239,42 +203,45 @@
     "Ficha de personagens/Valfrrex.md",
     "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
     "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Ida.md",
     "Ficha de personagens/Barbarian.md",
-    "Ficha de personagens/attachments/knight.png",
-    "Ficha de personagens/attachments/Peckii.png",
-    "Ficha de personagens/attachments",
-    "World Notes/Cariuna.md",
-    "README.md",
-    "World Notes/World Map - Cariuma.md",
+    "session notes/2026-03-24.md",
+    "session notes",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments",
-    "session notes/2026-03-24.md",
+    "World Notes/World Map - Cariuma.md",
+    "World Notes/Cariuna.md",
     "World Notes",
+    "Ficha de personagens/Background.md",
+    "dungeon_master_notes/Dungeon Master Secret Notes.md",
+    "Drawings/varfrrex.excalidraw.md",
+    "Drawings/Drawing Test.md",
+    "backstory/Barbarian (Barb) - Bárbaro.md",
     "backstory/Varfrrex - clerigo.md",
+    "backstory/Ficha Barb.md",
+    "Ficha de personagens/asdasd.md",
+    "Ficha de personagens/Barbssss.md",
     "Templates/Char Template.md",
-    "Templates",
-    "Ficha de personagens",
+    "README.md",
+    "|locl+hs-med.md",
+    "Image-png.md",
+    "backstory/attachments/Boros.png",
+    "backstory/attachments/Pasted image 20260315122710.png",
+    "backstory/attachments/Barb.png",
     "backstory/attachments/Kevin.png",
+    "backstory/attachments/Pasted image 20260315123058.png",
     "backstory/attachments/Cheevos 2.png",
     "backstory/attachments/Cheevos 1.png",
-    "backstory/attachments/Boros.png",
-    "backstory/attachments/Barb.png",
-    "backstory/Barbarian (Barb) - Bárbaro.md",
-    "World Notes",
+    "Templates/Char Sheet.md",
+    "2026-03-15.md",
     "Templates",
+    "Untitled.canvas",
     "Ficha de personagens",
     "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
-    "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
+    "backstory/attachments/{1A67ABF1-F625-4E55-ADD1-47771434B8CD}.png",
     "backstory/attachments",
-    "Drawings/varfrrex.excalidraw.md",
-    "Untitled.md",
     "backstory",
     "Drawings",
     "dungeon_master_notes",
-    ".gitignore.md",
-    "Untitled 1.md",
-    "Welcome.md"
+    "Nova pasta"
   ]
 }
