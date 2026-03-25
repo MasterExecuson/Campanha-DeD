@@ -98,8 +98,8 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 5. Marreta
 6. Marreta
 7. Oil Flask
-8. Vazio
-9. Vazio
+8. Chifre de boss bode
+9. Chifre de boss bode
 10. Vazio
 11. Vazio
 12. Vazio
