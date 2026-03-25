@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6afe1062083518a0",
+        "id": "e194ef5a2809c0cb",
         "type": "tabs",
         "children": [
           {
-            "id": "39c29cd07d3f835c",
+            "id": "2ccc22845e444b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Barbarian.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -31,7 +31,8 @@
               "title": "Barbarian"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300
   },
   "right": {
     "id": "bdbdd1cf5c350d4f",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficha de personagens/Barbarian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Barbarian"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -193,11 +194,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "39c29cd07d3f835c",
+  "active": "d5bada51e0cfbe8f",
   "lastOpenFiles": [
-    "backstory/Barbarian (Barb) - Bárbaro.md",
-    "World Notes/elfos da geada.md",
-    "World Notes/Rogério Burlle.md",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Ida.md",
     "Ficha de personagens/Barbarian.md",
     "World Notes/Drumen Nol.md",
     "World Notes/Atanoe.md",
@@ -215,8 +215,12 @@
     "Ficha de personagens/Valfrrex.md",
     "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
     "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
-    "session notes/2026-03-24.md",
-    "session notes",
+    "Ficha de personagens/attachments/knight.png",
+    "Ficha de personagens/attachments/Peckii.png",
+    "Ficha de personagens/attachments",
+    "World Notes/Cariuna.md",
+    "README.md",
+    "World Notes/World Map - Cariuma.md",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments",
     "World Notes/World Map - Cariuma.md",
@@ -232,13 +236,16 @@
     "backstory/attachments/Pasted image 20260315122710.png",
     "backstory/attachments/Barb.png",
     "backstory/attachments/Kevin.png",
-    "backstory/attachments/Pasted image 20260315123058.png",
     "backstory/attachments/Cheevos 2.png",
     "backstory/attachments/Cheevos 1.png",
-    "Templates",
-    "Untitled.canvas",
-    "Ficha de personagens",
+    "backstory/attachments/Boros.png",
+    "backstory/attachments/Barb.png",
+    "session notes",
+    "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
+    "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
     "backstory/attachments",
+    "Drawings/varfrrex.excalidraw.md",
+    "Untitled.md",
     "backstory",
     "Drawings",
     "dungeon_master_notes"

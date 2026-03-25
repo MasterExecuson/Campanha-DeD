@@ -1,7 +1,7 @@
-# Ida
+# Ida (Mercenária)
  
 ![[knight.png]]
-> (Descrição: Guerreira calma
+> (Descrição: Mercenária
 
  |  |
 ----|---|
@@ -10,12 +10,12 @@
 **Race** | Humana |
 **Alignment** | Neutro |
 **Background** | ? |
-**Literate** | YES |
+**Literate** | Sim |
 
 # Stats
-Max HP | AC | Reaction | Initiative | Hit Dice |
-:---:|:---:|:---:|:---:|:---:|
-10|16|-2|+1|1d6|
+Max HP | AC | Reaction | Initiative | Hit Dice | XP |
+:---:|:---:|:---:|:---:|:---:|:---:|
+10|16|-2|+1|1d6| 570 |
 
 #### Ability Score
 
