@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e194ef5a2809c0cb",
+        "id": "6afe1062083518a0",
         "type": "tabs",
         "children": [
           {
-            "id": "2ccc22845e444b41",
+            "id": "39c29cd07d3f835c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backstory/Barbarian (Barb) - Bárbaro.md",
-                "mode": "preview",
-                "source": true,
+                "file": "Ficha de personagens/Barbarian.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Barbarian (Barb) - Bárbaro"
+              "title": "Barbarian"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "bdbdd1cf5c350d4f",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Barbarian"
             }
           },
           {
@@ -191,11 +190,16 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b3268c5d2c100eaf",
+  "active": "39c29cd07d3f835c",
   "lastOpenFiles": [
+    "backstory/Barbarian (Barb) - Bárbaro.md",
+    "World Notes/elfos da geada.md",
+    "World Notes/Rogério Burlle.md",
     "Ficha de personagens/Barbarian.md",
     "World Notes/Drumen Nol.md",
     "World Notes/Atanoe.md",
@@ -224,26 +228,19 @@
     "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "Drawings/varfrrex.excalidraw.md",
     "Drawings/Drawing Test.md",
-    "backstory/Barbarian (Barb) - Bárbaro.md",
     "backstory/Varfrrex - clerigo.md",
     "backstory/Ficha Barb.md",
-    "Ficha de personagens/asdasd.md",
-    "Ficha de personagens/Barbssss.md",
     "backstory/attachments/Boros.png",
     "backstory/attachments/Pasted image 20260315122710.png",
     "backstory/attachments/Barb.png",
     "backstory/attachments/Kevin.png",
+    "backstory/attachments/Pasted image 20260315123058.png",
     "backstory/attachments/Cheevos 2.png",
     "backstory/attachments/Cheevos 1.png",
-    "backstory/attachments/Boros.png",
-    "backstory/attachments/Barb.png",
-    "session notes",
-    "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
-    "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
+    "Templates",
+    "Untitled.canvas",
+    "Ficha de personagens",
     "backstory/attachments",
-    "Drawings/varfrrex.excalidraw.md",
-    "README.md",
-    "Untitled.md",
     "backstory",
     "Drawings",
     "dungeon_master_notes"
