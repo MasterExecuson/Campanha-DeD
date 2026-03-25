@@ -28,17 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-03-24"
             }
           },
           {
-            "id": "d5bada51e0cfbe8f",
+            "id": "8e39db1c1d521639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Ida.md",
-                "mode": "preview",
+                "file": "session notes/2026-03-24.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ida"
+              "title": "2026-03-24"
+            }
+          },
+          {
+            "id": "b3268c5d2c100eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Drumen Nol.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Drumen Nol"
             }
           },
           {
@@ -63,11 +87,12 @@
               "state": {
                 "file": "Drawings/varfrrex.excalidraw.md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "varfrrex.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,9 +245,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e225211378d4e8dc",
+  "active": "8e39db1c1d521639",
   "lastOpenFiles": [
     "World Notes/Drumen Nol.md",
+    "session notes/2026-03-24.md",
+    "Ficha de personagens/Valfrrex.md",
+    "World Notes/attachments/1owyN2D.png",
+    "World Notes/World Map - Cariuma.md",
     "World Notes/Atanoe.md",
     "World Notes/Curas.md",
     "World Notes/cornos e chifrudos - Bregos.md",
@@ -236,13 +265,9 @@
     "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Barbarian.md",
-    "Ficha de personagens/attachments/knight.png",
-    "Ficha de personagens/attachments/Peckii.png",
-    "Ficha de personagens/attachments",
+    "backstory/Varfrrex - clerigo.md",
+    "World Notes/Vagner.md",
     "World Notes/Cariuna.md",
-    "README.md",
-    "World Notes/World Map - Cariuma.md",
-    "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments",
     "session notes/2026-03-24.md",
     "World Notes",
@@ -258,6 +283,9 @@
     "Untitled.canvas",
     "Ficha de personagens",
     "backstory/attachments",
+    "Drawings/varfrrex.excalidraw.md",
+    "README.md",
+    "Untitled.md",
     "backstory",
     "Drawings/Drawing Test.md",
     "Drawings",
