@@ -75,8 +75,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Ida.md",
-                "mode": "source",
+                "file": "Ficha de personagens/Valfrrex.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ida"
+              "title": "Valfrrex"
             }
           },
           {
@@ -259,10 +259,12 @@
   },
   "active": "b3268c5d2c100eaf",
   "lastOpenFiles": [
-    "World Notes/Rogério Burlle.md",
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Valfrrex.md",
+    "Ficha de personagens/Peckii.md",
+    "World Notes/cornos e chifrudos - Bregos.md",
     "session notes/2026-03-24.md",
+    "World Notes/Rogério Burlle.md",
     "World Notes/Drumen Nol.md",
     "World Notes/elfos da geada.md",
     "World Notes/attachments/1owyN2D.png",
@@ -271,10 +273,8 @@
     "Ficha de personagens/attachments/Peckii.png",
     "Ficha de personagens/attachments/knight.png",
     "Ficha de personagens/attachments",
-    "Ficha de personagens/Peckii.md",
     "World Notes/Curas.md",
     "session notes/Cura.md",
-    "World Notes/cornos e chifrudos - Bregos.md",
     "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
     "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
     "World Notes/chifrin - lankshorn.md",
@@ -304,9 +304,6 @@
     "backstory",
     "Drawings/Drawing Test.md",
     "Drawings",
-    "dungeon_master_notes/Dungeon Master Secret Notes.md",
-    "dungeon_master_notes/P.md",
-    "dungeon_master_notes/test2.md",
     "dungeon_master_notes"
   ]
 }

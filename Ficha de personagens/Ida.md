@@ -56,8 +56,8 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 1. Pacote de erva de fumo (+1)
 2. Fósforos
 3. Arco e flecha
-4. 2 Braceletes de ouro que valem um valor
-5. Anotação que não reconhece a lingua com o nome [[Rogério Burlle]]
+4. Bracelete que parece valer alguma coisa
+5. Vazio
 6. Vazio
 7. Vazio
 8. Vazio

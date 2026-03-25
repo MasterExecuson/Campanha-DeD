@@ -11,6 +11,7 @@
 **Alignment** | Lawful Good |
 **Background** | Phyrexiano convertido |
 **Literate** | YES |
+**XP** | 570/2000 |
 
 # Stats
 Max HP | AC | Reaction | Initiative |
@@ -72,15 +73,15 @@ N/A|N/A|N/A|
 
 Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
 :---:|:---:|:---:|:---:|:---:|
-0|0|0|10|0|
+0|500|0|10|0|
 
 1. vazio
 2. Ink, quill, 5 sheets of paper
 3. Grapling Hook
 4. corda
 5. Ichor Flask
-6. Vazio
-7. Vazio
+6. Bracelete que parece valer um valor
+7. bilhete indecifrável sobre [[Rogério Burlle]]
 8. Vazio
 9. Vazio
 10. Vazio
@@ -89,3 +90,6 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 
 # Personality
 ###### Personality Traits
+
+
+
