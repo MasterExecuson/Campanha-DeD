@@ -108,6 +108,7 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 
 # Personality
 ###### Personality Traits
+- 155 XP
 - Muito confiável
 - Não tem muitos pensamentos
 - Ele faz o bem, mas através de métodos insanos de tortura criativa
