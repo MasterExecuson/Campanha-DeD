@@ -167,8 +167,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           }
         ],
@@ -190,9 +190,7 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "39c29cd07d3f835c",
