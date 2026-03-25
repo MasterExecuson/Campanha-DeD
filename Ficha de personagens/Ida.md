@@ -10,7 +10,7 @@
 **Race** | Humana |
 **Alignment** | Neutro |
 **Background** | ? |
-**Literate** | ? |
+**Literate** | YES |
 
 # Stats
 Max HP | AC | Reaction | Initiative | Hit Dice |
@@ -51,13 +51,13 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 
 Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
 :---:|:---:|:---:|:---:|:---:|
-0|0|0|10|0|
+0|500|0|10|0|
 
 1. Pacote de erva de fumo (+1)
 2. Fósforos
 3. Arco e flecha
-4. Vazio
-5. Vazio
+4. 2 Braceletes de ouro que valem um valor
+5. Anotação que não reconhece a lingua com o nome [[Rogério Burlle]]
 6. Vazio
 7. Vazio
 8. Vazio

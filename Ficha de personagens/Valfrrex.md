@@ -72,7 +72,7 @@ N/A|N/A|N/A|
 
 Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
 :---:|:---:|:---:|:---:|:---:|
-0|0|0|0|0|
+0|0|0|10|0|
 
 1. vazio
 2. Ink, quill, 5 sheets of paper
