@@ -89,7 +89,7 @@ N/A|N/A|N/A|
 
 Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
 :---:|:---:|:---:|:---:|:---:|
-0|0|0|0|0|
+0|0|0|10|0|
 
 1. Greataxe (1d10)
 2. Crowbar
