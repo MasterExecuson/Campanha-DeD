@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e194ef5a2809c0cb",
+        "id": "56644a4d9c986e56",
         "type": "tabs",
         "children": [
           {
-            "id": "2ccc22845e444b41",
+            "id": "e225211378d4e8dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d5bada51e0cfbe8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session notes/2026-03-24.md",
-                "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -42,71 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-24"
-            }
-          },
-          {
-            "id": "8e39db1c1d521639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session notes/2026-03-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d5bada51e0cfbe8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Drumen Nol.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Drumen Nol"
-            }
-          },
-          {
-            "id": "e995651be7123b6b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/varfrrex.excalidraw.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "title": "Barbarian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "bdbdd1cf5c350d4f",
@@ -179,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Barbarian"
             }
           },
           {
@@ -265,55 +190,59 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "4d5b1fc35c851b1c",
+  "active": "e225211378d4e8dc",
   "lastOpenFiles": [
-    "session notes/2026-03-24.md",
     "World Notes/Drumen Nol.md",
-    "Ficha de personagens/Valfrrex.md",
-    "World Notes/attachments/1owyN2D.png",
-    "World Notes/World Map - Cariuma.md",
     "World Notes/Atanoe.md",
-    "Ficha de personagens/attachments/Peckii.png",
+    "World Notes/Curas.md",
     "Ficha de personagens/attachments/knight.png",
+    "Ficha de personagens/attachments/Peckii.png",
     "Ficha de personagens/attachments",
     "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Ida.md",
-    "World Notes/Curas.md",
-    "session notes/Cura.md",
     "World Notes/cornos e chifrudos - Bregos.md",
-    "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
-    "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
+    "World Notes/cornos e chifrudos.md",
     "World Notes/chifrin - lankshorn.md",
+    "World Notes/Vagner.md",
     "World Notes/Cutuvelo - High hanckle.md",
-    "session notes/Cutuvelo - High hanckle.md",
+    "Ficha de personagens/Valfrrex.md",
+    "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
+    "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
     "Ficha de personagens/Barbarian.md",
-    "Ficha de personagens/attachments/knight.png",
-    "Ficha de personagens/attachments/Peckii.png",
-    "Ficha de personagens/attachments",
-    "World Notes/Cariuna.md",
+    "session notes/2026-03-24.md",
+    "session notes",
+    "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments",
+    "World Notes/World Map - Cariuma.md",
+    "World Notes/Cariuna.md",
     "World Notes",
-    "Templates/Char Template.md",
-    "Templates",
-    "Ficha de personagens",
+    "Ficha de personagens/Background.md",
+    "dungeon_master_notes/Dungeon Master Secret Notes.md",
+    "Drawings/varfrrex.excalidraw.md",
+    "Drawings/Drawing Test.md",
+    "backstory/Barbarian (Barb) - Bárbaro.md",
+    "backstory/Varfrrex - clerigo.md",
+    "backstory/Ficha Barb.md",
+    "Ficha de personagens/asdasd.md",
+    "Ficha de personagens/Barbssss.md",
+    "backstory/attachments/Boros.png",
+    "backstory/attachments/Pasted image 20260315122710.png",
+    "backstory/attachments/Barb.png",
     "backstory/attachments/Kevin.png",
+    "backstory/attachments/Pasted image 20260315123058.png",
     "backstory/attachments/Cheevos 2.png",
     "backstory/attachments/Cheevos 1.png",
-    "backstory/attachments/Boros.png",
-    "backstory/attachments/Barb.png",
-    "session notes",
-    "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
-    "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
+    "Templates",
+    "Untitled.canvas",
+    "Ficha de personagens",
     "backstory/attachments",
-    "Drawings/varfrrex.excalidraw.md",
-    "Untitled.md",
     "backstory",
     "Drawings",
-    "dungeon_master_notes/Dungeon Master Secret Notes.md",
-    "dungeon_master_notes/P.md",
     "dungeon_master_notes"
   ]
 }
