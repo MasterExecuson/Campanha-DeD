@@ -9,7 +9,7 @@
 **Level** | 1 |
 **Race** | Humana |
 **Alignment** | Neutro |
-**Background** | ? |
+**Background** | Mercenária |
 **Literate** | Sim |
 
 # Stats
