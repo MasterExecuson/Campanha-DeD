@@ -7,5 +7,5 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showInlineTitle": false,
-  "newFileFolderPath": "World Notes"
+  "spellcheck": false
 }
