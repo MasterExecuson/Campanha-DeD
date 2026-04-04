@@ -1,4 +1,4 @@
-# Valfrrex, o bárbaro
+# Valfrrex, o clerigo
 ![[{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png]] 
 > O mundo precisa conhecer a verdadeira luz
 

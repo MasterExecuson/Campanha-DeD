@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Miconídeos.md",
+                "file": "session notes/2026-04-04.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Miconídeos"
+              "title": "2026-04-04"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Miconídeos.md",
+                "file": "session notes/2026-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Miconídeos"
+              "title": "Links inversos para 2026-04-04"
             }
           },
           {
@@ -214,14 +214,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2ccc22845e444b41",
+  "active": "4d5b1fc35c851b1c",
   "lastOpenFiles": [
-    "World Notes/attachments/Pasted image 20260403221651.png",
-    "World Notes/attachments/Dolmenwood Player's Map.png",
-    "World Notes/Cutuvelo - High Hankle.md",
-    "World Notes/Atanuwë.md",
-    "session notes/2026-04-04.md",
     "session notes/Sem título.md",
+    "session notes/2026-04-04.md",
     "World Notes/Vagner.md",
     "World Notes/Cutuvelo - High hanckle.md",
     "World Notes/Drumen Nol.md",
@@ -250,6 +246,8 @@
     "World Notes/attachments",
     "World Notes/World Map - Cariuma.md",
     "World Notes",
+    "Ficha de personagens/Background.md",
+    "Drawings/varfrrex.excalidraw.md",
     "backstory/attachments/Boros.png",
     "backstory/attachments/Pasted image 20260315122710.png",
     "backstory/attachments/Barb.png",
