@@ -1,23 +1,23 @@
 # Ida (Mercenária)
  
 ![[knight.png]]
-> (Descrição: Mercenária
+> Tá, mas o que eu ganho com isso?
 
  |  |
 ----|---|
-**Class** | Guerreira |
-**Level** | 1 |
-**Race** | Humana |
+**Classe** | Guerreira |
+**Nível** | 1 |
+**Raça** | Humana |
 **Alignment** | Neutro |
-**Background** | Mercenária |
-**Literate** | Sim |
+**Profissão** | Mercenária |
+**Sabe ler?** | Sim |
 
 # Stats
 Max HP | AC | Reaction | Initiative | Hit Dice | XP |
 :---:|:---:|:---:|:---:|:---:|:---:|
 10|16|-2|+1|1d6| 570 |
 
-#### Ability Score
+#### Pontos de Habilidade
 
  | STR | DEX | CON | INT | WIS | CHA 
 ---:|:---:|:----:|:----:|:---:|:---:|:---:|
@@ -30,12 +30,12 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 :---:|:----:|:----:|:---:|:---:|:---:|
 12 | 13 | 14 | 15 | 16 | +1 |
 
-
 #### Skills
 
 #| Skill |
 :--:|-----|
- +1 | Espadas | 
++1 | Espadas | 
++1 | Guiar | 
 +1 | Furtividade | 
 +1 | Fumar | 
 +1 | Intimidar | 
@@ -46,17 +46,27 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 :--:|-----|
  ? | ? | 
 
+## Combate
+
+- **Armadura:**
+    - Armadura básica de couro preto
+    - Cota de malha
+    - Escudo
+- **Armas:**
+    - Espada longa
+    - Arco e flecha
+- **Habilidade principal:** Força
 
 # Inventário
 
-Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
-:---:|:---:|:---:|:---:|:---:|
-0|500|0|10|0|
+Moedas de cobre | Moedas de prata | Moedas de ouro |
+:---:|:---:|:---:|
+0|500|0|
 
 1. Pacote de erva de fumo (+1)
 2. Fósforos
-3. Arco e flecha
-4. Bracelete que parece valer alguma coisa
+3. Bracelete que parece valer alguma coisa
+4. Vazio
 5. Vazio
 6. Vazio
 7. Vazio
@@ -66,14 +76,8 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 11. Vazio
 12. Vazio
 
-# Personality
-###### Personality Traits
-- 
-###### Ideals
-- 
-###### Bonds
-- 
-###### Flaws
-- 
+# Passado
 
-*Precisa terminar de atualizar
+Desde pequena, Ida sabia que se ela não cuidasse dela mesma, ninguém cuidaria. 
+
+*Precisa terminar a ficha
