@@ -18,5 +18,6 @@ E ao final livreto havia uma uma espécie de bingo que seu objetivo era ser uma 
 ![[Cheevos 1.png|637]]
 
 ![[Cheevos 2.png|637]]
-
-​
+Goals:
+* Completed: Mummy Toilet paper
+* On going: cook breakfast monster on a corpse
