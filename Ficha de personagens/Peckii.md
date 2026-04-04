@@ -74,7 +74,7 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 4. Tinta, pena e papel (5)
 5. Mochila (1)
 6. Saco (1)
-7. Vazio
+7. Carcaças de sobra seca (4)
 8. Vazio
 9. Vazio
 10. Vazio
