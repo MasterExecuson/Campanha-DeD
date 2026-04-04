@@ -84,9 +84,9 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 
 # Passado
 
-O mundo para Peckii sempre foi fascinante. Em sua primeira vida, ele observava tudo ao seu redor: os cogumelos gigantes, os esporos brilhantes, os outros Miconídeos que passavam ao seu redor, tudo no alcance de sua visão. Ah, como Peckii amava quando os Miconídeos em sua segunda vida paravam para compartilhar com ele. Eles mostravam toda uma vida que ele esperava algum dia viver.
+O mundo para Peckii sempre foi fascinante. Em sua primeira vida, ele observava tudo ao seu redor: os cogumelos gigantes, os esporos brilhantes, os outros [[Miconídeos]] que passavam ao seu redor, tudo no alcance de sua visão. Ah, como Peckii amava quando os [[Miconídeos]] em sua segunda vida paravam para compartilhar com ele. Eles mostravam toda uma vida que ele esperava algum dia viver.
 
-Uma das memórias mais felizes de Peckii foi o dia que ele finalmente estava grande e forte o suficiente para passar para à segunda vida. Andar pela primeira vez, ser livre para explorar por conta própria e criar suas próprias memórias era como um sonho se tornando realidade. Nas primeiras semanas, ele passeou pela colônia e seus arredores. Ele interagiu com os outros Miconídeos, tocou os cogumelos gigantes e correu por entre os esporos.
+Uma das memórias mais felizes de Peckii foi o dia que ele finalmente estava grande e forte o suficiente para passar para à segunda vida. Andar pela primeira vez, ser livre para explorar por conta própria e criar suas próprias memórias era como um sonho se tornando realidade. Nas primeiras semanas, ele passeou pela colônia e seus arredores. Ele interagiu com os outros [[Miconídeos]], tocou os cogumelos gigantes e correu por entre os esporos.
 
 Depois do seu primeiro mês, veio o dia de ser selecionado para sua função. Dada à sua curiosidade, ele foi selecionado para ser um mapeador. Seu trabalho era explorar o subterrâneo junto com os outros mapeadores e registrar nos mapas o que tinha em cada lugar.
 
@@ -100,9 +100,9 @@ A Colônia, em sua maioria, não aguentava mais Peckii. Ele causava mais problem
 
 Para sua sorte, este era o ano da peregrinação. Era a oportunidade perfeita. Peckii seria enviado para a superfície para explorar e, dentro de um ano, deveria voltar para à colônia para compartilhar suas memórias. E se ele não voltasse, seria o melhor para a colônia.
 
-Peckii ficou extremamente feliz de ser convocado para ser um peregrino. Era uma honra para os Miconídeos e ele pensou que essa era finalmente à sua chance de ser útil.
+Peckii ficou extremamente feliz de ser convocado para ser um peregrino. Era uma honra para os [[Miconídeos]] e ele pensou que essa era finalmente à sua chance de ser útil.
 
-Três outros Miconídeos foram selecionados para a peregrinação: Mycena, Helvus e Rosella. Mycena era uma mapeadora e uma das mais competentes entre os Miconídeos. Ela nutria uma profunda raiva de Peckii desde a época que Peckii trabalhou como mapeador. Ela estava indignada que ele teria a mesma honra que ela de participar da peregrinação.
+Três outros [[Miconídeos]] foram selecionados para a peregrinação: Mycena, Helvus e Rosella. Mycena era uma mapeadora e uma das mais competentes entre os [[Miconídeos]]. Ela nutria uma profunda raiva de Peckii desde a época que Peckii trabalhou como mapeador. Ela estava indignada que ele teria a mesma honra que ela de participar da peregrinação.
 
 Helvus era o melhor amigo de Peckii e talvez o único. Um coletor, assim como ele, relaxado e tranquilo. Helvus nunca se estressava e sempre achava que tudo daria certo, o que o tornava um dos poucos capazes de trabalhar com Peckii.
 

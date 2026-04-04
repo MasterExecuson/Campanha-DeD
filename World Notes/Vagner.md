@@ -1,8 +1,8 @@
-Um camponés [[Vagner]] abordou Valfrrex que perdeu sua filha a alguns dias
+[[Vagner]] é um camponês que perdeu sua filha há alguns dias. Suas mãos são tremulas e olhos fundos.
 
+Abordou Valfrrex e Ida, solicitando ajuda para recuperar sua filha.
 
-apontou para o castelo abandonado ao Norte de [[Carcanhar - High Hankle]]
+Apontou para o castelo abandonado ao Norte de [[Carcanhar]].
 
-
-maos tremulas e olhos fundos
+ Valfrrex e Ida, com a ajuda de Barbarian, conseguem recuperar a filha de Vagner. Ida a leva de volta para seu pai.
 

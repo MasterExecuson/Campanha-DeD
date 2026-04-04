@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mabel.md",
+                "file": "World Notes/elfos da geada.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,11 +48,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Mabel"
+              "title": "elfos da geada"
             }
           }
         ],
@@ -209,13 +209,18 @@
   },
   "active": "02a141c4851814ef",
   "lastOpenFiles": [
-    "World Notes/Cariuna.md",
-    "World Notes/World Map - Cariuna.md",
-    "Mabel.md",
-    "session notes/2026-03-14.md",
-    "Ficha de personagens/Hadalberto.md",
-    "session notes/2026-03-24.md",
     "session notes/2026-04-04.md",
+    "World Notes/Vagner.md",
+    "World Notes/Carcanhar.md",
+    "World Notes/Chinfrin.md",
+    "World Notes/Cariuna.md",
+    "session notes/2026-03-24.md",
+    "World Notes/Miconídeos.md",
+    "World Notes/Sul de Cariuna - Mata Alta.md",
+    "session notes/2026-03-14.md",
+    "Mabel.md",
+    "World Notes/World Map - Cariuna.md",
+    "Ficha de personagens/Hadalberto.md",
     "session notes/attachments/Pasted image 20260404120201.png",
     "World Notes/elfos da geada.md",
     "Senhora do espelho prateado.md",
@@ -226,12 +231,9 @@
     "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Ida.md",
     "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
-    "World Notes/Sul de Cariuna - Mata Alta.md",
-    "World Notes/Carcanhar - High Hankle.md",
     "session notes/attachments/Pasted image 20260404093444.png",
     "session notes/attachments",
     "Ficha de personagens/Barbarian.md",
-    "World Notes/Miconídeos.md",
     "World Notes/Atanuwë.md",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/Cutuvelo - High Hankle.md",
@@ -243,7 +245,6 @@
     "World Notes/Rogério Burlle.md",
     "World Notes/Cutuvelo - High hanckle.md",
     "World Notes/Curas.md",
-    "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "World Notes/attachments/1owyN2D.png",
     "Ficha de personagens/attachments",
     "World Notes/attachments",
