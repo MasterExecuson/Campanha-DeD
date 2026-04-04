@@ -7,5 +7,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showInlineTitle": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "defaultViewMode": "preview"
 }
