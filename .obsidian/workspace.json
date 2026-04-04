@@ -13,9 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-04-04.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "d5bada51e0cfbe8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backstory/Varfrrex - clerigo.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,10 +42,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-04"
+              "title": "Varfrrex - clerigo"
+            }
+          },
+          {
+            "id": "5738431104cf19e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backstory/Barbarian (Barb) - Bárbaro.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Barbarian (Barb) - Bárbaro"
+            }
+          },
+          {
+            "id": "994a2a2843f2c163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Carcanhar - High Hankle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Carcanhar - High Hankle"
+            }
+          },
+          {
+            "id": "883b999fd073f6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Cária.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Cária"
+            }
+          },
+          {
+            "id": "1e0607684335f7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Império Cariano"
+            }
+          },
+          {
+            "id": "d27e4a5edaacd494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Magia Mana"
+            }
+          },
+          {
+            "id": "40087e49870a2db5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "varfrrex.excalidraw"
+            }
+          },
+          {
+            "id": "e995651be7123b6b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,16 +254,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2ec526012743b5",
+        "id": "58c34f7f103dbe55",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc096fff2d8d2c5",
+            "id": "76fde20d4f249eb0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "session notes/2026-04-04.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +273,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2026-04-04"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "2953832421b8099e",
+            "id": "5fdea5aef1788f10",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Vagner.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Vagner"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "a77a2ffccea3e07c",
+            "id": "4f9efd337176b097",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,62 +302,40 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "14871ea5c0f5d2d1",
+            "id": "847aa98f7dfa9478",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Vagner.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Vagner"
+              "title": "Outline of README"
             }
-          }
-        ]
-      },
-      {
-        "id": "3a1b003dceb9940f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3e277990aaa1e10a",
+            "id": "e084aef41f11a15e",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_7a0808299a59",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 15,
-                    "month": 0,
-                    "year": 653
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_19c968eb5b09"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,53 +348,53 @@
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2ccc22845e444b41",
+  "active": "e084aef41f11a15e",
   "lastOpenFiles": [
     "World Notes/Sul de Cariuna - Mata Alta.md",
-    "World Notes/Vagner.md",
-    "World Notes/World Map - Cariuna.md",
+    "World Notes/Cariuna.md",
     "session notes/2026-04-04.md",
-    "World Notes/Carcanhar - High Hankle.md",
-    "session notes/2026-03-14.md",
-    "World Notes/Miconídeos.md",
-    "World Notes/attachments/Pasted image 20260403221651.png",
-    "World Notes/attachments/Dolmenwood Player's Map.png",
+    "World Notes/World Map - Cariuma.md",
     "World Notes/Atanuwë.md",
-    "World Notes/Cutuvelo - High hanckle.md",
+    "World Notes/Vagner.md",
+    "World Notes/Rogério Burlle.md",
+    "README.md",
+    "World Notes/World Map - Cariuna.md",
+    "World Notes/attachments/Dolmenwood Player's Map.png",
+    "World Notes/attachments/1owyN2D.png",
+    "World Notes/attachments/Pasted image 20260403221651.png",
+    "World Notes/Miconídeos.md",
+    "Ficha de personagens/Barbarian.md",
+    "Ficha de personagens/Ida.md",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Valfrrex.md",
+    "session notes/2026-03-14.md",
+    "session notes/2026-03-24.md",
+    "Ficha de personagens/attachments/Peckii.png",
     "World Notes/Drumen Nol.md",
-    "World Notes/elfos da geada.md",
-    "dungeon_master_notes/Dungeon Master Secret Notes.md",
+    "World Notes/Carcanhar - High Hankle.md",
     "World Notes/Curas.md",
     "World Notes/cornos e chifrudos - Bregos.md",
-    "World Notes/chifrin - lankshorn.md",
-    "session notes/2026-03-24.md",
-    "World Notes/Atanoe.md",
-    "Ficha de personagens/Valfrrex.md",
-    "backstory/Barbarian (Barb) - Bárbaro.md",
-    "Ficha de personagens/Barbarian.md",
     "Ficha de personagens/attachments/knight.png",
-    "Ficha de personagens/attachments/Peckii.png",
+    "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
+    "dungeon_master_notes/{PLACEHOLDER} Império Prísmico.md",
+    "dungeon_master_notes/Dungeon Master Secret Notes.md",
+    "dungeon_master_notes/Checklist Pré Sessão 1.md",
+    "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
+    "dungeon_master_notes/{PLACEHOLDER} Continente.md",
     "Ficha de personagens/attachments",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Ida.md",
-    "World Notes/cornos e chifrudos.md",
-    "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
-    "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
-    "session notes",
-    "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments",
-    "World Notes/World Map - Cariuma.md",
-    "World Notes",
-    "backstory/attachments/Boros.png",
-    "backstory/attachments/Pasted image 20260315122710.png",
-    "backstory/attachments/Barb.png",
+    "session notes",
     "backstory/attachments/Kevin.png",
     "backstory/attachments/Cheevos 2.png",
-    "session notes",
+    "backstory/attachments/Cheevos 1.png",
+    "backstory/attachments/Boros.png",
+    "backstory/attachments/Barb.png",
+    "World Notes",
+    "Templates",
+    "Ficha de personagens",
     "backstory/attachments",
     "backstory",
     "Drawings",
