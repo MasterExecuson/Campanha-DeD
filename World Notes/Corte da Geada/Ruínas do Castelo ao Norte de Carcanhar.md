@@ -1,4 +1,4 @@
-Ruínas do Castelo [[Drumen Nol]] paredes gélidas. Seus muros estão quase totalmente destruídos. Foi ocupada por um grupo de [[Bregos]].
+Ruínas do Castelo [[Drumen Nol]], localizadas ao Norte de [[Carcanhar]]. Suas paredes são gélidas. Seus muros estão quase totalmente destruídos. Foi ocupada por um grupo de [[Bregos]].
 
 ![[Pasted image 20260404124656.png]]
 

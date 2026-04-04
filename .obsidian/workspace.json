@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Corte da Geada/Senhora do espelho prateado.md",
+                "file": "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,11 +120,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Senhora do espelho prateado"
+              "title": "Fome, Apito, Esguio"
             }
           }
         ],
@@ -281,11 +281,13 @@
   },
   "active": "f11a2af8c7d41d3c",
   "lastOpenFiles": [
-    "session notes/2026-04-04.md",
+    "World Notes/Corte da Geada/Elfos da Geada.md",
+    "World Notes/Carcanhar.md",
     "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
+    "World Notes/Corte da Geada/Senhora do espelho prateado.md",
+    "session notes/2026-04-04.md",
     "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
     "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
-    "World Notes/Corte da Geada/Elfos da Geada.md",
     "World Notes/Tumba.md",
     "World Notes/Corte da Geada/Relógio de sol.md",
     "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png",
@@ -317,8 +319,6 @@
     "World Notes/Bregos",
     "session notes/2026-03-14.md",
     "World Notes/Curas.md",
-    "World Notes/Cariuna.md",
-    "World Notes/Carcanhar.md",
     "World Notes/Corte da Geada",
     "attachments",
     "session notes/attachments",
