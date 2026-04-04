@@ -1,4 +1,4 @@
-Príncipe da corte dos [[elfos da geada]].
+Príncipe da corte dos [[Elfos da Geada]].
 
  Homem nobre, alto. Rosto escurecido com queimadura de gelo, roupas ricas, coroa cravejada de diamantes.
 

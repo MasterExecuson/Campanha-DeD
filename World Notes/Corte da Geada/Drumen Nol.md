@@ -1,6 +1,6 @@
-Ruínas com paredes gélidas. Seus muros estão quase totalmente destruídos. Foi ocupada por um grupo de [[Bregos]].
+O castelo de [[Drumen Nol]] tem paredes gélidas. É atualmente conhecido como as [[Ruínas do Castelo ao Norte de Carcanhar]].
 
-![[Pasted image 20260404124656.png]]
+Ligado a algum espirito relacionado a gelo, devido a algum encantamento.
 
 No subsolo, murais decoram as paredes, pintando cenas de [[Elfos da Geada]].
 
@@ -15,6 +15,4 @@ Numa sala antiga do subsolo, murais diferentes representam diferentes figuras.
 - **Mural E:** Mulher esbelta com uma espada e um escudo - [[Sussuro da vela]]
 - **Mural F:**  Homem esguio, pequeno e arqueado. Fios de cabelo parecem teia de aranha tocando flauta de pan. Três cachorros, mais brilhantes que o resto do mural, que parecem ter sido adicionados depois, latindo. - [[Fome, Apito, Esguio]]
 
-Essas ruínas foram a prisão de [[Fome, Apito, Esguio]] durante muito tempo.
-
-O solo abaixo do subsolo parece ter sido comido por [[Minhocas Gigantes]], deixando uma série de buracos na estrutura. Isso fez o chão desabar, levando a uma [[Tumba]] 12 metros abaixo.
+Não se sabe ainda sobre a história deste castelo ou como ele era antes de cair em ruína.
