@@ -1,0 +1,1 @@
+Status social definido pelo tamanho do chifre. Os pequenos e feios são cornos (camponeses) e os grandes são os chifrudos (nobres).

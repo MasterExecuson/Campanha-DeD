@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Chinfrin.md",
+                "file": "Ficha de personagens/Peckii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chinfrin"
+              "title": "Peckii"
             }
           }
         ],
@@ -257,8 +257,17 @@
   },
   "active": "4fc422cbc96f9ec9",
   "lastOpenFiles": [
-    "O Descanso do Chifre.md",
+    "World Notes/Bregos/Atanuwë.md",
+    "World Notes/Bregos/Bregos.md",
+    "World Notes/Bregos/Rogério Burlle.md",
+    "World Notes/Bregos/O Descanso do Chifre.md",
+    "World Notes/Bregos/Cornos e Chifrudos.md",
+    "World Notes/Bregos/Chinfrin.md",
+    "World Notes/Bregos",
     "session notes/2026-03-14.md",
+    "World Notes/Curas.md",
+    "World Notes/Cariuna.md",
+    "World Notes/Carcanhar.md",
     "World Notes/Corte da Geada/Drumen Nol.md",
     "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
     "World Notes/Corte da Geada/Relógio de sol.md",
@@ -267,26 +276,18 @@
     "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
     "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
     "World Notes/Corte da Geada/Sussuro da vela.md",
-    "World Notes/Atanuwë.md",
     "World Notes/Sul de Cariuna - Mata Alta.md",
-    "World Notes/Chinfrin.md",
     "World Notes/Tumba.md",
     "World Notes/Corte da Geada",
-    "World Notes/Bregos.md",
     "World Notes/Corte da Geada/Elfos da Geada.md",
-    "World Notes/cornos e chifrudos - Bregos.md",
     "World Notes/Corte da Geada/Senhora do espelho prateado.md",
     "World Notes/Corte da Geada/Senhor Sombra Osso.md",
     "attachments/Pasted image 20260404124851.png",
     "attachments/Pasted image 20260404124656.png",
     "attachments",
     "session notes/2026-03-24.md",
-    "World Notes/Carcanhar.md",
     "World Notes/Vagner.md",
-    "World Notes/Cariuna.md",
     "World Notes/Miconídeos.md",
-    "World Notes/Mabel.md",
-    "World Notes/World Map - Cariuna.md",
     "session notes/attachments/Pasted image 20260404120201.png",
     "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
     "session notes/attachments/Pasted image 20260404093444.png",
@@ -301,7 +302,6 @@
     "World Notes",
     "Templates",
     "Ficha de personagens",
-    "session notes",
-    "backstory/attachments"
+    "session notes"
   ]
 }
