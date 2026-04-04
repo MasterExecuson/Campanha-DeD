@@ -74,25 +74,25 @@
 
 ## Inventário
 
-| Slots<br>(mochila) |           Item           | Quantidade |
-| :----------------: | :----------------------: | :--------: |
-|         1          |      Saco de dormir      |     1      |
-|         2          |         Panelas          |     1      |
-|         3          |          Tochas          |     2      |
-|         4          |      Lenha (pacote)      |     1      |
-|         5          | (Lenha ocupa dois slots) |     -      |
-|         6          |          Ração           |     1      |
-|         7          |          Ração           |     1      |
-|         8          |          Ração           |     1      |
-|         9          |      Moedas de ouro      |     1      |
-|         10         |                          |            |
-|         11         |                          |            |
-|         12         |                          |            |
-|         13         |                          |            |
-|         14         |                          |            |
-|         15         |                          |            |
-|         16         |                          |            |
-|         17         |                          |            |
+| Slots<br>(mochila) |       Item        | Quantidade |
+| :----------------: | :---------------: | :--------: |
+|         1          |  Saco de dormir   |     1      |
+|         2          |      Panelas      |     1      |
+|         3          |      Tochas       |     2      |
+|         4          | Lenha (pacote) ~~ |     1      |
+|         5          |        ~~         |     -      |
+|         6          |       Ração       |     1      |
+|         7          |       Ração       |     1      |
+|         8          |       Ração       |     1      |
+|         9          |  Moedas de ouro   |     1      |
+|         10         |   Alabarda  ~~    |     1      |
+|         11         |        ~~         |     -      |
+|         12         |        ~~         |     -      |
+|         13         |                   |            |
+|         14         |                   |            |
+|         15         |                   |            |
+|         16         |                   |            |
+|         17         |                   |            |
 # Passado
 
 Eu sou nativo a cariuna. Adalberto. Eu sou um vassalo do clã escaramuro, uma casa nobre de cariuna, e eu to familizarizado com o local. Eu sigo a igreja puritina.
