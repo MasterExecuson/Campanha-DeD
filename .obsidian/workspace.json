@@ -15,7 +15,7 @@
               "state": {
                 "file": "session notes/2026-04-04.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -31,8 +31,7 @@
               "title": "2026-04-04"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,23 +202,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "2ccc22845e444b41",
   "lastOpenFiles": [
-    "Ficha de personagens/Hadalberto.md",
-    "Ficha de personagens/Peckii.md",
     "session notes/2026-04-04.md",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Hadalberto.md",
     "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
     "Ficha de personagens/Valfrrex.md",
     "session notes/attachments/Pasted image 20260404093444.png",
