@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e6afaf55e1df9105",
+        "id": "7ee10d29fdc91f04",
         "type": "tabs",
         "children": [
           {
-            "id": "a266830ffa9399a4",
+            "id": "fdc7853e7f4391ab",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -45,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -182,9 +181,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "84b9fe883e7b309d",
+  "active": "fdc7853e7f4391ab",
   "lastOpenFiles": [
     "Ficha de personagens/Hadalberto.md",
+    "session notes/2026-04-04.md",
+    "World Notes/World Map - Cariuna.md",
+    "World Notes/Sul de Cariuna - Mata Alta.md",
+    "World Notes/Carcanhar - High Hankle.md",
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Barbarian.md",
@@ -222,10 +225,6 @@
     "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/attachments",
     "Ficha de personagens",
-    "backstory/Varfrrex - clerigo.md",
-    "dungeon_master_notes/Dungeon Master Secret Notes.md",
-    "dungeon_master_notes/Checklist Pré Sessão 1.md",
-    "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
     "backstory/attachments",
     "backstory",
     "Drawings",
