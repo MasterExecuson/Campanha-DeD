@@ -198,52 +198,52 @@
       "seasonal": {
         "seasons": [
           {
-            "id": "ID_2858ca4ac859",
-            "name": "Skithrix",
-            "color": "#454336",
-            "type": "Dated",
-            "kind": "Autumn",
-            "month": 2,
-            "day": 1,
-            "weatherOffset": 15,
-            "weatherPeak": 1.5
-          },
-          {
             "id": "ID_99ebfb0bb9fb",
             "name": "Skrev",
             "color": "#4400ff",
-            "type": "Dated",
+            "type": "Periodic",
             "kind": "Winter",
-            "month": 4,
-            "day": 18,
-            "weatherOffset": 15,
-            "weatherPeak": 1.5
+            "duration": 91.3125,
+            "peak": 30,
+            "weatherOffset": 30,
+            "weatherPeak": 30
           },
           {
             "id": "ID_39194a692adb",
             "name": "Vorinclex",
-            "color": "#07781a",
-            "type": "Dated",
+            "color": "#38881b",
+            "type": "Periodic",
             "kind": "Spring",
-            "month": 7,
-            "day": 1,
-            "weatherOffset": 15,
-            "weatherPeak": 1.5
+            "duration": 91.3125,
+            "peak": 30,
+            "weatherOffset": 30,
+            "weatherPeak": 30
           },
           {
             "id": "ID_69c8b908c9a9",
             "name": "Glissa",
             "color": "#98fe62",
-            "type": "Dated",
-            "kind": "Summer",
-            "month": 9,
-            "day": 19,
-            "weatherOffset": 15,
-            "weatherPeak": 1.5
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 91.3125,
+            "peak": 30,
+            "weatherOffset": 30,
+            "weatherPeak": 30
+          },
+          {
+            "id": "ID_2858ca4ac859",
+            "name": "Skithrix",
+            "color": "#000000",
+            "type": "Periodic",
+            "kind": "Autumn",
+            "duration": 91.3125,
+            "peak": 30,
+            "weatherOffset": 30,
+            "weatherPeak": 30
           }
         ],
-        "offset": -111,
-        "type": "Dated",
+        "offset": -18,
+        "type": "Periodic",
         "displayColors": true,
         "interpolateColors": true,
         "weather": {

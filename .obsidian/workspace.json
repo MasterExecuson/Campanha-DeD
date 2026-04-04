@@ -95,16 +95,42 @@
     "type": "split",
     "children": [
       {
-        "id": "58c34f7f103dbe55",
+        "id": "bc2ec526012743b5",
         "type": "tabs",
         "children": [
           {
-            "id": "76fde20d4f249eb0",
+            "id": "3e277990aaa1e10a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 7,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_19c968eb5b09"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "ccc096fff2d8d2c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +140,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Links inversos para Valfrrex"
             }
           },
           {
-            "id": "5fdea5aef1788f10",
+            "id": "2953832421b8099e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Links de saída para Valfrrex"
             }
           },
           {
-            "id": "4f9efd337176b097",
+            "id": "a77a2ffccea3e07c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,22 +169,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "847aa98f7dfa9478",
+            "id": "14871ea5c0f5d2d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Sumário de Valfrrex"
             }
           }
         ]
@@ -182,7 +208,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5bada51e0cfbe8f",
+  "active": "3e277990aaa1e10a",
   "lastOpenFiles": [
     "session notes/2026-03-24.md",
     "session notes/2026-03-14.md",
