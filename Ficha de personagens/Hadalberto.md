@@ -14,54 +14,61 @@
 |   Título    | Escudeiro  |
 |    Nível    |     1      |
 | Alinhamento |   Lawful   |
+|  Sabe ler?  |    Sim     |
 |     XP      |     0      |
 
 ---
 
-## Status de Combate
+## Ability Scores + Saving Throws
 
-| HP Máximo |                   AC                    | Reação | Iniciativa | Hit Dice |
-| :-------: | :-------------------------------------: | :----: | :--------: | :------: |
-|    10     | 14 (cota de malha)<br>+ 1 (escudo) = 15 |   -2   |     +2     |   1d6    |
+| Atributo | Valor | Modificador |          Saving Throws           | Valor |
+| :------: | :---: | :---------: | :------------------------------: | :---: |
+|   STR    |  17   |             |          Death, Poison           |  12   |
+|   INT    |  08   |             |           Magic Wands            |  13   |
+|   WIS    |  07   |             |     Paralysis, Petrification     |  12   |
+|   DEX    |  11   |             |          Breath Attacks          |  15   |
+|   CON    |  14   |             | Spells, magic rods, magic staves |  15   |
+|   CHA    |  10   |             |  WIS modifier to saves vs magic  |  -1   |
+
+---
+## Combat
+
+| Current HP | Maximum HP |              Armour Class               | CON modifier to hit points | Unarmoured AC | DEX modifier to Armour Class |
+| :--------: | :--------: | :-------------------------------------: | :------------------------: | :-----------: | :--------------------------: |
+|     10     |     10     | 14 (cota de malha)<br>+ 1 (escudo) = 15 |             2              |      10       |              0               |
+
+---
+## Encounters
+
+| Init (DEX modifier to initiative) | +- (CHA modifier to reaction rolls) |
+| :-------------------------------: | :---------------------------------: |
+|                 0                 |                  0                  |
+
+---
+## Attack Rolls
+
+| Mel | Mis | AB  |
+| :-: | :-: | :-: |
+| +3  | +0  | +4  |
+
+|  9  |  8  |  7  |  6  |  5  |  4  |  3  |  2  |  1  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|     |     |     |     |     |     |     |     |     |
 
 ---
 
-## Atributos e Modificadores
+## Abilities, Skills, Weapons
 
-| Atributo | Valor | Modificador | Saving Throws                  | Valor |
-| :------- | :---: | :---------: | :----------------------------- | :---: |
-| **STR**  |  17   |             | **Death/Poison**               |  12   |
-| **DEX**  |  08   |             | **Wands**                      |  13   |
-| **CON**  |  07   |             | **Paralysis**                  |  12   |
-| **INT**  |  11   |             | **Breath**                     |  15   |
-| **WIS**  |  14   |             | **Spells**                     |  15   |
-| **CHA**  |  10   |             | WIS modifier to saves vs magic |  -1   |
+**Weapons**
+- Espada Longa (1d8)
+- Escudo (+1 CA)
 
----
-
-## Perícias (Skills)
-
-| Bônus | Perícia          | Observações                                            |
-| :---: | :--------------- | :----------------------------------------------------- |
-|  +2   | Identificar solo |                                                        |
-|  +1   | Furtividade      |                                                        |
-|  +1   | Herbologia       |                                                        |
-|  +2   | Esgueirar        | Se achatar/moldar para se adequar aos espaços ao redor |
-
----
-
-## Habilidades e Combate
-
-| Habilidade                  | Detalhes                                                         |
-| :-------------------------- | :--------------------------------------------------------------- |
-| **Habilidade Principal**    | Sabedoria (Wisdom)                                               |
-| **Ataque natural**          | 1d4                                                              |
-| **Telepatia**               | Alcance de 18m - 30m                                             |
-| **Detectar cogumelos**      | Alcance de 18m                                                   |
-| **Sensibilidade Fogo**      | Recebe 1d4 de dano adicional                                     |
-| **Sensibilidade Luz Plena** | -1 em rolagens de Combate                                        |
-| **Armadura**                | Armadura natural                                                 |
-| **Armas**                   | Cogumelo tranquilizante, Cogumelo venenoso, Cogumelo envigorante |
+**Skills**
+- Conhecimento (Nobreza): +1
+- Lâminas: +1
+- Presença: +1
+- Convencer: +1
+- Encantar: +1
 
 ---
 
