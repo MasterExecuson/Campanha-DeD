@@ -13,9 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Miconídeos.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "d5bada51e0cfbe8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backstory/Varfrrex - clerigo.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,10 +42,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Miconídeos"
+              "title": "Varfrrex - clerigo"
+            }
+          },
+          {
+            "id": "5738431104cf19e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backstory/Barbarian (Barb) - Bárbaro.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Barbarian (Barb) - Bárbaro"
+            }
+          },
+          {
+            "id": "994a2a2843f2c163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Cariuna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cariuna"
+            }
+          },
+          {
+            "id": "883b999fd073f6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Cária.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Cária"
+            }
+          },
+          {
+            "id": "1e0607684335f7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Império Cariano"
+            }
+          },
+          {
+            "id": "d27e4a5edaacd494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Magia Mana"
+            }
+          },
+          {
+            "id": "40087e49870a2db5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "varfrrex.excalidraw"
+            }
+          },
+          {
+            "id": "e995651be7123b6b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,8 +351,19 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "e084aef41f11a15e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,49 +384,50 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2ccc22845e444b41",
+  "active": "994a2a2843f2c163",
   "lastOpenFiles": [
-    "World Notes/attachments/Pasted image 20260403221651.png",
-    "World Notes/attachments/Dolmenwood Player's Map.png",
-    "World Notes/Cutuvelo - High Hankle.md",
     "World Notes/Atanuwë.md",
-    "session notes/2026-04-04.md",
-    "session notes/Sem título.md",
     "World Notes/Vagner.md",
-    "World Notes/Cutuvelo - High hanckle.md",
-    "World Notes/Drumen Nol.md",
-    "World Notes/elfos da geada.md",
+    "World Notes/Rogério Burlle.md",
+    "README.md",
+    "World Notes/World Map - Cariuna.md",
+    "World Notes/attachments/Dolmenwood Player's Map.png",
+    "World Notes/attachments/1owyN2D.png",
+    "World Notes/attachments/Pasted image 20260403221651.png",
     "World Notes/Miconídeos.md",
-    "dungeon_master_notes/Dungeon Master Secret Notes.md",
+    "Ficha de personagens/Barbarian.md",
+    "Ficha de personagens/Ida.md",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Valfrrex.md",
+    "session notes/2026-03-14.md",
+    "session notes/2026-03-24.md",
+    "Ficha de personagens/attachments/Peckii.png",
+    "World Notes/Drumen Nol.md",
+    "World Notes/Cutuvelo - High Hankle.md",
     "World Notes/Curas.md",
     "World Notes/cornos e chifrudos - Bregos.md",
-    "World Notes/chifrin - lankshorn.md",
-    "session notes/2026-03-24.md",
-    "session notes/2026-03-14.md",
-    "World Notes/Atanoe.md",
-    "Ficha de personagens/Valfrrex.md",
-    "backstory/Barbarian (Barb) - Bárbaro.md",
-    "Ficha de personagens/Barbarian.md",
+    "World Notes/Cariuna.md",
     "Ficha de personagens/attachments/knight.png",
-    "Ficha de personagens/attachments/Peckii.png",
+    "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
+    "dungeon_master_notes/{PLACEHOLDER} Império Prísmico.md",
+    "dungeon_master_notes/Dungeon Master Secret Notes.md",
+    "dungeon_master_notes/Checklist Pré Sessão 1.md",
+    "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
+    "dungeon_master_notes/{PLACEHOLDER} Continente.md",
+    "dungeon_master_notes/{PLACEHOLDER} Cária.md",
+    "dungeon_master_notes/{Outline} Magia.md",
+    "dungeon_master_notes/{Outline} Elfos.md",
     "Ficha de personagens/attachments",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Ida.md",
-    "World Notes/cornos e chifrudos.md",
-    "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
-    "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
-    "session notes",
-    "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments",
-    "World Notes/World Map - Cariuma.md",
-    "World Notes",
-    "backstory/attachments/Boros.png",
-    "backstory/attachments/Pasted image 20260315122710.png",
-    "backstory/attachments/Barb.png",
+    "session notes",
     "backstory/attachments/Kevin.png",
     "backstory/attachments/Cheevos 2.png",
     "backstory/attachments/Cheevos 1.png",
-    "session notes",
+    "backstory/attachments/Boros.png",
+    "backstory/attachments/Barb.png",
+    "World Notes",
+    "Templates",
+    "Ficha de personagens",
     "backstory/attachments",
     "backstory",
     "Drawings",
