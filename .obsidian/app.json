@@ -1,10 +1,11 @@
 {
   "showLineNumber": true,
   "trashOption": "local",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newFileFolderPath": "World Notes"
 }
