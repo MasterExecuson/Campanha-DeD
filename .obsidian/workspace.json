@@ -170,14 +170,410 @@
               "icon": "lucide-ghost",
               "title": "initiative-tracker-view"
             }
+          },
+          {
+            "id": "0f8af1fc85591373",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 6,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_38f81ac8b97a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "7a856710d2588ea5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_2b08293bbb5b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d59647eb1005bb21",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_a828f8185818"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "677ece053ef86d99",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_897b6ba9e97a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "1686b63d66e63859",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_786a6a19dbab"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "5f7f90258ad58f9f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_6b7a799b2acb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "9a6e56136f4d6016",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_6b987a89c8ea"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "c26df2fce430a1b4",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_fbca7848ba9b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "27d324ca8f7e6ea6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_9ba8db6bbbca"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "a2b1e793b7849534",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_0a394b8a08e9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "ace1017b17cbc3ed",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_7beb28fa8bd8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "dbcc8494b879e3bf",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_28c99859383a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "a9132e1d1da96e02",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 1532
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_4b7beb0bb8db"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "e6b4ed8982fb76c1",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 7,
+                    "year": 1531
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": false,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_28dbd85a8a7b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d7ea00794b7f8f7e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 6,
+                    "year": 1531
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_7aaa8b08fada"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +586,11 @@
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "2ccc22845e444b41",
+  "active": "d7ea00794b7f8f7e",
   "lastOpenFiles": [
     "session notes/2026-03-14.md",
     "World Notes/Miconídeos.md",
