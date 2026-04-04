@@ -1,0 +1,1 @@
+Cavaleiro com armadura pesada, detalhes parecendo gelo. Barba de estalactites de gelo, com espada e pose imponentes

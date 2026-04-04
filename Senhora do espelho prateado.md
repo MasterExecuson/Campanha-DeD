@@ -1,0 +1,1 @@
+Mulher alta, elegante, tocando harpa em formato de gota de lágrima
