@@ -6,15 +6,15 @@
 
 ## 
 
-| Atributo        | Detalhe   |
-| :-------------- | :-------- |
-| **Classe**      | Cavaleiro |
-| **Nível**       | 1         |
-| **Raça**        | Humano    |
-| **Alinhamento** | Lawful    |
-| **Título**      | Escudeiro |
-| **Sabe ler?**   | Sim       |
-| **XP**          | 0         |
+|  Atributo   |   Valor    |
+| :---------: | :--------: |
+|    Nome     | Hadalberto |
+|    Raça     |   Humano   |
+|   Classe    | Cavaleiro  |
+|   Título    | Escudeiro  |
+|    Nível    |     1      |
+| Alinhamento |   Lawful   |
+|     XP      |     0      |
 
 ---
 
