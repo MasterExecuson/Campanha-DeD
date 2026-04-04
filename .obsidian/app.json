@@ -8,5 +8,5 @@
   "promptDelete": false,
   "showInlineTitle": false,
   "spellcheck": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }
