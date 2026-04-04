@@ -12,11 +12,12 @@
 **Alignment** | Neutro |
 **Profissão** | Miconídeo Peregrino |
 **Sabe ler?** | Não |
+**XP** | 75/2000 |
 
 # Stats
-Max HP | AC | Reaction | Initiative | Hit Dice | XP |
-:---:|:---:|:---:|:---:|:---:|:---:|
-8|13|-2|+2|1d6|75|
+Max HP | AC | Reaction | Initiative | Hit Dice |
+:---:|:---:|:---:|:---:|:---:|
+8|13|-2|+2|1d6|
 
 #### Pontos de Habilidade
 

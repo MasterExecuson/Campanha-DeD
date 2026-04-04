@@ -11,7 +11,7 @@
 **Alignment** | Lawful Good |
 **Background** | Phyrexiano convertido |
 **Literate** | YES |
-**XP** | 570/2000 |
+**XP** | 645/2000 |
 
 # Stats
 Max HP | AC | Reaction | Initiative |
