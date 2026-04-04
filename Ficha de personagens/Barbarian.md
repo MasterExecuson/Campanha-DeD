@@ -100,10 +100,11 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 7. Oil Flask
 8. Chifre de boss bode
 9. Chifre de boss bode
-10. Anel
-11. Tocha
-12. Tocha
-13. Ração
+10. Perna de bode da boda do vini
+11. Colar Dourado
+12. Vazio
+13. Vazio
+14. Vazio
 
 # Personality
 ###### Personality Traits

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Classes/Myconid.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Myconid"
+              "title": "Valfrrex"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -95,16 +95,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58c34f7f103dbe55",
+        "id": "bc2ec526012743b5",
         "type": "tabs",
         "children": [
           {
-            "id": "76fde20d4f249eb0",
+            "id": "ccc096fff2d8d2c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Links inversos para Valfrrex"
             }
           },
           {
-            "id": "5fdea5aef1788f10",
+            "id": "2953832421b8099e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dungeon_master_notes/Sem título.md",
+                "file": "World Notes/Vagner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Sem título"
+              "title": "Links de saída para Vagner"
             }
           },
           {
-            "id": "4f9efd337176b097",
+            "id": "a77a2ffccea3e07c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,28 +147,18 @@
             }
           },
           {
-            "id": "847aa98f7dfa9478",
+            "id": "14871ea5c0f5d2d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "World Notes/Vagner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "e084aef41f11a15e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Sumário de Vagner"
             }
           }
         ],
@@ -196,51 +186,38 @@
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
-    "Ficha de personagens/Valfrrex.md",
-    "session notes/2026-08-01.md",
-    "Ficha de personagens/Ida.md",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Classes/Myconid.md",
     "Ficha de personagens/Barbarian.md",
-    "session notes/2026-06-06.md",
-    "World Notes/Corte da Geada/Elfos da Geada.md",
-    "World Notes/Corte da Geada/Drumen Nol.md",
-    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
-    "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
-    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "World Notes/Corte da Geada/Relógio de sol.md",
-    "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
-    "World Notes/Corte da Geada/Senhor Sombra Osso.md",
-    "World Notes/Corte da Geada/Senhora do espelho prateado.md",
-    "World Notes/Corte da Geada/Sussuro da vela.md",
-    "Malcor.md",
-    "World Notes/Tumba.md",
-    "session notes/2026-03-14.md",
-    "session notes/2026-03-24.md",
+    "Ficha de personagens/Valfrrex.md",
     "session notes/2026-04-04.md",
-    "session notes/2026-05-16.md",
-    "World Notes/Lore/Regiões de Cariuna.md",
-    "World Notes/Lore/Povos de Cariuna.md",
-    "World Notes/Lore/Cidades de Cariuna.md",
-    "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
-    "Ficha de personagens/Classes",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Hadalberto.md",
+    "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
+    "session notes/attachments/Pasted image 20260404093444.png",
+    "session notes/attachments",
+    "conflict-files-obsidian-git.md",
+    "World Notes/Atanuwë.md",
+    "World Notes/Relogio de sol - ditado.md",
+    "World Notes/Sul de Cariuna - Mata Alta.md",
+    "World Notes/Vagner.md",
+    "World Notes/World Map - Cariuna.md",
+    "World Notes/Carcanhar - High Hankle.md",
+    "session notes/2026-03-14.md",
+    "World Notes/Miconídeos.md",
+    "World Notes/attachments/Pasted image 20260403221651.png",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
     "Regras",
     "World Notes/Lore",
     "World Notes/attachments/1owyN2D.png",
-    "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
-    "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
-    "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
-    "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
-    "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png",
-    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
-    "attachments",
-    "World Notes/Corte da Geada/attachments",
-    "World Notes/Corte da Geada",
-    "World Notes/Bregos",
-    "session notes/attachments",
-    "Ficha de personagens/attachments",
-    "World Notes/attachments"
+    "World Notes/attachments",
+    "World Notes",
+    "backstory/attachments/Boros.png",
+    "backstory/attachments/Pasted image 20260315122710.png",
+    "backstory/attachments/Barb.png",
+    "session notes",
+    "backstory/attachments",
+    "backstory",
+    "Drawings",
+    "dungeon_master_notes"
   ]
 }

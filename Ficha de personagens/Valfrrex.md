@@ -79,11 +79,11 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 2. Grapling Hook
 3. corda
 4. Ichor Flask
-5. Bracelete que parece valer um valor + [[Figura homem cobra quarto 10]]
+5. Bracelete que parece valer um valor + [[Figura homem cobra quarto 10]] + [[joias sala 11]]
 6. Alabarda
 7. Alabarda
 8. Alabarda
-9. Coroa do Rei Cobra
+9. Anel Magico
 
 
 10. bilhete indecifrável sobre [[Rogério Burlle]]
