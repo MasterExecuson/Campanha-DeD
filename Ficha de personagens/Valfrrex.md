@@ -75,18 +75,19 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 :---:|:---:|:---:|:---:|:---:|
 0|500|0|10|0|
 
-1. vazio
-2. Ink, quill, 5 sheets of paper
-3. Grapling Hook
-4. corda
-5. Ichor Flask
-6. Bracelete que parece valer um valor
-7. bilhete indecifrável sobre [[Rogério Burlle]]
-8. [[Figura homem cobra quarto 10]]
+1. Ink, quill, 5 sheets of paper
+2. Grapling Hook
+3. corda
+4. Ichor Flask
+5. Bracelete que parece valer um valor + [[Figura homem cobra quarto 10]]
+6. Alabarda
+7. Alabarda
+8. Alabarda
 9. Vazio
-10. Vazio
-11. Vazio
-12. Vazio
+
+
+10. bilhete indecifrável sobre [[Rogério Burlle]]
+
 
 # Personality
 ###### Personality Traits
