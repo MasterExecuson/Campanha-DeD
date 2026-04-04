@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee10d29fdc91f04",
+        "id": "5980159ae1e28175",
         "type": "tabs",
         "children": [
           {
-            "id": "fdc7853e7f4391ab",
+            "id": "8ce748a67844b068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ficha de personagens/Hadalberto.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bdbdd1cf5c350d4f",
@@ -105,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficha de personagens/Hadalberto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hadalberto"
+              "title": "Backlinks"
             }
           },
           {
@@ -191,16 +189,17 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "fdc7853e7f4391ab",
+  "active": "8ce748a67844b068",
   "lastOpenFiles": [
+    "Ficha de personagens/Hadalberto.md",
+    "session notes/2026-04-04.md",
     "session notes/attachments/Pasted image 20260404093444.png",
     "session notes/attachments",
     "World Notes/Relogio de sol - ditado.md",
-    "Ficha de personagens/Hadalberto.md",
-    "session notes/2026-04-04.md",
     "World Notes/World Map - Cariuna.md",
     "World Notes/Sul de Cariuna - Mata Alta.md",
     "World Notes/Carcanhar - High Hankle.md",
@@ -229,7 +228,6 @@
     "World Notes/cornos e chifrudos - Bregos.md",
     "World Notes/attachments/Pasted image 20260403221651.png",
     "World Notes/attachments/Dolmenwood Player's Map.png",
-    "World Notes/attachments/1owyN2D.png",
     "World Notes/World Map - Cariuma.md",
     "World Notes/Vagner.md",
     "World Notes/Miconídeos.md",
