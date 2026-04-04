@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6afe1062083518a0",
+        "id": "dd495f3993cbccec",
         "type": "tabs",
         "children": [
           {
-            "id": "39c29cd07d3f835c",
+            "id": "1153afc3d88a11fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 239.5
   },
   "right": {
     "id": "bdbdd1cf5c350d4f",
@@ -193,10 +193,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "39c29cd07d3f835c",
+  "active": "1153afc3d88a11fb",
   "lastOpenFiles": [
-    "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
+    "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Hadalberto.md",
+    "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
     "session notes/2026-04-04.md",
     "session notes/attachments/Pasted image 20260404093444.png",
     "session notes/attachments",
@@ -219,7 +220,6 @@
     "session notes/2026-03-24.md",
     "session notes/2026-03-14.md",
     "World Notes/attachments/Pasted image 20260403221651.png",
-    "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/World Map - Cariuma.md",
     "World Notes/Vagner.md",
     "World Notes/Miconídeos.md",
