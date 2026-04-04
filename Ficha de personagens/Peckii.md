@@ -16,7 +16,7 @@
 # Stats
 Max HP | AC | Reaction | Initiative | Hit Dice | XP |
 :---:|:---:|:---:|:---:|:---:|:---:|
-8|13|-2|+2|1d6|0|
+8|13|-2|+2|1d6|75|
 
 #### Pontos de Habilidade
 
