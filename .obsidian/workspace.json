@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-04-04.md",
-                "mode": "source",
+                "file": "Ficha de personagens/Peckii.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -71,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -95,11 +95,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2ec526012743b5",
+        "id": "58c34f7f103dbe55",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc096fff2d8d2c5",
+            "id": "76fde20d4f249eb0",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -118,21 +118,21 @@
             }
           },
           {
-            "id": "2953832421b8099e",
+            "id": "5fdea5aef1788f10",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Vagner.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Vagner"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "a77a2ffccea3e07c",
+            "id": "4f9efd337176b097",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,16 +143,16 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "14871ea5c0f5d2d1",
+            "id": "847aa98f7dfa9478",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Vagner.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,8 +211,7 @@
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "2ccc22845e444b41",
@@ -260,7 +259,6 @@
     "session notes",
     "backstory/attachments",
     "backstory",
-    "Drawings",
-    "dungeon_master_notes"
+    "Drawings"
   ]
 }
