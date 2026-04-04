@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee10d29fdc91f04",
+        "id": "e194ef5a2809c0cb",
         "type": "tabs",
         "children": [
           {
-            "id": "fdc7853e7f4391ab",
+            "id": "2ccc22845e444b41",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "session notes/2026-04-04.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-04-04"
             }
           }
         ]
@@ -85,15 +95,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58c34f7f103dbe55",
+        "id": "bc2ec526012743b5",
         "type": "tabs",
         "children": [
           {
-            "id": "76fde20d4f249eb0",
+            "id": "ccc096fff2d8d2c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "session notes/2026-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para 2026-04-04"
             }
           },
           {
-            "id": "5fdea5aef1788f10",
+            "id": "2953832421b8099e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "World Notes/Vagner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Links de saída para Vagner"
             }
           },
           {
-            "id": "4f9efd337176b097",
+            "id": "a77a2ffccea3e07c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,99 +143,121 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "847aa98f7dfa9478",
+            "id": "14871ea5c0f5d2d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "World Notes/Vagner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "84b9fe883e7b309d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Sumário de Vagner"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "3a1b003dceb9940f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e277990aaa1e10a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 653
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_19c968eb5b09"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "fdc7853e7f4391ab",
+  "active": "2ccc22845e444b41",
   "lastOpenFiles": [
     "Ficha de personagens/Hadalberto.md",
-    "session notes/2026-04-04.md",
-    "World Notes/World Map - Cariuna.md",
     "World Notes/Sul de Cariuna - Mata Alta.md",
+    "World Notes/Vagner.md",
+    "World Notes/World Map - Cariuna.md",
+    "session notes/2026-04-04.md",
     "World Notes/Carcanhar - High Hankle.md",
-    "Ficha de personagens/Ida.md",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Barbarian.md",
-    "Ficha de personagens/attachments/Peckii.png",
-    "Ficha de personagens/attachments/knight.png",
-    "World Notes/Rogério Burlle.md",
-    "World Notes/Drumen Nol.md",
-    "World Notes/Cutuvelo - High Hankle.md",
-    "World Notes/chifrin - lankshorn.md",
-    "World Notes/Cariuna.md",
-    "World Notes/Atanuwë.md",
-    "README.md",
-    "session notes/2026-03-24.md",
     "session notes/2026-03-14.md",
-    "session notes",
-    "backstory/attachments/Kevin.png",
-    "backstory/attachments/Cheevos 2.png",
-    "backstory/attachments/Cheevos 1.png",
-    "backstory/attachments/Boros.png",
-    "backstory/attachments/Barb.png",
-    "backstory/Barbarian (Barb) - Bárbaro.md",
-    "World Notes/elfos da geada.md",
-    "World Notes/cornos e chifrudos - Bregos.md",
+    "World Notes/Miconídeos.md",
     "World Notes/attachments/Pasted image 20260403221651.png",
     "World Notes/attachments/Dolmenwood Player's Map.png",
-    "World Notes/attachments/1owyN2D.png",
-    "World Notes/World Map - Cariuma.md",
-    "World Notes/Vagner.md",
-    "World Notes/Miconídeos.md",
+    "World Notes/Atanuwë.md",
+    "World Notes/Cutuvelo - High hanckle.md",
+    "World Notes/Drumen Nol.md",
+    "World Notes/elfos da geada.md",
+    "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "World Notes/Curas.md",
+    "World Notes/cornos e chifrudos - Bregos.md",
+    "World Notes/chifrin - lankshorn.md",
+    "session notes/2026-03-24.md",
+    "World Notes/Atanoe.md",
+    "Ficha de personagens/Valfrrex.md",
+    "backstory/Barbarian (Barb) - Bárbaro.md",
+    "Ficha de personagens/Barbarian.md",
+    "Ficha de personagens/attachments/knight.png",
+    "Ficha de personagens/attachments/Peckii.png",
+    "Ficha de personagens/attachments",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Ida.md",
+    "World Notes/cornos e chifrudos.md",
+    "Drawings/Drawing 2026-03-24 19.57.31.excalidraw.md",
+    "Drawings/Drawing 2026-03-24 19.24.12.excalidraw.md",
+    "session notes",
+    "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments",
     "World Notes",
-    "Templates/Char Template.md",
-    "Templates",
-    "Ficha de personagens/Valfrrex.md",
-    "Ficha de personagens/attachments",
-    "Ficha de personagens",
+    "backstory/attachments/Boros.png",
+    "backstory/attachments/Pasted image 20260315122710.png",
+    "backstory/attachments/Barb.png",
+    "backstory/attachments/Kevin.png",
+    "backstory/attachments/Cheevos 2.png",
+    "session notes",
     "backstory/attachments",
     "backstory",
     "Drawings",
