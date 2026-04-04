@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
+                "file": "World Notes/Corte da Geada/Senhor Sombra Osso.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,11 +120,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Cavaleiro da Alvorada que nunca chega"
+              "title": "Senhor Sombra Osso"
             }
           }
         ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
+                "file": "World Notes/Corte da Geada/Senhor Sombra Osso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cavaleiro da Alvorada que nunca chega"
+              "title": "Backlinks for Senhor Sombra Osso"
             }
           },
           {
@@ -281,19 +281,20 @@
   },
   "active": "f11a2af8c7d41d3c",
   "lastOpenFiles": [
-    "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
-    "World Notes/Corte da Geada/Elfos da Geada.md",
-    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
     "World Notes/Corte da Geada/Senhora do espelho prateado.md",
-    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
-    "World Notes/Corte da Geada/Drumen Nol.md",
-    "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
     "World Notes/Corte da Geada/Sussuro da vela.md",
+    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
+    "World Notes/Corte da Geada/Drumen Nol.md",
+    "World Notes/Corte da Geada/Elfos da Geada.md",
+    "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
+    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
     "World Notes/Corte da Geada/Senhor Sombra Osso.md",
+    "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural.png",
+    "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
     "World Notes/Corte da Geada/Relógio de sol.md",
+    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
     "World Notes/Carcanhar.md",
     "session notes/2026-04-04.md",
     "World Notes/Tumba.md",
@@ -310,7 +311,6 @@
     "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
     "session notes/attachments/Pasted image 20260404120201.png",
     "session notes/attachments/Pasted image 20260404093444.png",
-    "World Notes/attachments/1owyN2D.png",
     "World Notes/Corte da Geada/attachments",
     "World Notes/Bregos/Atanuwë.md",
     "World Notes/Bregos/Bregos.md",
