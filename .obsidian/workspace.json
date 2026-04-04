@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5bada51e0cfbe8f",
+            "id": "2ccc22845e444b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Peckii.md",
-                "mode": "preview",
+                "file": "Ficha de personagens/Hadalberto.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Peckii"
+              "title": "Hadalberto"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Hadalberto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Hadalberto"
             }
           },
           {
