@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Miconídeos.md",
+                "file": "session notes/2026-04-04.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Miconídeos"
+              "title": "2026-04-04"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Miconídeos.md",
+                "file": "session notes/2026-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Miconídeos"
+              "title": "Links inversos para 2026-04-04"
             }
           },
           {
@@ -214,8 +214,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4d5b1fc35c851b1c",
+  "active": "2ccc22845e444b41",
   "lastOpenFiles": [
+    "World Notes/Miconídeos.md",
     "World Notes/World Map - Cariuna.md",
     "session notes/2026-04-04.md",
     "World Notes/attachments/Pasted image 20260403221651.png",
@@ -227,7 +228,6 @@
     "World Notes/Cutuvelo - High hanckle.md",
     "World Notes/Drumen Nol.md",
     "World Notes/elfos da geada.md",
-    "World Notes/Miconídeos.md",
     "dungeon_master_notes/Dungeon Master Secret Notes.md",
     "World Notes/Curas.md",
     "World Notes/cornos e chifrudos - Bregos.md",
