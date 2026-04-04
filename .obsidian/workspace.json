@@ -11,14 +11,24 @@
             "id": "2ccc22845e444b41",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Ficha de personagens/Hadalberto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Hadalberto"
             }
           }
         ]
@@ -196,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,9 +226,9 @@
   },
   "active": "2ccc22845e444b41",
   "lastOpenFiles": [
+    "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Hadalberto.md",
     "World Notes/Rogério Burlle.md",
-    "Ficha de personagens/Valfrrex.md",
     "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
     "session notes/attachments/Pasted image 20260404093444.png",
     "session notes/attachments",
