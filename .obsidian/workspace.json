@@ -13,23 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d5bada51e0cfbe8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backstory/Varfrrex - clerigo.md",
-                "mode": "source",
-                "source": false,
+                "file": "session notes/2026-04-04.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -353,9 +339,12 @@
   },
   "active": "e084aef41f11a15e",
   "lastOpenFiles": [
-    "World Notes/Cariuna.md",
+    "World Notes/World Map - Cariuna.md",
     "session notes/2026-04-04.md",
-    "World Notes/World Map - Cariuma.md",
+    "World Notes/Miconídeos.md",
+    "World Notes/attachments/Pasted image 20260403221651.png",
+    "World Notes/attachments/Dolmenwood Player's Map.png",
+    "World Notes/Cutuvelo - High Hankle.md",
     "World Notes/Atanuwë.md",
     "World Notes/Vagner.md",
     "World Notes/Rogério Burlle.md",
