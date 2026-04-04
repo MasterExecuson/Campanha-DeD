@@ -20,7 +20,7 @@ Max HP | AC | Reaction | Initiative |
 
 Temp HP |  Hit Dice | 
 :---:|:---:|
-7|1x6|
+0|1x6|
 
 
 #### Ability Score

@@ -75,8 +75,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Atanuwë.md",
-                "mode": "source",
+                "file": "Ficha de personagens/Barbarian.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atanuwë"
+              "title": "Barbarian"
             }
           },
           {
@@ -353,17 +353,20 @@
   },
   "active": "994a2a2843f2c163",
   "lastOpenFiles": [
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Valfrrex.md",
+    "Ficha de personagens/Barbarian.md",
+    "Ficha de personagens/attachments/Peckii.png",
     "World Notes/attachments/Dolmenwood Player's Map.png",
+    "World Notes/Atanuwë.md",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/Drumen Nol.md",
     "World Notes/Cutuvelo - High Hankle.md",
     "World Notes/Curas.md",
     "World Notes/cornos e chifrudos - Bregos.md",
     "World Notes/Cariuna.md",
-    "World Notes/Atanuwë.md",
     "World Notes/Vagner.md",
     "World Notes/Rogério Burlle.md",
-    "Ficha de personagens/attachments/Peckii.png",
     "Ficha de personagens/attachments/knight.png",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
     "dungeon_master_notes/{PLACEHOLDER} Império Prísmico.md",
@@ -377,10 +380,7 @@
     "session notes/2026-03-24.md",
     "World Notes/Chifrin - Lankshorn.md",
     "session notes/2026-03-14.md",
-    "Ficha de personagens/Barbarian.md",
     "Ficha de personagens/Ida.md",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Valfrrex.md",
     "Drawings/varfrrex.excalidraw.md",
     "Ficha de personagens/attachments",
     "World Notes/attachments",
@@ -394,7 +394,6 @@
     "Templates",
     "Ficha de personagens",
     "backstory/attachments/{5B9B8A82-86A1-4742-A82E-FB4E91423223}.png",
-    "backstory/attachments/{42B1B2D6-1736-4E50-B978-C5034B6A6E7F}.png",
     "backstory/attachments",
     "backstory",
     "Drawings",
