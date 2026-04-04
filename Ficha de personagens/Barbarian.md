@@ -13,9 +13,9 @@
 **Literate** | NO |
 
 # Stats
-Max HP | AC | Reaction | Initiative |
-:---:|:---:|:---:|:---:|
-13|15|0|+2|
+Max HP | AC | Reaction | Initiative | XP
+:---:|:---:|:---:|:---:|:---:|
+13|15|0|+2|280
 
 Temp HP | Hit Dice | 
 :---:|:---:|
@@ -108,7 +108,7 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 
 # Personality
 ###### Personality Traits
-- 155 XP
+- 155 XP + 125 XP = 280XP
 - Muito confiável
 - Não tem muitos pensamentos
 - Ele faz o bem, mas através de métodos insanos de tortura criativa
