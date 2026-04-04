@@ -82,7 +82,7 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 5. Ichor Flask
 6. Bracelete que parece valer um valor
 7. bilhete indecifrável sobre [[Rogério Burlle]]
-8. Vazio
+8. [[Figura homem cobra quarto 10]]
 9. Vazio
 10. Vazio
 11. Vazio
