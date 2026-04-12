@@ -61,55 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ruínas do Castelo ao Norte de Carcanhar"
-            }
-          },
-          {
-            "id": "4fc422cbc96f9ec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session notes/2026-04-04.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-04"
-            }
-          },
-          {
-            "id": "f11a2af8c7d41d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Corte da Geada/Senhor Sombra Osso.md",
+                "file": "dungeon_master_notes/{PLACEHOLDER} Império Prísmico.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +76,103 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Senhor Sombra Osso"
+              "title": "{PLACEHOLDER} Império Prísmico"
+            }
+          },
+          {
+            "id": "883b999fd073f6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Cária.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Cária"
+            }
+          },
+          {
+            "id": "1e0607684335f7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Império Cariano"
+            }
+          },
+          {
+            "id": "d27e4a5edaacd494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Magia Mana"
+            }
+          },
+          {
+            "id": "40087e49870a2db5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "varfrrex.excalidraw"
+            }
+          },
+          {
+            "id": "e995651be7123b6b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
         ],
@@ -282,7 +330,27 @@
   },
   "active": "f11a2af8c7d41d3c",
   "lastOpenFiles": [
-    "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
+    "World Notes/Corte da Geada/Sussuro da vela.md",
+    "World Notes/Corte da Geada/Senhora do espelho prateado.md",
+    "World Notes/Corte da Geada/Senhor Sombra Osso.md",
+    "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
+    "World Notes/Corte da Geada/Relógio de sol.md",
+    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
+    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
+    "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
+    "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
+    "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
+    "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png",
+    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
+    "session notes/2026-04-04.md",
+    "session notes/2026-03-14.md",
+    "Ficha de personagens/Barbarian.md",
+    "session notes/attachments/Pasted image 20260404120201.png",
+    "attachments/Pasted image 20260404124851.png",
+    "attachments/Pasted image 20260404124656.png",
+    "attachments",
+    "World Notes/Tumba.md",
+    "World Notes/Mabel.md",
     "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
     "World Notes/Corte da Geada/Elfos da Geada.md",
     "World Notes/Corte da Geada/Drumen Nol.md",
