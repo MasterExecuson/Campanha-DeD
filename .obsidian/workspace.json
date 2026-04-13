@@ -75,8 +75,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/Facções de Dolmenwood.md",
-                "mode": "source",
+                "file": "Ficha de personagens/Barbarian.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Facções de Dolmenwood"
+              "title": "Barbarian"
             }
           },
           {
@@ -282,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Links de saída para Barbarian"
             }
           },
           {
@@ -302,7 +302,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -352,10 +352,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "994a2a2843f2c163",
+  "active": "e084aef41f11a15e",
   "lastOpenFiles": [
-    "dungeon_master_notes/Edumir Galafrinel.md",
     "dungeon_master_notes/Facções de Dolmenwood.md",
+    "dungeon_master_notes/Edumir Galafrinel.md",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
