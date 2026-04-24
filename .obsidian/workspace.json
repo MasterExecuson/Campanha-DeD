@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/Facções de Dolmenwood.md",
+                "file": "dungeon_master_notes/Sem título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Facções de Dolmenwood"
+              "title": "Sem título"
             }
           },
           {
@@ -282,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dungeon_master_notes/Facções de Dolmenwood.md",
+                "file": "dungeon_master_notes/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Facções de Dolmenwood"
+              "title": "Links de saída para Sem título"
             }
           },
           {
@@ -348,12 +348,13 @@
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "994a2a2843f2c163",
   "lastOpenFiles": [
+    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
+    "dungeon_master_notes/Facções de Dolmenwood.md",
     "dungeon_master_notes/Sem título.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
     "dungeon_master_notes/Planilha de Nomes.md",
@@ -362,7 +363,6 @@
     "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Hadalberto.md",
-    "dungeon_master_notes/Facções de Dolmenwood.md",
     "dungeon_master_notes/Edumir Galafrinel.md",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/1owyN2D.png",
@@ -383,7 +383,6 @@
     "World Notes/Corte da Geada/Senhor Sombra Osso.md",
     "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
     "World Notes/Corte da Geada/Relógio de sol.md",
-    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
     "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
