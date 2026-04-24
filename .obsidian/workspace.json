@@ -222,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Sedjo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +230,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
