@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/Sem título 3.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -114,7 +114,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sem título 3"
+              "title": "Barbarian"
             }
           },
           {
@@ -376,13 +376,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4d5b1fc35c851b1c",
+  "active": "a5db9222f96f4510",
   "lastOpenFiles": [
-    "dungeon_master_notes/Facções de Dolmenwood.md",
+    "Sem título.md",
+    "README.md",
     "dungeon_master_notes/Sem título 3.md",
+    "dungeon_master_notes/Facções de Dolmenwood.md",
     "dungeon_master_notes/Sem título 1.md",
     "dungeon_master_notes/Sem título 2.md",
-    "Sem título.md",
     "dungeon_master_notes/Sem título.md",
     "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
@@ -407,7 +408,6 @@
     "dungeon_master_notes/{PLACEHOLDER} Cária.md",
     "dungeon_master_notes/{PLACEHOLDER} Ritual de Ascendência.md",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
-    "World Notes/Corte da Geada/Sussuro da vela.md",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
     "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
