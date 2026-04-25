@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Lore/Sobre a Floresta Cariuna.md",
+                "file": "Regras/Descanso.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sobre a Floresta Cariuna"
+              "title": "Descanso"
             }
           },
           {
@@ -378,12 +378,15 @@
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "Regras/Experiência -- XP.md",
+    "Regras/Descanso.md",
+    "Ficha de personagens/Barbarian.md",
+    "World Notes/Lore/Sobre a Floresta Cariuna.md",
     "World Notes/Lore/Religiões em Tiresse.md",
     "World Notes/Lore/Regiões de Cariuna.md",
     "World Notes/Lore/Povos de Cariuna.md",
     "World Notes/Lore/Cidades de Cariuna.md",
     "World Notes/Lore/Casas nobres de Cariuna.md",
-    "Ficha de personagens/Barbarian.md",
     "Regras",
     "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Ida.md",
@@ -395,7 +398,6 @@
     "dungeon_master_notes/Sem título 3.md",
     "dungeon_master_notes/Sem título 1.md",
     "dungeon_master_notes/Sem título 4.md",
-    "World Notes/Lore/Sobre a Floresta Cariuna.md",
     "dungeon_master_notes/Sem título 2.md",
     "World Notes/Lore/Religiões em Tiresse 1.md",
     "dungeon_master_notes/Sem título.md",
@@ -404,7 +406,6 @@
     "README.md",
     "dungeon_master_notes/Facções de Dolmenwood.md",
     "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
