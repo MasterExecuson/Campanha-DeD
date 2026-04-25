@@ -123,8 +123,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regras/Descanso.md",
-                "mode": "source",
+                "file": "Ficha de personagens/Hadalberto.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Descanso"
+              "title": "Hadalberto"
             }
           },
           {
@@ -378,8 +378,8 @@
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
-    "Regras/Experiência -- XP.md",
     "Regras/Descanso.md",
+    "Regras/Experiência -- XP.md",
     "Ficha de personagens/Barbarian.md",
     "World Notes/Lore/Sobre a Floresta Cariuna.md",
     "World Notes/Lore/Religiões em Tiresse.md",

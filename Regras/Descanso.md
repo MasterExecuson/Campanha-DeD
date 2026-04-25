@@ -41,7 +41,7 @@ Todo descanso noturno requer condições mínimas para garantir benefícios. Sem
 **Sucesso**:
 
 - **Com tenda ou saco de dormir**: garantido.
-- **Sem equipamento de descanso**: cada personagem rola **Save vs Death/Poison**. Em caso de falha, o personagem não obtém os benefícios do descanso e **acumula 1 nível de exaustão**.
+- **Sem equipamento de descanso**: cada personagem rola um check de Constituição. Em caso de falha, o personagem não obtém os benefícios do descanso e pode acumular 1 nível de exaustão.
 
 **Benefícios (em caso de sucesso)**:
 
@@ -59,7 +59,7 @@ Todo descanso noturno requer condições mínimas para garantir benefícios. Sem
 **Sucesso**:
 
 - Faz-se uma **rolagem de encontro adicional** durante o descanso (além das rolagens normais).
-- Mesmo sem encontro, o descanso só é bem-sucedido com **50% de chance** (rolar 1d6: 1–3 = falha, 4–6 = sucesso).
+- Mesmo sem encontro, o descanso só é bem-sucedido com check de constituição com desvantagem.
 - Em caso de falha sem encontro: descanso interrompido, sem benefícios, mas sem exaustão automática.
 - Em caso de encontro: o descanso é interrompido e os PCs lidam com a ameaça.
 
@@ -69,14 +69,3 @@ Todo descanso noturno requer condições mínimas para garantir benefícios. Sem
 - Recupera **espaços de magia de nível 1 completos** + **metade dos espaços de níveis superiores** (arredondado para baixo).
 
 > [!warning] Tenda em dungeon Equipamento de descanso (tenda, saco de dormir) **não anula** as dificuldades do descanso em dungeon. A insegurança do ambiente é o fator decisivo.
-
----
-
-## Resumo Rápido
-
-|Local|Ração|Sucesso|HP|Magias|
-|---|---|---|---|---|
-|Cidade|1|Garantido|3|Todos|
-|Wilderness (com equipamento)|1|Garantido|1|Nv. 1 completo + metade dos demais|
-|Wilderness (sem equipamento)|1|Save vs Death/Poison|1|Nv. 1 completo + metade dos demais|
-|Dungeon|1|Encontro extra + 1d6 (4+)|1|Nv. 1 completo + metade dos demais|

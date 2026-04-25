@@ -8,5 +8,6 @@
   "promptDelete": false,
   "showInlineTitle": false,
   "spellcheck": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "readableLineLength": true
 }
