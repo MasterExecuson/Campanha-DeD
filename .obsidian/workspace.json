@@ -246,7 +246,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hogvarche",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -376,15 +376,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a5db9222f96f4510",
+  "active": "4d5b1fc35c851b1c",
   "lastOpenFiles": [
-    "dungeon_master_notes/Sem título 1.md",
+    "dungeon_master_notes/Facções de Dolmenwood.md",
     "dungeon_master_notes/Sem título 3.md",
+    "dungeon_master_notes/Sem título 1.md",
     "dungeon_master_notes/Sem título 2.md",
     "Sem título.md",
     "dungeon_master_notes/Sem título.md",
     "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "dungeon_master_notes/Facções de Dolmenwood.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
     "dungeon_master_notes/Planilha de Nomes.md",
     "Ficha de personagens/Barbarian.md",
