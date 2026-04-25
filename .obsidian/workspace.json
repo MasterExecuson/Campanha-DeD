@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/Sem título 4.md",
+                "file": "World Notes/Lore/Casas nobres de Cariuna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -114,7 +114,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sem título 4"
+              "title": "Casas nobres de Cariuna"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dungeon_master_notes/{PLACEHOLDER} Cária.md",
+                "file": "World Notes/Corte da Geada/Sussuro da vela.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "{PLACEHOLDER} Cária"
+              "title": "Sussuro da vela"
             }
           },
           {
@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -376,13 +376,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a5db9222f96f4510",
+  "active": "883b999fd073f6d8",
   "lastOpenFiles": [
-    "dungeon_master_notes/Sem título.md",
-    "dungeon_master_notes/Sem título 4.md",
+    "World Notes/Lore/Casas nobres de Cariuna.md",
+    "World Notes/Lore/Sem título 3 1 1 1.md",
+    "World Notes/Lore/Sem título 3 1 1.md",
     "dungeon_master_notes/Sem título 3.md",
-    "dungeon_master_notes/Sem título 2.md",
     "dungeon_master_notes/Sem título 1.md",
+    "dungeon_master_notes/Sem título 4.md",
+    "World Notes/Lore/Sobre a Floresta Cariuna.md",
+    "World Notes/Lore/Povos de Cariuna.md",
+    "World Notes/Lore/Regiões de Cariuna.md",
+    "World Notes/Lore/Religiões em Tiresse.md",
+    "dungeon_master_notes/Sem título 2.md",
+    "World Notes/Lore/Cidades de Cariuna.md",
+    "World Notes/Lore/Religiões em Tiresse 1.md",
+    "dungeon_master_notes/Sem título.md",
+    "World Notes/Lore",
     "Ficha de personagens/Barbarian.md",
     "Sem título.md",
     "README.md",
@@ -398,15 +408,6 @@
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
-    "World Notes/Bregos/Rogério Burlle.md",
-    "World Notes/Bregos/O Descanso do Chifre.md",
-    "World Notes/Bregos/Cornos e Chifrudos.md",
-    "World Notes/Bregos/Chinfrin.md",
-    "World Notes/Bregos/Atanuwë.md",
-    "World Notes/Carcanhar.md",
-    "dungeon_master_notes/{PLACEHOLDER} Império Prísmico.md",
-    "dungeon_master_notes/{PLACEHOLDER} Continente.md",
-    "dungeon_master_notes/{PLACEHOLDER} Cária.md",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
@@ -422,7 +423,6 @@
     "Ficha de personagens/attachments",
     "World Notes/attachments",
     "session notes",
-    "World Notes",
-    "Templates"
+    "World Notes"
   ]
 }
