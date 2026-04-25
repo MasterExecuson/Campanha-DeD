@@ -246,7 +246,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:diário",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -378,14 +378,14 @@
   },
   "active": "a5db9222f96f4510",
   "lastOpenFiles": [
-    "dungeon_master_notes/Sem título 1.md",
-    "dungeon_master_notes/Sem título 2.md",
     "dungeon_master_notes/Sem título 3.md",
+    "dungeon_master_notes/Sem título 2.md",
+    "dungeon_master_notes/Sem título 1.md",
+    "dungeon_master_notes/Sem título.md",
     "Ficha de personagens/Barbarian.md",
     "Sem título.md",
     "README.md",
     "dungeon_master_notes/Facções de Dolmenwood.md",
-    "dungeon_master_notes/Sem título.md",
     "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
     "dungeon_master_notes/Planilha de Nomes.md",
