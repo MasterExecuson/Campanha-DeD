@@ -94,6 +94,30 @@
             }
           },
           {
+            "id": "a5db9222f96f4510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/Sem título 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sem título 3"
+            }
+          },
+          {
             "id": "883b999fd073f6d8",
             "type": "leaf",
             "state": {
@@ -190,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -352,10 +376,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "994a2a2843f2c163",
+  "active": "a5db9222f96f4510",
   "lastOpenFiles": [
     "dungeon_master_notes/Sem título 1.md",
+    "dungeon_master_notes/Sem título 3.md",
     "dungeon_master_notes/Sem título 2.md",
+    "Sem título.md",
     "dungeon_master_notes/Sem título.md",
     "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
     "dungeon_master_notes/Facções de Dolmenwood.md",
@@ -382,8 +408,6 @@
     "dungeon_master_notes/{PLACEHOLDER} Ritual de Ascendência.md",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/Sussuro da vela.md",
-    "World Notes/Corte da Geada/Senhora do espelho prateado.md",
-    "World Notes/Corte da Geada/Senhor Sombra Osso.md",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
     "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
