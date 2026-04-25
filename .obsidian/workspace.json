@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Corte da Geada/Sussuro da vela.md",
+                "file": "World Notes/Lore/Sobre a Floresta Cariuna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sussuro da vela"
+              "title": "Sobre a Floresta Cariuna"
             }
           },
           {
@@ -378,33 +378,33 @@
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "World Notes/Lore/Religiões em Tiresse.md",
+    "World Notes/Lore/Regiões de Cariuna.md",
+    "World Notes/Lore/Povos de Cariuna.md",
+    "World Notes/Lore/Cidades de Cariuna.md",
     "World Notes/Lore/Casas nobres de Cariuna.md",
+    "Ficha de personagens/Barbarian.md",
+    "Regras",
+    "Ficha de personagens/Hadalberto.md",
+    "Ficha de personagens/Ida.md",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Valfrrex.md",
+    "World Notes/Corte da Geada/Sussuro da vela.md",
     "World Notes/Lore/Sem título 3 1 1 1.md",
     "World Notes/Lore/Sem título 3 1 1.md",
     "dungeon_master_notes/Sem título 3.md",
     "dungeon_master_notes/Sem título 1.md",
     "dungeon_master_notes/Sem título 4.md",
     "World Notes/Lore/Sobre a Floresta Cariuna.md",
-    "World Notes/Lore/Povos de Cariuna.md",
-    "World Notes/Lore/Regiões de Cariuna.md",
-    "World Notes/Lore/Religiões em Tiresse.md",
     "dungeon_master_notes/Sem título 2.md",
-    "World Notes/Lore/Cidades de Cariuna.md",
     "World Notes/Lore/Religiões em Tiresse 1.md",
     "dungeon_master_notes/Sem título.md",
     "World Notes/Lore",
-    "Ficha de personagens/Barbarian.md",
     "Sem título.md",
     "README.md",
     "dungeon_master_notes/Facções de Dolmenwood.md",
     "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
     "dungeon_master_notes/O Cataclisma em Ar Cardalen.md",
-    "dungeon_master_notes/Planilha de Nomes.md",
-    "Ficha de personagens/Valfrrex.md",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Ida.md",
-    "Ficha de personagens/Hadalberto.md",
-    "dungeon_master_notes/Edumir Galafrinel.md",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
@@ -422,7 +422,6 @@
     "session notes/attachments",
     "Ficha de personagens/attachments",
     "World Notes/attachments",
-    "session notes",
-    "World Notes"
+    "session notes"
   ]
 }
