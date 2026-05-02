@@ -67,7 +67,7 @@ Sensibilidade Luz Plena | -1 |
 
 Moedas de cobre | Moedas de prata | Moedas de ouro |
 :---:|:---:|:---:|
-0|0|9|
+0|0|11|
 
 1. Bolas de bolor (3)
 2. Bolas de gude (20)
@@ -76,7 +76,7 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 5. Mochila (1)
 6. Saco (1)
 7. Carcaças de sobra seca (4)
-8. Estátua de prata dom olhos de esmeralda (1)
+8. Estátua de prata com olhos de esmeralda (1)
 9. Vazio
 10. Vazio
 11. Vazio
