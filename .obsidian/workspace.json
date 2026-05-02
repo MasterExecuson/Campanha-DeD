@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Hadalberto.md",
-                "mode": "source",
+                "file": "Ficha de personagens/Peckii.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hadalberto"
+              "title": "Peckii"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
-    "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Hadalberto.md",
+    "Ficha de personagens/Valfrrex.md",
     "World Notes/Lore/Sobre a Floresta Cariuna.md",
     "World Notes/Lore/Religiões em Tiresse.md",
     "World Notes/Lore/Regiões de Cariuna.md",
