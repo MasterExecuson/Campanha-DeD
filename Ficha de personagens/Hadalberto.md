@@ -62,7 +62,7 @@
 **Weapons**
 - Espada Longa (1d8)
 - Escudo (+1 CA)
-- Alabarda Homem Cobra (1d8)
+- Alabarda Homem Cobra (1d6)
 
 **Skills**
 - Conhecimento (Nobreza): +1
