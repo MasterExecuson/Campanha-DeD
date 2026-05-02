@@ -17,7 +17,7 @@
 # Stats
 HP | AC | Reaction | Initiative | Hit Dice |
 :---:|:---:|:---:|:---:|:---:|
-8/8|13|-2|+2|1d6|
+8/8|13|-2|+2|1d4|
 
 #### Pontos de Habilidade
 
