@@ -48,7 +48,7 @@ Obs. Esgueirar quer dizer se achatar/moldar para se adequar aos espaços ao redo
  Habilidades | Detalhes |
 :--:|-----|
  Ataque natural | 1d4 | 
-Telepatia | 18m - 30m | 
+Telepatia | 18m | 
 Detectar cogumelos | 18m | 
 Sensibilidade Fogo | 1d4 dano | 
 Sensibilidade Luz Plena | -1 | 
