@@ -77,7 +77,7 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 5. Mochila (1)
 6. Saco (1)
 7. Carcaças de sobra seca (4)
-8. Vazio
+8. Estátua de prata dom olhos de esmeralda (1)
 9. Vazio
 10. Vazio
 11. Vazio
