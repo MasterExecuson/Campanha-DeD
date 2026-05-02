@@ -7,12 +7,13 @@
  |  |
 ----|---|
 **Classe** | Miconídeo |
-**Nível** | 1 |
 **Raça** | Miconídeo |
 **Alignment** | Neutro |
 **Profissão** | Miconídeo Peregrino |
 **Sabe ler?** | Não |
+**Nível** | 1 |
 **XP** | 75/2000 |
+**HP** | /8|
 
 # Stats
 Max HP | AC | Reaction | Initiative | Hit Dice |
