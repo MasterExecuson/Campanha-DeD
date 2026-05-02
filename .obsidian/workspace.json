@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Lore/Casas nobres de Cariuna.md",
+                "file": "Ficha de personagens/Hadalberto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Casas nobres de Cariuna"
+              "title": "Hadalberto"
             }
           },
           {
@@ -197,8 +197,8 @@
               "state": {
                 "file": "Drawings/varfrrex.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "varfrrex.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -237,7 +237,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -363,13 +363,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -378,6 +378,7 @@
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "World Notes/Lore/Casas nobres de Cariuna.md",
     "World Notes/Carcanhar.md",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
@@ -390,7 +391,6 @@
     "World Notes/Lore/Regiões de Cariuna.md",
     "World Notes/Lore/Povos de Cariuna.md",
     "World Notes/Lore/Cidades de Cariuna.md",
-    "World Notes/Lore/Casas nobres de Cariuna.md",
     "Regras",
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Peckii.md",
