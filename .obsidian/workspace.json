@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e194ef5a2809c0cb",
+        "id": "437ce725e9a17beb",
         "type": "tabs",
         "children": [
           {
-            "id": "d5bada51e0cfbe8f",
+            "id": "fbdd222211f3dca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-03-14.md",
+                "file": "Ficha de personagens/Hadalberto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-14"
-            }
-          },
-          {
-            "id": "02a141c4851814ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session notes/2026-04-04.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-04"
-            }
-          },
-          {
-            "id": "b8589f791621c696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ruínas do Castelo ao Norte de Carcanhar"
-            }
-          },
-          {
-            "id": "4fc422cbc96f9ec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session notes/2026-04-04.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-04"
-            }
-          },
-          {
-            "id": "f11a2af8c7d41d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficha de personagens/Peckii.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Peckii"
+              "title": "Hadalberto"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:diário",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -201,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Corte da Geada/Sussuro da vela.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sussuro da vela"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -220,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "dungeon_master_notes/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Links de saída para Sem título"
             }
           },
           {
@@ -240,7 +143,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -257,8 +160,19 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "e084aef41f11a15e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -267,66 +181,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f11a2af8c7d41d3c",
+  "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
-    "session notes/2026-04-04.md",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Ida.md",
     "Ficha de personagens/Valfrrex.md",
-    "Regras/Experiência -- XP.md",
-    "Regras/Descanso.md",
+    "Ficha de personagens/Hadalberto.md",
     "World Notes/Lore/Sobre a Floresta Cariuna.md",
     "World Notes/Lore/Religiões em Tiresse.md",
     "World Notes/Lore/Regiões de Cariuna.md",
     "World Notes/Lore/Povos de Cariuna.md",
-    "World Notes/Corte da Geada/Senhor Sombra Osso.md",
     "World Notes/Lore/Cidades de Cariuna.md",
     "World Notes/Lore/Casas nobres de Cariuna.md",
+    "World Notes/Bregos/Cornos e Chifrudos.md",
+    "World Notes/Cariuna.md",
+    "World Notes/Carcanhar.md",
+    "World Notes/attachments/Dolmenwood Player's Map.png",
+    "World Notes/attachments/Pasted image 20260403221651.png",
+    "Regras/Descanso.md",
+    "Regras/Experiência -- XP.md",
+    "Ficha de personagens/Barbarian.md",
+    "Regras",
+    "Ficha de personagens/Ida.md",
+    "Ficha de personagens/Peckii.md",
+    "World Notes/Corte da Geada/Sussuro da vela.md",
+    "World Notes/Lore/Sem título 3 1 1 1.md",
+    "World Notes/Lore/Sem título 3 1 1.md",
+    "dungeon_master_notes/Sem título 3.md",
+    "dungeon_master_notes/Sem título 1.md",
+    "dungeon_master_notes/Sem título 4.md",
+    "dungeon_master_notes/Sem título 2.md",
+    "World Notes/Lore/Religiões em Tiresse 1.md",
+    "dungeon_master_notes/Sem título.md",
     "World Notes/Lore",
     "Sem título.md",
-    "Regras",
+    "World Notes/attachments/1owyN2D.png",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
-    "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
-    "World Notes/Corte da Geada/Elfos da Geada.md",
-    "World Notes/Corte da Geada/Drumen Nol.md",
-    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
-    "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
-    "World Notes/Corte da Geada/Sussuro da vela.md",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
-    "World Notes/Corte da Geada/Senhora do espelho prateado.md",
-    "World Notes/Corte da Geada/Relógio de sol.md",
-    "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
-    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
-    "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural.png",
-    "World Notes/Carcanhar.md",
-    "World Notes/Tumba.md",
+    "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
+    "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
     "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png",
-    "Ficha de personagens/Barbarian.md",
-    "attachments/Pasted image 20260404124656.png",
-    "attachments/Pasted image 20260404124851.png",
-    "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
+    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
     "session notes/attachments/Pasted image 20260404120201.png",
-    "World Notes/Corte da Geada/attachments",
-    "World Notes/Bregos",
-    "World Notes/Corte da Geada",
     "attachments",
+    "World Notes/Corte da Geada/attachments",
+    "World Notes/Corte da Geada",
+    "World Notes/Bregos",
     "session notes/attachments",
     "Ficha de personagens/attachments",
     "World Notes/attachments",
-    "World Notes"
+    "session notes"
   ]
 }
