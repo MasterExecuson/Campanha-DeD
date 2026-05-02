@@ -13,12 +13,11 @@
 **Sabe ler?** | Não |
 **Nível** | 1 |
 **XP** | 75/2000 |
-**HP** | 8/8|
 
 # Stats
-Max HP | AC | Reaction | Initiative | Hit Dice |
+HP | AC | Reaction | Initiative | Hit Dice |
 :---:|:---:|:---:|:---:|:---:|
-8|13|-2|+2|1d6|
+8/8|13|-2|+2|1d6|
 
 #### Pontos de Habilidade
 
