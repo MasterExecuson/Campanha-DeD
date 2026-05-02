@@ -2,7 +2,7 @@
 
 (Imagem)
 
-(Frase de efeito)
+(Frase de efeito
 
 ## 
 
