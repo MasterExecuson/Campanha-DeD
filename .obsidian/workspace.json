@@ -123,8 +123,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Hadalberto.md",
-                "mode": "preview",
+                "file": "World Notes/Lore/Casas nobres de Cariuna.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hadalberto"
+              "title": "Casas nobres de Cariuna"
             }
           },
           {
@@ -372,11 +372,16 @@
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "World Notes/Carcanhar.md",
+    "World Notes/attachments/Dolmenwood Player's Map.png",
+    "World Notes/attachments/Pasted image 20260403221651.png",
+    "Ficha de personagens/Hadalberto.md",
     "Regras/Descanso.md",
     "Regras/Experiência -- XP.md",
     "Ficha de personagens/Barbarian.md",
@@ -387,7 +392,6 @@
     "World Notes/Lore/Cidades de Cariuna.md",
     "World Notes/Lore/Casas nobres de Cariuna.md",
     "Regras",
-    "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Valfrrex.md",
@@ -404,10 +408,7 @@
     "Sem título.md",
     "README.md",
     "dungeon_master_notes/Facções de Dolmenwood.md",
-    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/1owyN2D.png",
-    "World Notes/attachments/Pasted image 20260403221651.png",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
