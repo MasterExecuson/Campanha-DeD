@@ -63,7 +63,7 @@ The Evangelist casts divine spells from the **Cleric spell list**, with Wisdom a
 
 #### Grafted Armament
 
-At character creation, the Evangelist permanently grafts **one simple weapon** into their body. Common choices: a dagger emerging from the wrist, a club replacing the forearm, a sling integrated into the hand, a mace fused to the knuckles.
+The Evangelist can permanently graft **one simple weapon** into their body. Common choices: a dagger emerging from the wrist, a club replacing the forearm, a sling integrated into the hand, a mace fused to the knuckles.
 
 - **Cannot be disarmed, sundered, or stolen.**
 - **+1 to attack and damage** with the grafted weapon.
