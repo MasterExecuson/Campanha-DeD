@@ -95,3 +95,21 @@ Fungal flesh dries and cracks under flame. The Myconid takes an **extra 1d4 dama
 #### Sunlight Sensitivity
 
 Direct sunlight withers the Myconid's senses and reflexes. While in **direct, unfiltered sunlight**, the Myconid suffers **-2 to attack rolls and saving throws**. This penalty does _not_ apply under forest canopy, indoors, in caves, on overcast days, at dawn or dusk, or at night. (In Dolmenwood, where most of the map is shaded by the great wood, this penalty applies only in clearings, on open roads, and during open-sky travel.)
+
+### The Mushroom List
+
+The Myconid chooses from the following fungi when learning new sporecraft. A target's saving throw, where applicable, uses the Myconid's level as the spell level for resistance purposes.
+
+**Range conventions**: Touch (Myconid must contact target), Close (within 10 ft), Short (within 30 ft), Medium (within 60 ft).
+
+#### Sleeping Mushroom
+
+A pale cap that releases drowsing spores when crushed. Target within Close range must save vs. Spells or fall asleep for 1 turn (10 minutes). Affects 1 creature of 4 HD or fewer. Sleeping creatures wake on injury or vigorous shaking.
+
+#### Poisonous Mushroom
+
+A bruised purple cap that ruptures into toxic spores. All creatures within a 10 ft radius of the burst point (Short range) take **1d6 poison damage**; save vs. Poison for half. Constructs and undead unaffected.
+
+#### Healing Mushroom
+
+A red, soft cap eaten or applied to a wound. **One creature heals 1d6 hp**. Touch range; the Myconid may use this on themselves.
