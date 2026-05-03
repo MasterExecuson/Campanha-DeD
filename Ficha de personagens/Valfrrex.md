@@ -16,11 +16,11 @@
 # Stats
 Max HP | AC | Reaction | Initiative |
 :---:|:---:|:---:|:---:|
-7|13|+2|+0|
+9|13|+2|+0|
 
 Temp HP |  Hit Dice | 
 :---:|:---:|
-0|1x6|
+0|1d8|
 
 
 #### Ability Score
