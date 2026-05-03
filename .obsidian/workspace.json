@@ -123,8 +123,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Classes/Myconid.md",
-                "mode": "source",
+                "file": "dungeon_master_notes/Facções de Dolmenwood.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Myconid"
+              "title": "Facções de Dolmenwood"
             }
           },
           {
@@ -378,8 +378,10 @@
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
-    "Ficha de personagens/Peckii.md",
+    "dungeon_master_notes/Mushroom List.md",
+    "dungeon_master_notes/Sem título.md",
     "Ficha de personagens/Classes/Myconid.md",
+    "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Classes",
     "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
     "README.md",
@@ -407,8 +409,6 @@
     "World Notes/Corte da Geada/Sussuro da vela.md",
     "World Notes/Lore/Sem título 3 1 1 1.md",
     "World Notes/Lore/Sem título 3 1 1.md",
-    "dungeon_master_notes/Sem título 3.md",
-    "dungeon_master_notes/Sem título 1.md",
     "World Notes/Lore",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
