@@ -117,12 +117,6 @@ The Evangelist does not bleed in the conventional sense. Instead, wounds leak bl
 
 The Evangelist does not breathe air. They are **immune to suffocation, drowning, and gas-based attacks** (poison gas, stinking cloud, choking effects). They can function indefinitely underwater or in airless conditions. They may still speak, as their voice is produced through grafted mechanical resonators rather than lungs.
 
-#### Speak with Constructs
-
-The Evangelist can communicate with mechanical and constructed creatures (golems, automatons, animated objects with Intelligence 1+). The communication is two-way and works across language barriers, as constructs recognize the Evangelist as kin. Reaction rolls with constructs gain **+2**, and constructs treat the Evangelist with **+1 reaction** in turn.
-
-This does not grant control or compulsion. A hostile construct remains hostile but may be open to conversation.
-
 #### Mortal Revulsion (and Concealment)
 
 The Evangelist's grafts and oily features are unsettling to mortals when exposed. **Concealment** is straightforward: a cloak, gloves, hood, mask, or full-body covering hides the Phyrexian nature in casual interaction. While concealed, the Evangelist passes for an unusual mortal (perhaps scarred, sickly, or just eccentric).
