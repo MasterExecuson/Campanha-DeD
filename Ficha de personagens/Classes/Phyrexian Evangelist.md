@@ -88,7 +88,7 @@ The Evangelist's body burns metal and oil, not biological food. They must consum
 - **500 g of metal per day**, OR
 - **1 vial of oil per day**
 
-Coins count toward the daily requirement (roughly 100 copper or 50 silver = 500 g; gold is denser, ~25 gp = 500 g). Without daily sustenance, the Evangelist suffers **-1 cumulative penalty to all attack rolls and saves per day starved**. After 7 days without metal or oil, they enter forced dormancy (effectively unconscious) until fed.
+Coins count toward the daily requirement (roughly 500 copper or 50 silver = 500 g or 5 gp = 500 g, for simplicity). Without daily sustenance, the Evangelist suffers **-1 cumulative penalty to all attack rolls and saves per day starved**. After 7 days without metal or oil, they enter forced dormancy (effectively unconscious) until fed.
 
 The Evangelist gains no nutrition from biological food. They may consume it for taste or social reasons, but it provides nothing.
 
@@ -96,26 +96,14 @@ The Evangelist gains no nutrition from biological food. They may consume it for 
 
 Consuming **at least 50 gp worth of metal or oil** in a single feeding (above and beyond the daily requirement) channels excess material into Phyrexian gifts. The Evangelist chooses one of the following effects:
 
-- **Restore 1 spell slot** of any level the Evangelist can currently cast.
-- **Heal 1 Hit Die** (rolled, plus any relevant modifiers as if from class HD).
-- **Gain temporary hp** equal to 1 Hit Die roll, lasting 1 turn or until lost.
+- **Restore 1 spell slot**; 50 gp per spell slot per level -- 100 gp for two level one slots or one level two slot.
+- **Gain temporary hp** equal to 1 Hit Die roll.
 
-Each effect may be triggered **once per day, maximum**. The Evangelist may consume 150 gp worth across one day to access all three. The metal or oil is destroyed in the process.
+Each effect may be triggered **once per day, maximum**. The metal or oil is destroyed in the process.
 
 #### The Sermon
 
-Once per day, the Evangelist preaches the gospel of Phyrexia for 1 turn (10 minutes). Allies who listen attentively (no combat, no other tasks) receive the Evangelist's chosen blessing. The Evangelist picks **one** of the following modes when invoking The Sermon:
-
-**Mode 1: Sermon of Conviction (Combat Buff)** For 1 turn after the sermon ends, listeners gain:
-
-- **+1 to attack rolls**
-- **+1 to saves vs. fear and morale**
-
-The bonus ends after 1 turn, or for an individual listener when they first take damage in combat.
-
-**Mode 2: Sermon of Compleation (Healing)** Each listener regains hit points equal to **1 roll of their own Hit Die** (e.g., a Fighter rolls d8, a Magic-User rolls d4, plus any relevant modifiers). The healing happens at the end of the sermon. A listener may benefit from this only once per day.
-
-The Sermon's content is unsettling to non-Phyrexian listeners. Allies receive the benefits regardless of whether they agree with the content, but the GM may adjudicate roleplay reactions (a devout Friar listening to Phyrexian gospel might still take the +1 to hit, but feel deeply uncomfortable about it).
+TBD
 
 #### Oil for Blood
 
