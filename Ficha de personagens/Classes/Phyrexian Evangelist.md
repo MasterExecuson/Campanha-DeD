@@ -29,8 +29,6 @@ _A herald of the Machine Orthodoxy, the Evangelist walks among the folk of Dolme
 |13|720,000|9d8+8|+7|5/5/4/4/3|
 |14|840,000|9d8+10|+8|6/5/5/4/3|
 
-_Spell progression matches the OSE Cleric._
-
 ### Saving Throws
 
 |Level|Death/Poison|Wands|Paralysis|Breath|Spells|
