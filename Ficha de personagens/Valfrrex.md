@@ -60,7 +60,7 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 
 Name | ATK Bonus | Hit | Damage Type | Range
 :---:|:---:|:---:|:---:|
-**Garras**  | +5 | 1d4 | +0 Slashing | 0
+**Garras**  | +0 | 1d4 | +0 Slashing | 0
 
 
 ## Spells
