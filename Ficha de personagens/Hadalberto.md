@@ -83,8 +83,8 @@
 |         4          |    Lenha (pacote) ~~    |     1      |
 |         5          |           ~~            |     -      |
 |         6          |          Ração          |     1      |
-|         7          |          Ração          |     1      |
-|         8          |          Ração          |     1      |
+|         7          |                         |            |
+|         8          |                         |            |
 |         9          |     Moedas de ouro      |     1      |
 |         10         | Alabarda Homem Cobra ~~ |     1      |
 |         11         |           ~~            |     -      |
