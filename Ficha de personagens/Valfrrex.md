@@ -18,9 +18,9 @@ Max HP | AC | Reaction | Initiative |
 :---:|:---:|:---:|:---:|
 9|13|+2|+0|
 
-Temp HP |  Hit Dice | 
-:---:|:---:|
-0|1d8|
+HP Atual | Temp HP |  Hit Dice | 
+:---:|:---:|:---:|
+6|0|1d8|
 
 
 #### Ability Score
