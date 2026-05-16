@@ -77,7 +77,7 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 6. Saco (1)
 7. Carcaças de cobra seca (4)
 8. Estátua de prata com olhos de esmeralda (1)
-9. Vazio
+9. Gogumelos de Goblin
 10. Vazio
 11. Vazio
 12. Vazio
