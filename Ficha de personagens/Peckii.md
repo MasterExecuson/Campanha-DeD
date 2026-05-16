@@ -58,9 +58,9 @@ Sensibilidade Luz Plena | -1 |
 - **Armadura:**
     - Armadura natural
 - **Armas:**
-    - Cogumelo tranquilizante
-    - Cogumelo venenoso
-    - Cogumelo envigorante
+    - Cogumelo tranquilizante (sono)
+    - Cogumelo venenoso (dano)
+    - Cogumelo envigorante (cura)
 - **Habilidade principal:** Sabedoria (wisdom)
 
 # Inventário
