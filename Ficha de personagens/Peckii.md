@@ -69,7 +69,7 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 :---:|:---:|:---:|
 0|0|11|
 
-1. Bolas de bolor (3)
+1. Bolas de bolor (2)
 2. Bolas de gude (20)
 3. Barbante (100")
 4. Tinta, pena e papel (5)
@@ -77,7 +77,7 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 6. Saco (1)
 7. Carcaças de cobra seca (4)
 8. Estátua de prata com olhos de esmeralda (1)
-9. Gogumelos de Goblin
+9. Cogumelos de Goblin compilados em ração de descanso
 10. Vazio
 11. Vazio
 12. Vazio
