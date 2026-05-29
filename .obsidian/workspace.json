@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Barbarian.md",
+                "file": "session notes/2026-05-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Barbarian"
+              "title": "2026-05-16"
             }
           },
           {
@@ -372,17 +372,16 @@
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e084aef41f11a15e",
+  "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "Ficha de personagens/Barbarian.md",
     "session notes/2026-05-16.md",
     "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Hadalberto.md",
-    "Ficha de personagens/Barbarian.md",
     "Ficha de personagens/Ida.md",
     "session notes/2026-05-02.md",
     "session notes/2026-04-04.md",
