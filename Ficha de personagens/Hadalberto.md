@@ -1,7 +1,6 @@
 # Hadalberto
 
-(Imagem)
-
+![[yhzs1kih7fq61.jpg]]
 (Frase de efeito)
 
 ## 
