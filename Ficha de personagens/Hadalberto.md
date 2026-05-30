@@ -15,7 +15,7 @@
 |    Nível    |     1      |
 | Alinhamento |   Lawful   |
 |  Sabe ler?  |    Sim     |
-|     XP      |     75     |
+|     XP      |    775     |
 
 ---
 
@@ -24,11 +24,11 @@
 | Atributo | Valor | Modificador |          Saving Throws           | Valor |
 | :------: | :---: | :---------: | :------------------------------: | :---: |
 |   STR    |  17   |     +3      |          Death, Poison           |  12   |
-|   INT    |  08   |             |           Magic Wands            |  13   |
-|   WIS    |  07   |             |     Paralysis, Petrification     |  12   |
+|   INT    |  08   |     -1      |           Magic Wands            |  13   |
+|   WIS    |  07   |     -2      |     Paralysis, Petrification     |  12   |
 |   DEX    |  11   |      0      |          Breath Attacks          |  15   |
 |   CON    |  14   |     +2      | Spells, magic rods, magic staves |  15   |
-|   CHA    |  10   |             |  WIS modifier to saves vs magic  |  -1   |
+|   CHA    |  10   |      0      |  WIS modifier to saves vs magic  |  -1   |
 
 ---
 ## Combat

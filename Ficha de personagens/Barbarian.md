@@ -15,7 +15,7 @@
 # Stats
 Max HP | AC | Reaction | Initiative | XP
 :---:|:---:|:---:|:---:|:---:|
-13|15|0|+2|775
+13|15|0|+2|1175
 
 HP Atual |Temp HP | Hit Dice | 
 :---:|:---:|:---:|

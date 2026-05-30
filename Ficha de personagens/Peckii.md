@@ -12,7 +12,7 @@
 **Profissão** | Miconídeo Peregrino |
 **Sabe ler?** | Não |
 **Nível** | 1 |
-**XP** | 475/2000 |
+**XP** | 875/2000 |
 
 # Stats
 HP | AC | Reaction | Initiative | Hit Dice |
