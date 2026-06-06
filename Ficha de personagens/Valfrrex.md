@@ -83,7 +83,7 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 6. Alabarda
 7. Alabarda
 8. Alabarda
-9. Vazio
+9. Coroa do Rei Cobra
 
 
 10. bilhete indecifrável sobre [[Rogério Burlle]]
