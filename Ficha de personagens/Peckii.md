@@ -41,7 +41,7 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 +1 | Herbologia | 
 +2 | Esgueirar | 
 
-Obs. Esgueirar quer dizer se achatar/moldar para se adequar aos espaços ao redor
+Obs. Esgueirar quer dizer se achatar/moldar para se adequar aos espaços ao redor (física de desenho animada)
 
 #### Habilidades
 
