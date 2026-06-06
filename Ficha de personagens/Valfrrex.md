@@ -11,7 +11,7 @@
 **Alignment** | Lawful Good |
 **Background** | Phyrexiano convertido |
 **Literate** | YES |
-**XP** | 1045/2000 |
+**XP** | 1545/2000 |
 
 # Stats
 Max HP | AC | Reaction | Initiative |
@@ -73,7 +73,7 @@ N/A|N/A|N/A|
 
 Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
 :---:|:---:|:---:|:---:|:---:|
-0|500|0|10|0|
+0|0|0|510|0|
 
 1. Ink, quill, 5 sheets of paper
 2. Grapling Hook
