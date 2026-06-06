@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Peckii.md",
+                "file": "session notes/2026-05-16.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Peckii"
+              "title": "2026-05-16"
             }
           }
         ]
@@ -190,22 +190,22 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
+    "Regras/Experiência -- XP.md",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
     "session notes/2026-05-16.md",
     "session notes/2026-05-02.md",
-    "Ficha de personagens/Peckii.md",
     "session notes/2026-03-14.md",
     "Ficha de personagens/Classes/Myconid.md",
     "World Notes/Miconídeos.md",
     "Ficha de personagens/Classes/Phyrexian Evangelist.md",
-    "Ficha de personagens/Classes/Myconid.md",
     "Ficha de personagens/Classes",
-    "session notes/2026-05-02.md",
-    "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Valfrrex.md",
     "World Notes/Lore/Sobre a Floresta Cariuna.md",
@@ -220,16 +220,12 @@
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
     "Regras/Descanso.md",
-    "Regras/Experiência -- XP.md",
     "Ficha de personagens/Barbarian.md",
     "Regras",
     "Ficha de personagens/Ida.md",
     "World Notes/Corte da Geada/Sussuro da vela.md",
     "World Notes/Lore/Sem título 3 1 1 1.md",
     "World Notes/Lore/Sem título 3 1 1.md",
-    "dungeon_master_notes/Sem título 3.md",
-    "dungeon_master_notes/Sem título 1.md",
-    "dungeon_master_notes/Sem título 4.md",
     "World Notes/Lore",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
