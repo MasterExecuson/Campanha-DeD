@@ -67,7 +67,7 @@ Sensibilidade Luz Plena | -1 |
 
 Moedas de cobre | Moedas de prata | Moedas de ouro |
 :---:|:---:|:---:|
-0|0|10|
+0|1|9|
 
 1. Bolas de bolor (2)
 2. Bolas de gude (20)
@@ -78,7 +78,7 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 7. Carcaças de cobra seca (4)
 8. Estátua de prata com olhos de esmeralda (1)
 9. Cogumelos de Goblin compilados em ração de descanso (2)
-10. Vazio
+10. Tocha
 11. Vazio
 
 # Passado
