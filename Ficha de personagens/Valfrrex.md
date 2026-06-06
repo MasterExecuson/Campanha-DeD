@@ -73,7 +73,7 @@ N/A|N/A|N/A|
 
 Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
 :---:|:---:|:---:|:---:|:---:|
-0|0|0|510|0|
+0|0|0|508|0|
 
 1. Ink, quill, 5 sheets of paper
 2. Grapling Hook
