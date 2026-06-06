@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regras/Descanso.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Descanso"
+              "title": "Barbarian"
             }
           },
           {
@@ -378,6 +378,7 @@
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "Regras/Descanso.md",
     "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Barbarian.md",
@@ -408,7 +409,6 @@
     "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
     "README.md",
     "Sem título.md",
-    "Templates/Char Template.md",
     "Ficha de personagens/attachments/Peckii.png",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
