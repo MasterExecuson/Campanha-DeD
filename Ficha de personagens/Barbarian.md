@@ -101,9 +101,9 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 8. Chifre de boss bode
 9. Chifre de boss bode
 10. Anel
-11. Vazio
-12. Vazio
-13. Vazio
+11. Tocha
+12. Tocha
+13. Ração
 
 # Personality
 ###### Personality Traits
