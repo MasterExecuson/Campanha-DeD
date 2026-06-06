@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Hadalberto.md",
+                "file": "Ficha de personagens/Peckii.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hadalberto"
+              "title": "Peckii"
             }
           }
         ]
@@ -190,14 +190,17 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
     "session notes/2026-05-16.md",
-    "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
+    "session notes/2026-05-02.md",
+    "Ficha de personagens/Peckii.md",
+    "session notes/2026-03-14.md",
+    "Ficha de personagens/Classes/Myconid.md",
+    "World Notes/Miconídeos.md",
     "Ficha de personagens/Classes/Phyrexian Evangelist.md",
     "Ficha de personagens/Classes/Myconid.md",
     "Ficha de personagens/Classes",
