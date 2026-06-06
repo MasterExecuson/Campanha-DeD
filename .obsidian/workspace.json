@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Valfrrex.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Valfrrex"
+              "title": "Barbarian"
             }
           },
           {
@@ -378,10 +378,10 @@
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Valfrrex.md",
     "session notes/2026-03-14.md",
     "session notes/2026-04-04.md",
     "session notes/2026-03-24.md",
