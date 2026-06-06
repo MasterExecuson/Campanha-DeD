@@ -67,7 +67,7 @@ Sensibilidade Luz Plena | -1 |
 
 Moedas de cobre | Moedas de prata | Moedas de ouro |
 :---:|:---:|:---:|
-0|0|11|
+0|0|10|
 
 1. Bolas de bolor (2)
 2. Bolas de gude (20)
