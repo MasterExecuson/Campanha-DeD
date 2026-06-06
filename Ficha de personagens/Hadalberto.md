@@ -16,7 +16,7 @@
 |    Nível    |     1      |
 | Alinhamento |   Lawful   |
 |  Sabe ler?  |    Sim     |
-|     XP      |    775     |
+|     XP      |    1275    |
 
 ---
 
