@@ -80,7 +80,6 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 9. Cogumelos de Goblin compilados em ração de descanso (2)
 10. Vazio
 11. Vazio
-12. Vazio
 
 # Passado
 
