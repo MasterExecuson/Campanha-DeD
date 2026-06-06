@@ -15,9 +15,9 @@
 **XP** | 875/2000 |
 
 # Stats
-HP | AC | Reaction | Initiative | Hit Dice |
-:---:|:---:|:---:|:---:|:---:|
-8/8|13|-2|+2|1d6|
+HP | AC | Reação | Iniciativa | Hit Dice |Cogus disponíveis |
+:---:|:---:|:---:|:---:|:---:|:---:|
+8/8|13|-2|+2|1d6|1|
 
 #### Pontos de Habilidade
 
