@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-06-06.md",
+                "file": "Ficha de personagens/Barbarian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-06"
+              "title": "Barbarian"
             }
           },
           {
@@ -378,9 +378,9 @@
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "session notes/2026-06-06.md",
     "Malcor.md",
     "session notes/2026-05-16.md",
-    "session notes/2026-06-06.md",
     "Sem título.md",
     "README.md",
     "dungeon_master_notes/Prep/Itens/Anel Venal.md",
