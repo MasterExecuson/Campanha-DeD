@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e194ef5a2809c0cb",
+        "id": "437ce725e9a17beb",
         "type": "tabs",
         "children": [
           {
-            "id": "2ccc22845e444b41",
+            "id": "fbdd222211f3dca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-06-06.md",
+                "file": "session notes/2026-05-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-06"
+              "title": "2026-05-16"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -177,26 +176,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "4d5b1fc35c851b1c",
+  "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
-    "session notes/2026-05-16.md",
     "session notes/2026-06-06.md",
+    "session notes/2026-04-04.md",
+    "session notes/2026-05-16.md",
     "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Barbarian.md",
     "Ficha de personagens/Classes/Myconid.md",
@@ -220,20 +222,8 @@
     "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Ida.md",
     "World Notes/Miconídeos.md",
-    "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
-    "World Notes/Cariuna.md",
-    "dungeon_master_notes/Prep",
-    "World Notes/Tumba.md",
-    "Regras/Experiência -- XP.md",
-    "Ficha de personagens/Classes/Phyrexian Evangelist.md",
-    "dungeon_master_notes/Mushroom List.md",
-    "dungeon_master_notes/Edumir Galafrinel.md",
-    "dungeon_master_notes/Facções de Dolmenwood.md",
-    "dungeon_master_notes/Sem título.md",
     "Ficha de personagens/Classes",
-    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
-    "README.md",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
     "Regras",
@@ -243,10 +233,14 @@
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
     "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
+    "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png",
+    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
     "attachments",
     "World Notes/Corte da Geada/attachments",
     "World Notes/Corte da Geada",
     "World Notes/Bregos",
-    "session notes/attachments"
+    "session notes/attachments",
+    "Ficha de personagens/attachments",
+    "World Notes/attachments"
   ]
 }
