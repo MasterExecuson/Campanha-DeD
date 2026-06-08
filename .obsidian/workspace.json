@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "437ce725e9a17beb",
+        "id": "e194ef5a2809c0cb",
         "type": "tabs",
         "children": [
           {
-            "id": "fbdd222211f3dca1",
+            "id": "2ccc22845e444b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Corte da Geada/Elfos da Geada.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "d5bada51e0cfbe8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backstory/Varfrrex - clerigo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +42,179 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Elfos da Geada"
+              "title": "Varfrrex - clerigo"
+            }
+          },
+          {
+            "id": "5738431104cf19e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backstory/Barbarian (Barb) - Bárbaro.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Barbarian (Barb) - Bárbaro"
+            }
+          },
+          {
+            "id": "994a2a2843f2c163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/Sem título 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sem título 2"
+            }
+          },
+          {
+            "id": "a5db9222f96f4510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Lore/Casas nobres de Cariuna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Casas nobres de Cariuna"
+            }
+          },
+          {
+            "id": "883b999fd073f6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session notes/2026-06-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-06"
+            }
+          },
+          {
+            "id": "1e0607684335f7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Império Cariano.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Império Cariano"
+            }
+          },
+          {
+            "id": "d27e4a5edaacd494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeon_master_notes/{PLACEHOLDER} Magia Mana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "{PLACEHOLDER} Magia Mana"
+            }
+          },
+          {
+            "id": "40087e49870a2db5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "varfrrex.excalidraw"
+            }
+          },
+          {
+            "id": "e995651be7123b6b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/varfrrex.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -54,7 +237,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -176,53 +359,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fbdd222211f3dca1",
+  "active": "883b999fd073f6d8",
   "lastOpenFiles": [
-    "World Notes/Corte da Geada/Drumen Nol.md",
-    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
-    "World Notes/Corte da Geada/Elfos da Geada.md",
-    "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
-    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "World Notes/Corte da Geada/Relógio de sol.md",
-    "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
-    "World Notes/Corte da Geada/Senhor Sombra Osso.md",
-    "World Notes/Corte da Geada/Senhora do espelho prateado.md",
-    "World Notes/Corte da Geada/Sussuro da vela.md",
     "Malcor.md",
-    "World Notes/Tumba.md",
-    "session notes/2026-03-14.md",
-    "session notes/2026-03-24.md",
-    "session notes/2026-04-04.md",
     "session notes/2026-05-16.md",
     "session notes/2026-06-06.md",
-    "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Barbarian.md",
-    "Ficha de personagens/Classes/Myconid.md",
-    "World Notes/Lore/Regiões de Cariuna.md",
-    "World Notes/Lore/Povos de Cariuna.md",
-    "World Notes/Lore/Cidades de Cariuna.md",
-    "World Notes/Lore/Casas nobres de Cariuna.md",
-    "World Notes/Carcanhar.md",
-    "World Notes/Cariuna.md",
+    "Sem título.md",
+    "README.md",
+    "dungeon_master_notes/Prep/Itens/Anel Venal.md",
+    "dungeon_master_notes/Prep/Sessão 5.md",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
+    "session notes/2026-05-02.md",
+    "session notes/2026-04-04.md",
+    "session notes/2026-03-24.md",
+    "session notes/2026-03-14.md",
+    "Ficha de personagens/Barbarian.md",
+    "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Hadalberto.md",
+    "Ficha de personagens/Classes/Myconid.md",
+    "Ficha de personagens/attachments/Peckii.png",
+    "Ficha de personagens/Valfrrex.md",
+    "Ficha de personagens/Ida.md",
+    "Regras/Descanso.md",
+    "dungeon_master_notes/Prep/Itens",
+    "dungeon_master_notes/{Outline} Elfos.md",
+    "Ficha de personagens/attachments/knight.png",
+    "World Notes/Cariuna.md",
+    "dungeon_master_notes/Prep",
+    "World Notes/Tumba.md",
+    "Regras/Experiência -- XP.md",
+    "Ficha de personagens/Classes/Phyrexian Evangelist.md",
+    "dungeon_master_notes/Mushroom List.md",
+    "dungeon_master_notes/Edumir Galafrinel.md",
+    "dungeon_master_notes/Facções de Dolmenwood.md",
     "Ficha de personagens/Classes",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
@@ -233,14 +419,10 @@
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
     "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
-    "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png",
-    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
     "attachments",
     "World Notes/Corte da Geada/attachments",
     "World Notes/Corte da Geada",
     "World Notes/Bregos",
-    "session notes/attachments",
-    "Ficha de personagens/attachments",
-    "World Notes/attachments"
+    "session notes/attachments"
   ]
 }
