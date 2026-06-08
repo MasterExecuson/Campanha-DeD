@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Barbarian.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Barbarian"
+              "title": "Valfrrex"
             }
           },
           {
@@ -372,11 +372,14 @@
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "883b999fd073f6d8",
   "lastOpenFiles": [
+    "Ficha de personagens/Hadalberto.md",
+    "Ficha de personagens/Barbarian.md",
     "session notes/2026-06-06.md",
     "Malcor.md",
     "session notes/2026-05-16.md",
@@ -389,9 +392,7 @@
     "session notes/2026-04-04.md",
     "session notes/2026-03-24.md",
     "session notes/2026-03-14.md",
-    "Ficha de personagens/Barbarian.md",
     "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Classes/Myconid.md",
     "Ficha de personagens/attachments/Peckii.png",
     "Ficha de personagens/Valfrrex.md",
