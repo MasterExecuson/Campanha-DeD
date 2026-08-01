@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "437ce725e9a17beb",
+        "id": "e194ef5a2809c0cb",
         "type": "tabs",
         "children": [
           {
-            "id": "fbdd222211f3dca1",
+            "id": "2ccc22845e444b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Bregos/Chinfrin.md",
+                "file": "backstory/Varfrrex - clerigo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chinfrin"
+              "title": "Varfrrex - clerigo"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:diário",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,16 +95,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58c34f7f103dbe55",
+        "id": "bc2ec526012743b5",
         "type": "tabs",
         "children": [
           {
-            "id": "76fde20d4f249eb0",
+            "id": "ccc096fff2d8d2c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Links inversos para Valfrrex"
             }
           },
           {
-            "id": "5fdea5aef1788f10",
+            "id": "2953832421b8099e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dungeon_master_notes/Sem título.md",
+                "file": "World Notes/Vagner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Sem título"
+              "title": "Links de saída para Vagner"
             }
           },
           {
-            "id": "4f9efd337176b097",
+            "id": "a77a2ffccea3e07c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,32 +147,53 @@
             }
           },
           {
-            "id": "847aa98f7dfa9478",
+            "id": "14871ea5c0f5d2d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "World Notes/Vagner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "e084aef41f11a15e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Sumário de Vagner"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "3a1b003dceb9940f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e277990aaa1e10a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_7a0808299a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 653
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_19c968eb5b09"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,66 +202,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fbdd222211f3dca1",
+  "active": "2ccc22845e444b41",
   "lastOpenFiles": [
-    "World Notes/Chinfrin.md",
-    "World Notes/Bregos/Chinfrin.md",
-    "session notes/2026-08-01.md",
-    "Ficha de personagens/Peckii.md",
-    "World Notes/Lore/Religiões em Tiresse.md",
-    "World Notes/Lore/Sobre a Floresta Cariuna.md",
-    "World Notes/Bregos/Atanuwë.md",
-    "session notes/2026-06-06.md",
-    "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
-    "session notes/2026-03-24.md",
-    "session notes/2026-03-14.md",
-    "World Notes/attachments/Pasted image 20260801104257.png",
-    "World Notes/Cariuna.md",
-    "World Notes/Curas.md",
-    "World Notes/World Map - Cariuna.md",
-    "Malcor.md",
-    "World Notes/Carcanhar.md",
-    "Ficha de personagens/Classes/Myconid.md",
     "Ficha de personagens/Valfrrex.md",
-    "Ficha de personagens/Ida.md",
-    "Ficha de personagens/Barbarian.md",
-    "World Notes/Corte da Geada/Elfos da Geada.md",
-    "World Notes/Corte da Geada/Drumen Nol.md",
-    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
-    "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
-    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "World Notes/Corte da Geada/Relógio de sol.md",
-    "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
-    "Ficha de personagens/Classes",
-    "World Notes/attachments/Dolmenwood Player's Map.png",
-    "World Notes/attachments/Pasted image 20260403221651.png",
-    "Regras",
+    "World Notes/attachments/Pasted image 20260801104257.png",
+    "World Notes/Chinfrin.md",
+    "session notes/attachments/Pasted image 20260404120201.png",
+    "session notes/2026-08-01.md",
+    "session notes/2026-06-06.md",
+    "session notes/2026-05-16.md",
+    "session notes/2026-05-02.md",
+    "attachments/Pasted image 20260404124851.png",
+    "attachments/Pasted image 20260404124656.png",
+    "attachments",
+    "World Notes/Tumba.md",
+    "World Notes/Mabel.md",
+    "World Notes/Lore/Sobre a Floresta Cariuna.md",
+    "World Notes/Lore/Religiões em Tiresse.md",
+    "World Notes/Lore/Regiões de Cariuna.md",
+    "World Notes/Lore/Povos de Cariuna.md",
+    "World Notes/Lore/Cidades de Cariuna.md",
+    "World Notes/Lore/Casas nobres de Cariuna.md",
     "World Notes/Lore",
-    "World Notes/attachments/1owyN2D.png",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
-    "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
     "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
     "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png",
-    "attachments",
+    "World Notes/Corte da Geada/attachments/cavaleiro-da-alvorada-mural.png",
+    "World Notes/Corte da Geada/Sussuro da vela.md",
+    "World Notes/Corte da Geada/Senhora do espelho prateado.md",
+    "World Notes/Corte da Geada/Senhor Sombra Osso.md",
+    "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
+    "World Notes/Corte da Geada/Relógio de sol.md",
+    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
+    "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
+    "World Notes/Corte da Geada/Elfos da Geada.md",
+    "World Notes/Corte da Geada/Drumen Nol.md",
+    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
     "World Notes/Corte da Geada/attachments",
     "World Notes/Corte da Geada",
+    "World Notes/Carcanhar.md",
+    "World Notes/Bregos/Rogério Burlle.md",
     "World Notes/Bregos",
+    "Regras",
+    "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
+    "Ficha de personagens/Classes",
     "session notes/attachments",
     "Ficha de personagens/attachments",
-    "World Notes/attachments"
+    "session notes"
   ]
 }
