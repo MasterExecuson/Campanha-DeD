@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-08-01.md",
+                "file": "Malcor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-01"
+              "title": "Malcor"
             }
           }
         ]
@@ -198,15 +198,17 @@
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
+    "World Notes/Miconídeos.md",
+    "World Notes/Bregos/Chinfrin.md",
+    "World Notes/Regiões",
+    "session notes/2026-08-01.md",
     "session notes/2026-06-06.md",
     "session notes/2026-05-16.md",
     "session notes/2026-05-02.md",
     "session notes/2026-04-04.md",
     "session notes/2026-03-24.md",
     "Ficha de personagens/Classes/Phyrexian Evangelist.md",
-    "World Notes/Bregos/Chinfrin.md",
     "World Notes/Bregos/Atanuwë.md",
-    "session notes/2026-08-01.md",
     "Ficha de personagens/Peckii.md",
     "World Notes/Chinfrin.md",
     "World Notes/Lore/Religiões em Tiresse.md",
@@ -224,7 +226,6 @@
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Barbarian.md",
     "World Notes/Corte da Geada/Elfos da Geada.md",
-    "World Notes/Corte da Geada/Drumen Nol.md",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
     "Ficha de personagens/Classes",
     "World Notes/attachments/Dolmenwood Player's Map.png",
@@ -242,7 +243,6 @@
     "World Notes/Corte da Geada",
     "World Notes/Bregos",
     "session notes/attachments",
-    "Ficha de personagens/attachments",
-    "World Notes/attachments"
+    "Ficha de personagens/attachments"
   ]
 }
