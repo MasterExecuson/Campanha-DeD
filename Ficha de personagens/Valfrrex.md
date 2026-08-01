@@ -90,6 +90,8 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 10. bilhete indecifrável sobre [[Rogério Burlle]]
 
 
+Comida: 10 + Xinicial -1
+
 # Personality
 ###### Personality Traits
 
