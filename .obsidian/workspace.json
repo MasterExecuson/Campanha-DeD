@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-08-01.md",
+                "file": "World Notes/Bregos/Chinfrin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-01"
+              "title": "Chinfrin"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -190,19 +192,18 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
+    "World Notes/Bregos/Atanuwë.md",
+    "session notes/2026-08-01.md",
     "World Notes/Bregos/Chinfrin.md",
     "Ficha de personagens/Peckii.md",
-    "session notes/2026-08-01.md",
     "World Notes/Chinfrin.md",
     "World Notes/Lore/Religiões em Tiresse.md",
     "World Notes/Lore/Sobre a Floresta Cariuna.md",
-    "World Notes/Bregos/Atanuwë.md",
     "session notes/2026-06-06.md",
     "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
     "session notes/2026-03-24.md",
