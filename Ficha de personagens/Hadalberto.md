@@ -86,7 +86,7 @@
 |         6          |          Ração          |     1      |
 |         7          |          Ração          |     1      |
 |         8          |          Ração          |     1      |
-|         9          |     Moedas de ouro      |     1      |
+|         9          |     Moedas de prata     |     9      |
 |         10         | Alabarda Homem Cobra ~~ |     1      |
 |         11         |           ~~            |     -      |
 |         12         |           ~~            |     -      |
