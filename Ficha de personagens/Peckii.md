@@ -69,7 +69,7 @@ Moedas de cobre | Moedas de prata | Moedas de ouro |
 :---:|:---:|:---:|
 0|1|9|
 
-1. Bolas de bolor (2)
+1. Bolas de bolor (3)
 2. Bolas de gude (20)
 3. Barbante (100")
 4. Tinta, pena e papel (5)
