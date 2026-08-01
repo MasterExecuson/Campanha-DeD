@@ -97,5 +97,5 @@
 |         17         |                         |            |
 # Passado
 
-Eu sou nativo a [[cariuna]]. Hadalberto. Eu sou um vassalo do clã escaramuro, uma casa nobre de [[cariuna]], e eu to familizarizado com o local. Eu sigo a igreja puritina.
+Eu sou nativo a [[Cariuna]]. Hadalberto. Eu sou um vassalo do clã escaramuro, uma casa nobre de [[Cariuna]], e eu to familizarizado com o local. Eu sigo a igreja puritina.
 Eu quero ser reconhecido, ganhar renome e ser reconhecido como um cavaleiro.
