@@ -61,6 +61,7 @@ Death/Poison | Wands | Paralysis | Breath | Spells | +/-
 Name | ATK Bonus | Hit | Damage Type | Range
 :---:|:---:|:---:|:---:|
 **Garras**  | +0 | 1d4 | +0 Slashing | 0
+**Alabarda**  | +1 | 1d6 | +0 Slashing | 0
 
 
 ## Spells
@@ -73,17 +74,17 @@ N/A|N/A|N/A|
 
 Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces | 
 :---:|:---:|:---:|:---:|:---:|
-0|0|0|508|0|
+0|0|0|8|0|
 
 1. Ink, quill, 5 sheets of paper
 2. Grapling Hook
 3. corda
 4. Ichor Flask
-5. Bracelete que parece valer um valor + [[Figura homem cobra quarto 10]] + [[joias sala 11]]
-6. Alabarda
-7. Alabarda
-8. Alabarda
-9. Anel Magico
+5. Bracelete que parece valer um valor + [[Figura homem cobra quarto 10]]
+6. 
+7. 
+8. 
+9. Coroa do Rei Cobra
 
 
 10. bilhete indecifrável sobre [[Rogério Burlle]]
