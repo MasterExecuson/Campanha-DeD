@@ -10,8 +10,8 @@ Legenda:
 	3. [[Casa do Vigário]]
 	4. [[Cemitério de Chinfrin]]
 	5. Estalagem "[[O Descanso do Chifre]]"
-	6. [[Casa de campo do Lorde Malbreto]]
-	7. Ferreiro de Chinfrin/Forja de Chinfrin
+	6. [[Casa de campo do Lorde Malbrar]]
+	7. [[Ferreiro de Chinfrin]]/[[Forja de Chinfrin]]
 	8. ?
 	9. ?
 	10. ?

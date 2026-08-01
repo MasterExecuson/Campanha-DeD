@@ -36,7 +36,7 @@ A **[[Casa Râmio]]**, sediada em Chinfrin, é a mais sagaz. Lorde Xadagor Râmi
 
 A **Casa Murquim** é caso à parte. Lorde Simeone Murquim é homem de quem todos falam mal e diante de quem todos se calam -- combinação que costuma sinalizar problema sério. Comanda uma cavalaria de elite a que chama de Cornos de Cólstoque, doze longicórnios temidos em todo o Alto Mundo. Tem a fama de cruel e a paciência do estrategista, combinação que se costuma encontrar em conquistadores antes que em senhores satisfeitos. Há rumores de revolta camponesa em suas terras, contidos pela mão pesada de costume. Há rumores piores quanto a planos contra os vizinhos. Não os repetirei, por prudência minha -- e porque o leitor pode imaginá-los sozinho.
 
-A **[[Casa Malbreto]]** completa o quadro. Lorde Grifeu Malbreto, meio-irmão de [[Lorde Râmio]], é devorado por inveja antiga e mal disfarçada. Cerca-se de companhia esquisita: alquimistas de procedência duvidosa, místicos itinerantes, uma biblioteca de tomos que a Igreja arderia em incinerar se o achasse oportuno. Desconfio que algo de feio se prepara naquele castelo -- embora seja igualmente possível que se trate apenas de mau gosto decorativo, pois mau gosto é hábito comum entre nobres ressentidos.
+A **[[Casa Malblar]]** completa o quadro. Lorde Grifeu Malblar, meio-irmão de [[Lorde Râmio]], é devorado por inveja antiga e mal disfarçada. Cerca-se de companhia esquisita: alquimistas de procedência duvidosa, místicos itinerantes, uma biblioteca de tomos que a Igreja arderia em incinerar se o achasse oportuno. Desconfio que algo de feio se prepara naquele castelo -- embora seja igualmente possível que se trate apenas de mau gosto decorativo, pois mau gosto é hábito comum entre nobres ressentidos.
 
 ---
 
