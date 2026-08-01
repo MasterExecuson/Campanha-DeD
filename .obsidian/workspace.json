@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna.md",
+                "file": "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Miconídeos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Casas nobres de Cariuna"
+              "title": "Miconídeos"
             }
           }
         ],
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "bdbdd1cf5c350d4f",
@@ -223,9 +223,18 @@
   },
   "active": "2cda11b9acf2e5db",
   "lastOpenFiles": [
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Povos de Cariuna.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Miconídeos.md",
+    "World Notes/Cariuna - Mundo/Lore/Sobre a Floresta Cariuna.md",
+    "World Notes/Cariuna - Mundo/Lore/Cidades de Cariuna.md",
+    "World Notes/Cariuna - Mundo/Lore/Regiões de Cariuna.md",
+    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna",
+    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna/Casas nobres de Cariuna.md",
     "session notes/2026-08-01.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Lorde Râmio.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Lorde Malbreto.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Casa de campo do Lorde Malbreto.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Chinfrin.md",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Lorde Malblar.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Vigário de Chinfrin.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Casa do Vigário.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Igreja de Chinfrin.md",
@@ -234,35 +243,26 @@
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse/Vagner.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Mabel.md",
-    "World Notes/Cariuna - Mundo/Povos/Bregos/Bregos.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Bregos.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse",
-    "World Notes/Cariuna - Mundo/Povos/Bregos/Atanuwë.md",
-    "World Notes/Cariuna - Mundo/Povos/Bregos/Rogério Burlle.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Atanuwë.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Rogério Burlle.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Carcanhar.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Ruínas do Castelo ao Norte de Carcanhar.md",
-    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna.md",
-    "World Notes/Cariuna - Mundo/Lore/Cidades de Cariuna.md",
-    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna.md",
-    "World Notes/Cariuna - Mundo/Lore/Regiões de Cariuna.md",
     "World Notes/Cariuna - Mundo/Lore/Religiões em Tiresse.md",
-    "World Notes/Cariuna - Mundo/Lore/Sobre a Floresta Cariuna.md",
     "session notes/2026-03-14.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin",
     "session notes/2026-03-24.md",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas/Tumba.md",
-    "World Notes/Cariuna - Mundo/Sul de Cariuna - Mata Alta.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas",
-    "World Notes/Cariuna - Mundo/Cariuna.md",
     "World Notes/Regiões/Cariuna - Mundo",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar",
-    "World Notes/Cariuna - Mundo/Povos",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna",
     "World Notes/Cariuna - Mundo",
     "World Notes/attachments/Pasted image 20260801104257.png",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
     "Ficha de personagens/Classes",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
-    "Regras",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
