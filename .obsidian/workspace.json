@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Peckii.md",
-                "mode": "preview",
+                "file": "session notes/2026-08-01.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Peckii"
+              "title": "2026-08-01"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
-    "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Peckii.md",
+    "Ficha de personagens/Valfrrex.md",
+    "Ficha de personagens/Barbarian.md",
+    "session notes/2026-08-01.md",
     "Ficha de personagens/Ida.md",
     "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Barbarian.md",
