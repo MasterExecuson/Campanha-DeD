@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Bregos/Chinfrin.md",
+                "file": "session notes/2026-08-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chinfrin"
+              "title": "2026-08-01"
             }
           }
         ]
@@ -192,21 +192,26 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
+    "session notes/2026-06-06.md",
+    "session notes/2026-05-16.md",
+    "session notes/2026-05-02.md",
+    "session notes/2026-04-04.md",
+    "session notes/2026-03-24.md",
+    "Ficha de personagens/Classes/Phyrexian Evangelist.md",
+    "World Notes/Bregos/Chinfrin.md",
     "World Notes/Bregos/Atanuwë.md",
     "session notes/2026-08-01.md",
-    "World Notes/Bregos/Chinfrin.md",
     "Ficha de personagens/Peckii.md",
     "World Notes/Chinfrin.md",
     "World Notes/Lore/Religiões em Tiresse.md",
     "World Notes/Lore/Sobre a Floresta Cariuna.md",
-    "session notes/2026-06-06.md",
     "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
-    "session notes/2026-03-24.md",
     "session notes/2026-03-14.md",
     "World Notes/attachments/Pasted image 20260801104257.png",
     "World Notes/Cariuna.md",
@@ -220,10 +225,6 @@
     "Ficha de personagens/Barbarian.md",
     "World Notes/Corte da Geada/Elfos da Geada.md",
     "World Notes/Corte da Geada/Drumen Nol.md",
-    "World Notes/Corte da Geada/Cavaleiro da Alvorada que nunca chega.md",
-    "World Notes/Corte da Geada/Fome, Apito, Esguio.md",
-    "World Notes/Corte da Geada/Príncipe de 7 depois do meio dia.md",
-    "World Notes/Corte da Geada/Relógio de sol.md",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
     "Ficha de personagens/Classes",
     "World Notes/attachments/Dolmenwood Player's Map.png",
