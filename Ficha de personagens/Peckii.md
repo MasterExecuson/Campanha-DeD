@@ -1,7 +1,7 @@
 # Peckii
  
 ![[Peckii.png]]
->Oii
+>Oii, eu sou Peckii
 
 
  |  |

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-08-01.md",
-                "mode": "source",
+                "file": "Ficha de personagens/Ida.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-01"
+              "title": "Ida"
             }
           }
         ]
@@ -197,9 +197,9 @@
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
     "Ficha de personagens/Peckii.md",
-    "Ficha de personagens/Classes/Myconid.md",
     "Ficha de personagens/Ida.md",
     "session notes/2026-08-01.md",
+    "Ficha de personagens/Classes/Myconid.md",
     "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Barbarian.md",
     "session notes/2026-06-06.md",
