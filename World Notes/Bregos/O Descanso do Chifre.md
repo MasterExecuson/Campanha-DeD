@@ -1,1 +1,0 @@
-Estalagem simples em [[World Notes/Bregos/Chinfrin]]. Tem uma taverna no primeiro andar.

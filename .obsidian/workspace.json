@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malcor.md",
+                "file": "World Notes/Lore/Povos de Cariuna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Malcor"
+              "title": "Povos de Cariuna"
             }
           }
         ]
@@ -198,8 +198,17 @@
   },
   "active": "fbdd222211f3dca1",
   "lastOpenFiles": [
+    "World Notes/Lore/Sobre a Floresta Cariuna.md",
+    "World Notes/Lore/Religiões em Tiresse.md",
+    "World Notes/Lore/Casas nobres de Cariuna.md",
+    "World Notes/Lore/Cidades de Cariuna.md",
+    "World Notes/Lore/Povos de Cariuna.md",
+    "World Notes/Lore/Regiões de Cariuna.md",
+    "Malcor.md",
+    "World Notes/Povos",
+    "World Notes/Untitled.md",
     "World Notes/Miconídeos.md",
-    "World Notes/Bregos/Chinfrin.md",
+    "World Notes/Povos/Bregos/Chinfrin.md",
     "World Notes/Regiões",
     "session notes/2026-08-01.md",
     "session notes/2026-06-06.md",
@@ -208,24 +217,16 @@
     "session notes/2026-04-04.md",
     "session notes/2026-03-24.md",
     "Ficha de personagens/Classes/Phyrexian Evangelist.md",
-    "World Notes/Bregos/Atanuwë.md",
+    "World Notes/Povos/Bregos/Atanuwë.md",
     "Ficha de personagens/Peckii.md",
     "World Notes/Chinfrin.md",
-    "World Notes/Lore/Religiões em Tiresse.md",
-    "World Notes/Lore/Sobre a Floresta Cariuna.md",
     "World Notes/Corte da Geada/Ruínas do Castelo ao Norte de Carcanhar.md",
     "session notes/2026-03-14.md",
     "World Notes/attachments/Pasted image 20260801104257.png",
     "World Notes/Cariuna.md",
     "World Notes/Curas.md",
     "World Notes/World Map - Cariuna.md",
-    "Malcor.md",
     "World Notes/Carcanhar.md",
-    "Ficha de personagens/Classes/Myconid.md",
-    "Ficha de personagens/Valfrrex.md",
-    "Ficha de personagens/Ida.md",
-    "Ficha de personagens/Barbarian.md",
-    "World Notes/Corte da Geada/Elfos da Geada.md",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
     "Ficha de personagens/Classes",
     "World Notes/attachments/Dolmenwood Player's Map.png",
@@ -241,8 +242,7 @@
     "attachments",
     "World Notes/Corte da Geada/attachments",
     "World Notes/Corte da Geada",
-    "World Notes/Bregos",
-    "session notes/attachments",
-    "Ficha de personagens/attachments"
+    "World Notes/Povos/Bregos",
+    "session notes/attachments"
   ]
 }

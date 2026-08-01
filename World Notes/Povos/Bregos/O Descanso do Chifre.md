@@ -1,0 +1,1 @@
+Estalagem simples em [[Chinfrin]]. Tem uma taverna no primeiro andar.
