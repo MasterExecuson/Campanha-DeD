@@ -7,8 +7,8 @@ Esse território pertence ao [[Bregos]]. Os cidadãos de [[Chinfrin]] ainda mant
 Legenda:
 	1.  [[Igreja de Chinfrin]]
 	2. [[Praça central de Chinfrin]]
-	3. Casa do Vigário
-	4. Cemitério de Chinfrin
+	3. [[Casa do Vigário]]
+	4. [[Cemitério de Chinfrin]]
 	5. Estalagem "[[O Descanso do Chifre]]"
 	6. [[Casa de campo do Lorde Malbreto]]
 	7. Ferreiro de Chinfrin/Forja de Chinfrin
