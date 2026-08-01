@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Peckii.md",
+                "file": "session notes/2026-06-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -138,7 +138,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Peckii"
+              "title": "2026-06-06"
+            }
+          },
+          {
+            "id": "86222d08aaa7ca26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.13.4"
             }
           },
           {
@@ -214,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -234,7 +246,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -375,8 +389,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "883b999fd073f6d8",
+  "active": "86222d08aaa7ca26",
   "lastOpenFiles": [
+    "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
+    "Ficha de personagens/attachments/Peckii.png",
+    "Ficha de personagens/attachments/knight.png",
+    "dungeon_master_notes/Prep/Sessão 5.md",
+    "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Valfrrex.md",
     "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Barbarian.md",
@@ -386,20 +405,15 @@
     "Sem título.md",
     "README.md",
     "dungeon_master_notes/Prep/Itens/Anel Venal.md",
-    "dungeon_master_notes/Prep/Sessão 5.md",
-    "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
     "session notes/2026-05-02.md",
     "session notes/2026-04-04.md",
     "session notes/2026-03-24.md",
     "session notes/2026-03-14.md",
-    "Ficha de personagens/Peckii.md",
     "Ficha de personagens/Classes/Myconid.md",
-    "Ficha de personagens/attachments/Peckii.png",
     "Ficha de personagens/Ida.md",
     "Regras/Descanso.md",
     "dungeon_master_notes/Prep/Itens",
     "dungeon_master_notes/{Outline} Elfos.md",
-    "Ficha de personagens/attachments/knight.png",
     "World Notes/Cariuna.md",
     "dungeon_master_notes/Prep",
     "World Notes/Tumba.md",
@@ -407,7 +421,6 @@
     "Ficha de personagens/Classes/Phyrexian Evangelist.md",
     "dungeon_master_notes/Mushroom List.md",
     "dungeon_master_notes/Edumir Galafrinel.md",
-    "dungeon_master_notes/Facções de Dolmenwood.md",
     "Ficha de personagens/Classes",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
