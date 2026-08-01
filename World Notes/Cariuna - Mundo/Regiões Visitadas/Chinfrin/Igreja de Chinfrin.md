@@ -1,0 +1,1 @@
+Localizada no centro de Chinfrin. Onde trabalha o [[Vigário de Chinfrin]].

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Regiões/Cariuna.md",
+                "file": "session notes/2026-03-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cariuna"
+              "title": "2026-03-14"
+            }
+          },
+          {
+            "id": "2cda11b9acf2e5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Casas nobres de Cariuna"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:diário",
+                "query": "chin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +98,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -196,53 +221,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4d5b1fc35c851b1c",
+  "active": "2cda11b9acf2e5db",
   "lastOpenFiles": [
-    "World Notes/Regiões/Carcanhar",
-    "World Notes/Regiões/Untitled.md",
-    "World Notes/Regiões/Cariuna.md",
-    "World Notes/Regiões/Carcanhar/Ruínas do Castelo ao Norte de Carcanhar.md",
-    "World Notes/Corte da Geada/Drumen Nol.md",
-    "World Notes/Regiões/World Map - Cariuna.md",
-    "World Notes/Regiões/Tumba.md",
-    "World Notes/Mabel.md",
-    "World Notes/Regiões/Regiões de Cariuna.md",
-    "World Notes/Povos/Povos de Cariuna.md",
-    "World Notes/Lore/Sobre a Floresta Cariuna.md",
-    "World Notes/Lore/Religiões em Tiresse.md",
-    "World Notes/Lore/Casas nobres de Cariuna.md",
-    "World Notes/Lore/Cidades de Cariuna.md",
-    "Malcor.md",
-    "World Notes/Povos",
-    "World Notes/Untitled.md",
-    "World Notes/Povos/Miconídeos.md",
-    "World Notes/Povos/Bregos/Chinfrin.md",
-    "World Notes/Regiões",
     "session notes/2026-08-01.md",
-    "session notes/2026-06-06.md",
-    "session notes/2026-05-16.md",
-    "session notes/2026-05-02.md",
-    "session notes/2026-04-04.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Chinfrin.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Lorde Malblar.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Vigário de Chinfrin.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Casa do Vigário.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Igreja de Chinfrin.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Praça central de Chinfrin.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/O Descanso do Chifre.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse/Vagner.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Mabel.md",
+    "World Notes/Cariuna - Mundo/Povos/Bregos/Bregos.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse",
+    "World Notes/Cariuna - Mundo/Povos/Bregos/Atanuwë.md",
+    "World Notes/Cariuna - Mundo/Povos/Bregos/Rogério Burlle.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Carcanhar.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Ruínas do Castelo ao Norte de Carcanhar.md",
+    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna.md",
+    "World Notes/Cariuna - Mundo/Lore/Cidades de Cariuna.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna.md",
+    "World Notes/Cariuna - Mundo/Lore/Regiões de Cariuna.md",
+    "World Notes/Cariuna - Mundo/Lore/Religiões em Tiresse.md",
+    "World Notes/Cariuna - Mundo/Lore/Sobre a Floresta Cariuna.md",
+    "session notes/2026-03-14.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin",
     "session notes/2026-03-24.md",
-    "Ficha de personagens/Classes/Phyrexian Evangelist.md",
-    "World Notes/Povos/Bregos/Atanuwë.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Tumba.md",
+    "World Notes/Cariuna - Mundo/Sul de Cariuna - Mata Alta.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas",
+    "World Notes/Cariuna - Mundo/Cariuna.md",
+    "World Notes/Regiões/Cariuna - Mundo",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar",
+    "World Notes/Cariuna - Mundo/Povos",
+    "World Notes/Cariuna - Mundo",
     "World Notes/attachments/Pasted image 20260801104257.png",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
     "Ficha de personagens/Classes",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
     "Regras",
-    "World Notes/Lore",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
     "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
-    "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png",
-    "attachments",
-    "World Notes/Corte da Geada/attachments",
-    "World Notes/Corte da Geada",
-    "World Notes/Povos/Bregos",
-    "session notes/attachments"
+    "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png"
   ]
 }
