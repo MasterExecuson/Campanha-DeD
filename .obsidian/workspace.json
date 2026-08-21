@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Ida.md",
+                "file": "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Casa de campo do Lorde Malblar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ida"
+              "title": "Casa de campo do Lorde Malblar"
             }
           },
           {
@@ -272,7 +272,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:diário",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -398,18 +398,20 @@
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "86222d08aaa7ca26",
+  "active": "4d5b1fc35c851b1c",
   "lastOpenFiles": [
+    "session notes/2026-08-01.md",
+    "Ficha de personagens/Ida.md",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
     "session notes/attachments/Pasted image 20260404093444.png",
     "session notes/attachments/Pasted image 20260404120201.png",
     "session notes/attachments/{381B8F30-4941-47F0-A137-E5ECF77DFF87}.png",
     "Malcor.md",
     "World Notes/Curas.md",
-    "session notes/2026-08-01.md",
     "World Notes/Povos do Subterrâneo/Miconídeos.md",
     "Ficha de personagens/Hadalberto.md",
     "Ficha de personagens/Peckii.md",
@@ -428,7 +430,7 @@
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Forja de Chinfrin.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Cemitério de Chinfrin.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Casa do Vigário.md",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Casa de campo do Lorde Malbrar.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Casa de campo do Lorde Malblar.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse/Vagner.md",
     "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Rogério Burlle.md",
     "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Cornos e Chifrudos.md",
@@ -447,7 +449,6 @@
     "Ficha de personagens/attachments/knight.png",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
-    "World Notes/attachments/1owyN2D.png",
-    "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png"
+    "World Notes/attachments/1owyN2D.png"
   ]
 }
