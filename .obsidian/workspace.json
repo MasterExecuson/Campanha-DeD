@@ -171,7 +171,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Valfrrex.md",
+                "file": "session notes/2026-09-05.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -186,7 +186,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Valfrrex"
+              "title": "2026-09-05"
             }
           },
           {
@@ -427,6 +427,8 @@
   },
   "active": "c30eda0e53ed84d8",
   "lastOpenFiles": [
+    "session notes/attachments/rei-bichano 1.png",
+    "Ficha de personagens/Valfrrex.md",
     "session notes/attachments/rei-bichano.png",
     "session notes/2026-09-05.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Rogério Burle.md",
@@ -460,7 +462,6 @@
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Cemitério de Chinfrin.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Casa do Vigário.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse/Vagner.md",
-    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Rogério Burlle.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse",
@@ -471,7 +472,6 @@
     "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna",
     "World Notes/Cariuna - Mundo/Regiões Visitadas",
     "Ficha de personagens/attachments/Peckii.png",
-    "Ficha de personagens/attachments/knight.png",
-    "World Notes/attachments/Pasted image 20260403221651.png"
+    "Ficha de personagens/attachments/knight.png"
   ]
 }
