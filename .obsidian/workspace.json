@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0de728297c824bc7",
+        "id": "437ce725e9a17beb",
         "type": "tabs",
         "children": [
           {
-            "id": "34729ecf9ba45d7f",
+            "id": "fbdd222211f3dca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Hadalberto.md",
-                "mode": "preview",
+                "file": "session notes/2026-03-14.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Rogério Burlle.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rogério Burlle"
+              "title": "Valfrrex"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:diário",
+                "query": "chin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -114,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 382.5
   },
   "right": {
     "id": "bdbdd1cf5c350d4f",
@@ -220,8 +221,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "34729ecf9ba45d7f",
+  "active": "2cda11b9acf2e5db",
   "lastOpenFiles": [
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Rogério Burlle.md",
     "Ficha de personagens/Valfrrex.md",
     "session notes/2026-09-05.md",
     "session notes/2026-08-01.md",
@@ -240,40 +242,32 @@
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Ferreiro de Chinfrin.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Forja de Chinfrin.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin",
-    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Rogério Burlle.md",
     "session notes/2026-03-24.md",
     "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Atanuwë.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Casa do Vigário.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Igreja de Chinfrin.md",
     "World Notes/Povos do Subterrâneo/Miconídeos.md",
+    "Malcor.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Povos de Cariuna.md",
     "World Notes/Povos do Subterrâneo",
     "World Notes/Cariuna - Mundo/Lore/Sobre a Floresta Cariuna.md",
     "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Chinfrin.md",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Ruínas do Castelo ao Norte de Carcanhar.md",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Carcanhar.md",
-    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Povos de Cariuna.md",
-    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos",
-    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna/Casas nobres de Cariuna.md",
-    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna/Casa Râmio.md",
-    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna/Casa Malblar.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas",
+    "World Notes/Regiões/Cariuna - Mundo",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar",
     "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna",
-    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna",
-    "World Notes/Cariuna - Mundo/Regiões Visitadas",
+    "World Notes/attachments/Pasted image 20260801104257.png",
     "Ficha de personagens/attachments/yhzs1kih7fq61.jpg",
-    "Ficha de personagens/attachments/Peckii.png",
     "World Notes/attachments/Dolmenwood Player's Map.png",
     "World Notes/attachments/Pasted image 20260403221651.png",
     "World Notes/attachments/1owyN2D.png",
     "World Notes/Corte da Geada/attachments/Sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/sussurro-da-vela-mural.png",
     "World Notes/Corte da Geada/attachments/Senhora-do-espelho-prateado-mural 1.png",
-    "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png"
+    "World Notes/Corte da Geada/attachments/Principe-da-Geada-mural.png",
+    "World Notes/Corte da Geada/attachments/Fome-Apito-Esguio-Mural.png"
   ]
 }
