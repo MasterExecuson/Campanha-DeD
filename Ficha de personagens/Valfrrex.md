@@ -87,7 +87,7 @@ Copper Pieces | Silver Pieces | Electrum Pieces | Gold Pieces | Platinum Pieces 
 9. Coroa do Rei Cobra
 
 
-10. bilhete indecifrável sobre [[Rogério Burlle]]
+10. bilhete indecifrável sobre [[Rogério Burle]]
 
 
 Comida: 10 + Xinicial -1
