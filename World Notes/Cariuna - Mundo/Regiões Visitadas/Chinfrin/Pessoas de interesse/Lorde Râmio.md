@@ -1,4 +1,4 @@
-Lorde Xadagor Râmio, meio-irmão de [[Lorde Malblar]].
+Lorde Xadagor Râmio, meio-irmão de [[Lorde Malblar]], chefe da [[Casa Râmio]].
 
 Culto, paciente, de fala medida e ouvido excelente. 
 
