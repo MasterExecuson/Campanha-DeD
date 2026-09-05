@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ficha de personagens/Hadalberto.md",
-                "mode": "preview",
+                "file": "session notes/2026-03-14.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,127 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hadalberto"
+              "title": "2026-03-14"
+            }
+          },
+          {
+            "id": "2cda11b9acf2e5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficha de personagens/Valfrrex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Valfrrex"
+            }
+          },
+          {
+            "id": "2da8b4f99b83ee9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ficha de personagens/Valfrrex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Valfrrex"
+            }
+          },
+          {
+            "id": "97b276720f838f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session notes/2026-08-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-01"
+            }
+          },
+          {
+            "id": "ed0215989a682956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna/Casas nobres de Cariuna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Casas nobres de Cariuna"
+            }
+          },
+          {
+            "id": "f2e1b61f5412efaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session notes/2026-09-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-05"
             }
           }
         ]
@@ -198,6 +318,17 @@
   },
   "active": "34729ecf9ba45d7f",
   "lastOpenFiles": [
+    "Ficha de personagens/Peckii.md",
+    "session notes/2026-09-05.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Cornos e Chifrudos.md",
+    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna/Casa Râmio.md",
+    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna/Casas nobres de Cariuna.md",
+    "session notes/2026-08-01.md",
+    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna/Casa Malblar.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Lorde Malblar.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Lorde Râmio.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Casa de campo do Lorde Malblar.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Atanuwë.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Rogério Burle.md",
     "Ficha de personagens/Valfrrex.md",
     "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Rogério Burlle.md",
@@ -224,7 +355,10 @@
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse/Vagner.md",
     "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Cornos e Chifrudos.md",
     "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Bregos.md",
-    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Atanuwë.md",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin",
+    "World Notes/Povos do Subterrâneo",
+    "World Notes/Cariuna - Mundo/Lore/Casas nobres de Cariuna",
+    "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Chinfrin.md",
