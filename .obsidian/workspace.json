@@ -171,7 +171,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session notes/2026-09-05.md",
+                "file": "Ficha de personagens/Valfrrex.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -186,7 +186,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-05"
+              "title": "Valfrrex"
             }
           },
           {
@@ -287,7 +287,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -413,22 +413,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "c30eda0e53ed84d8",
   "lastOpenFiles": [
     "session notes/attachments/rei-bichano 1.png",
-    "Ficha de personagens/Valfrrex.md",
     "session notes/attachments/rei-bichano.png",
     "session notes/2026-09-05.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse/Rogério Burle.md",
@@ -462,6 +462,7 @@
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Cemitério de Chinfrin.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin/Casa do Vigário.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse/Vagner.md",
+    "World Notes/Cariuna - Mundo/Lore/Povos de Cariuna/Bregos/Rogério Burlle.md",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Pessoas de interesse",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Chinfrin/Localidades de Chinfrin",
     "World Notes/Cariuna - Mundo/Regiões Visitadas/Carcanhar/Pessoas de interesse",
